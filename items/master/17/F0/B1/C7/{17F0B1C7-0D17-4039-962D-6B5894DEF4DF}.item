@@ -1,0 +1,146 @@
+----item----
+version: 1
+id: {17F0B1C7-0D17-4039-962D-6B5894DEF4DF}
+database: master
+path: /sitecore/content/Legal/Home/Our Team/Mark Chase
+parent: {AC67D144-7CAC-4D7F-A40A-9F800F2C8F7C}
+name: Mark Chase
+master: {00000000-0000-0000-0000-000000000000}
+template: {75E42A73-0AE1-44C5-AC04-C9D5C4568680}
+templatekey: Employee
+created: 20160715T155323:636041948030970000
+
+----field----
+field: {B0A67B2A-8B07-4E0B-8809-69F751709806}
+name: __Tracking
+key: __tracking
+content-length: 286
+
+<tracking><profile id="{AD3B7C5C-5BDD-4000-91CF-57F7407F9050}" name="Legal Persona"><key name="Self-employed" value="2" /><key name="Large Corporate" value="5" /><key name="Legal trade" value="5" /><key name="Personal-Civil" value="0" /><key name="B2B" value="2" /></profile></tracking>
+----version----
+language: en
+version: 1
+revision: 297a700d-9c15-4811-a972-b5f93bb48dfe
+
+----field----
+field: {0CC9785E-54FE-4FAE-93E4-D0D2AE75F339}
+name: Biography
+key: biography
+content-length: 1713
+
+<p style="margin-left: 13.5pt;"><span>Mark is one of the founders of the firm. He began his law career in 1960 in San Francisco, and for over 55 years his legal career has mirrored the business climate of the State. Mark’s expertise focuses in the fields of business formation, business transactions, financings and acquisitions, and counsel to corporations. He has served as a member of corporate boards of directors.</span></p>
+<p style="margin-left: 13.5pt;"><span>Mark is a member of the State Bar Executive Committee, member of the State Bar Commission, and delegate to the State Bar Conference of Delegates. He has presented many business law related and estate planning programs for Stanford Continuing Education of the Bar and lectured at Stanford School of Law. Mark was president of the San Francisco County Legal Aid Society and member of the Advisory Committee of Legal Services of Northern California. He was recognized on The Best Lawyers in America 2009, 2012, 2014, and this year in 2015.</span></p>
+<p style="margin-left: 13.5pt;"><span>Mark also donates much of his time towards pro-bono activities within his community, including involvement with the San Francisco Regional Foundation, San Francisco Light Civic Opera Association, Stanford Graduate School of Management, Stanford University CharitableTrust, KQED public radio, SFMOMA, and St. Vincent de Paul Society.</span></p>
+<p style="margin-left: 13.5pt;"><span>In his personal life, Mark has been happily married to is wife Marie for over fifty years. They have  five children and seven grandchildren. His personal interests include art, music, film, theater, literature, and cycling. Mark now resides in Carmel, California.</span></p>
+----field----
+field: {26CD59AB-3639-488F-BAFD-58D2B217755A}
+name: Name
+key: name
+content-length: 13
+
+Mark T. Chase
+----field----
+field: {76972FCD-4BB0-4255-864E-077745EFDF50}
+name: Title
+key: title
+content-length: 15
+
+General Counsel
+----field----
+field: {C9BAF3EB-8CFA-4BF6-9B19-51D38DB5FC38}
+name: Picture
+key: picture
+content-length: 64
+
+<image mediaid="{CED90285-5ADA-423D-AF9D-16B2B1DFC3CC}"></image>
+----field----
+field: {B897023C-15D2-49F3-8974-06FA5FB7AD00}
+name: Summary
+key: summary
+content-length: 178
+
+Mark is one of the founders of the firm. He began his law career in 1960 in San Francisco, and for over 55 years his legal career has mirrored the business climate of the State. 
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 10
+
+Mark Chase
+----field----
+field: {8D0E8EE3-21C4-4AE2-A2F1-53D3F3EBE501}
+name: Telephone
+key: telephone
+content-length: 15
+
++1-912-555-2845
+----field----
+field: {25B4CEE3-A61A-4DC3-BB52-775DD509DBB5}
+name: Mobile
+key: mobile
+content-length: 15
+
++1-912-555-8478
+----field----
+field: {5978B330-1D46-4065-8751-F74BF17D815E}
+name: Email
+key: email
+content-length: 26
+
+mark.chase@chaseridley.com
+----field----
+field: {0EE2F208-1FEE-42FC-8051-6696D49A92BF}
+name: OpenGraphTitle
+key: opengraphtitle
+content-length: 10
+
+Mark Chase
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 10
+
+Mark Chase
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 111
+
+Mark Chase, founder, business formation, business law, transactions, financing, acquisitions, corporate counsel
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 1294
+
+<r xmlns:p="p" xmlns:s="s" p:p="1" s:xsd="http://www.w3.org/2001/XMLSchema"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><p uid="{87190E6F-0A13-4A13-93B2-C66A0CE6D740}" p:before="r[@uid='{A9FAFDB1-E75B-491D-880F-4EA315B74487}']" s:key="/page-layout/sidebar" s:md="/sitecore/layout/Placeholder Settings/Project/Legal/sidebar" /><r uid="{A9FAFDB1-E75B-491D-880F-4EA315B74487}" p:before="r[@uid='{C0B6182B-18A6-4E84-B39C-E54AB6E993B7}']" s:ds="{6C120B9D-8923-43F3-A0C3-CC4A8A07FDF4}" s:id="{A25C9850-AAB7-46A6-84B7-0DFAB32FC357}" s:ph="/footer/section/col-wide-1_fef37f9b-f799-4f99-b246-71b76818d121" /><r uid="{C0B6182B-18A6-4E84-B39C-E54AB6E993B7}" p:before="r[@uid='{FEF37F9B-F799-4F99-B246-71B76818D121}']" s:ds="{2AA6D06E-4B12-411F-BA11-9AC1D0D2BDD7}" s:id="{A1AD34DD-535E-47AF-A911-34C57CCC26F6}" s:ph="/footer/section/col-narrow-1_fef37f9b-f799-4f99-b246-71b76818d121" /><r uid="{FEF37F9B-F799-4F99-B246-71B76818D121}" p:before="r[@uid='{07C9FE71-A5E2-4E5F-B276-5F2B73481D44}']" s:id="{E6D8107A-D811-4826-82BB-1A6279830C5A}" s:ph="/footer/section" /><r uid="{FBE1D835-CB96-4AC5-A732-5A31432E7F04}" p:before="r[@uid='{565F9960-4E47-4DA4-9406-0A29DD09911F}']" s:ds="{3C9607A2-104E-4753-A88D-C575CFA478F1}" s:id="{781C6B36-4B02-46EA-8ADC-B92A11877F10}" s:ph="/page-layout/sidebar" /></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20151216T040631Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+297a700d-9c15-4811-a972-b5f93bb48dfe
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160715T155323Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

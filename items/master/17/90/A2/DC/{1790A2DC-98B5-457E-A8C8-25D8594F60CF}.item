@@ -1,0 +1,87 @@
+----item----
+version: 1
+id: {1790A2DC-98B5-457E-A8C8-25D8594F60CF}
+database: master
+path: /sitecore/system/Modules/E-mail Campaign Manager/Common Text/Cannot Create Anonymous
+parent: {1F01DD94-CEDF-43F7-BFB4-ED1B6BED7E42}
+name: Cannot Create Anonymous
+master: {00000000-0000-0000-0000-000000000000}
+template: {76D41116-0577-4DEF-8435-A622E9E06A8F}
+templatekey: Front End Text
+created: 20160715T154809:636041944890930000
+
+----version----
+language: en
+version: 1
+revision: cdabf674-b953-43af-8700-57a2980f910f
+
+----field----
+field: {E2236E26-714E-4AA2-8ED2-C782452BF1F4}
+name: Text
+key: text
+content-length: 113
+
+There was an error creating the subscriber as an email address was not provided. Please provide an email address.
+----field----
+field: {5D432D0E-7464-4801-933B-9D2DDC14E4F7}
+name: Comments
+key: comments
+content-length: 103
+
+Error displayed when no email address is provided as the system does not support anonymous subscribers.
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 17
+
+No Email Provided
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20090110T105000
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+cdabf674-b953-43af-8700-57a2980f910f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20121120T131013:634890138136928217
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

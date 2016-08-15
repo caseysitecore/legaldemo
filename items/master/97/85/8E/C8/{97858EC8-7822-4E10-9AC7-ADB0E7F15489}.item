@@ -1,0 +1,81 @@
+----item----
+version: 1
+id: {97858EC8-7822-4E10-9AC7-ADB0E7F15489}
+database: master
+path: /sitecore/system/Marketing Control Panel/Profiles/Legal Persona/Pattern Cards/Lucas the Lawyer
+parent: {000C8311-1AB4-40BF-9B09-E4917B7BE5C9}
+name: Lucas the Lawyer
+master: {00000000-0000-0000-0000-000000000000}
+template: {4A6A7E36-2481-438F-A9BA-0453ECC638FA}
+templatekey: Pattern Card
+created: 20160715T155329:636041948092270000
+
+----field----
+field: {FE732790-2DDB-4657-A882-C2FCE1FBF0C9}
+name: Name
+key: name
+content-length: 16
+
+Lucas the Lawyer
+----field----
+field: {98535F26-6C9D-4FD7-A7E2-392C7CB82D65}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{84341A3D-8C38-4B4E-B3E8-12422B9F4360}" />
+----field----
+field: {6DA71AD3-5849-4482-9317-D21390E5A348}
+name: Pattern
+key: pattern
+content-length: 326
+
+<tracking>
+  <profile id="{AD3B7C5C-5BDD-4000-91CF-57F7407F9050}" name="Legal Persona">
+    <key name="Self-employed" value="1" />
+    <key name="Large Corporate" value="3" />
+    <key name="Legal trade" value="5" />
+    <key name="Personal-Civil" value="4" />
+    <key name="B2B" value="5" />
+  </profile>
+</tracking>
+----version----
+language: en
+version: 1
+revision: 48b67802-42d2-42ab-adbe-baf08b2176d0
+
+----field----
+field: {03DB5C50-D4BF-4E87-9AB4-0E5B4BF4E1A9}
+name: Description
+key: description
+content-length: 363
+
+<p style="margin: 0cm 0cm 0pt;">Lucas is a Managing Partner at a midsize law firm. As a lawyer, his interests reflect following the latest challenges facing all law firms in this day and age&mdash;issues like privacy and cybersecurity&mdash;as well as trade-oriented content specific to the trade such as marketing, social, branded content, and industry news.</p>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160104T144822Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+48b67802-42d2-42ab-adbe-baf08b2176d0
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160715T155329Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

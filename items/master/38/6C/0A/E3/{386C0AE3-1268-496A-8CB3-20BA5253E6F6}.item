@@ -1,0 +1,66 @@
+----item----
+version: 1
+id: {386C0AE3-1268-496A-8CB3-20BA5253E6F6}
+database: master
+path: /sitecore/layout/Renderings/Email Campaign/ReviewHistoryWatcher
+parent: {A688EF23-B1C3-4594-851A-22A0A4FAEBF3}
+name: ReviewHistoryWatcher
+master: {00000000-0000-0000-0000-000000000000}
+template: {1DDE3F02-0BD7-4779-867A-DC578ADF91EA}
+templatekey: Webcontrol
+created: 20160715T154803:636041944835800000
+
+----field----
+field: {1F424EB0-6138-4BC4-93B0-BD45EC6B1CB2}
+name: Namespace
+key: namespace
+content-length: 38
+
+Sitecore.EmailCampaign.Presentation.UI
+----field----
+field: {B8979E80-7623-4B3A-BFD2-3F3F05883D58}
+name: Tag
+key: tag
+content-length: 20
+
+ReviewHistoryWatcher
+----field----
+field: {C50B1F5B-26DA-476A-AAC6-9B734975971C}
+name: Assembly
+key: assembly
+content-length: 42
+
+Sitecore.EmailCampaign.Presentation.UI.dll
+----version----
+language: en
+version: 1
+revision: c1218caf-1a8f-4fe6-a28c-46d7190e6a74
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20121009T120052
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+c1218caf-1a8f-4fe6-a28c-46d7190e6a74
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20121009T120131:634853808915316369
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

@@ -1,0 +1,73 @@
+----item----
+version: 1
+id: {58A9E354-7DE3-469B-B902-79F067E63CB9}
+database: master
+path: /sitecore/templates/Branches/Email Campaign/Messages/NewsletterMVC/Simple Section/$name/Link 1
+parent: {21300FFD-C35C-47A8-9A6C-30DCF4CD71B0}
+name: Link 1
+master: {00000000-0000-0000-0000-000000000000}
+template: {4DF80BE6-AE83-40E4-81B4-480F7B60AE15}
+templatekey: Link
+created: 20160715T154758:636041944788670000
+
+----version----
+language: en
+version: 1
+revision: 1a975b4c-a8e8-4536-ac4d-429103a9d6cc
+
+----field----
+field: {6F9EFD52-70BB-4EE0-B7D3-1C8F8E6C4957}
+name: Text
+key: text
+content-length: 6
+
+Link 1
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 6
+
+Link 1
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20091127T113217
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\Anonymous
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+1a975b4c-a8e8-4536-ac4d-429103a9d6cc
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20110704T092339:634453682199902428
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

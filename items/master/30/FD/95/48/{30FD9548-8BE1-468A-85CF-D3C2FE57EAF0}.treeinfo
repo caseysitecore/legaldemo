@@ -1,0 +1,9 @@
+{
+  "itemName": "Analytics Tracking",
+  "templateId": "{E269FBB5-3750-427A-9149-7AA950B49301}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{3D51C8A9-246F-4EA4-A244-6580BDF73024}",
+  "childIds": [
+    "{088216E4-EE1A-4670-81E7-52C7028EBC61}"
+  ]
+}

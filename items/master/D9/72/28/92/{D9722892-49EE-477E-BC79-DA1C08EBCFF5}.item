@@ -1,0 +1,19 @@
+----item----
+version: 1
+id: {D9722892-49EE-477E-BC79-DA1C08EBCFF5}
+database: master
+path: /sitecore/system/Settings/Rules/Definitions/Tags/E-mail Campaign Manager
+parent: {DADB4F93-477F-491F-A905-C4005C452E67}
+name: E-mail Campaign Manager
+master: {60E3E35B-CEF9-4AFA-9F89-204ED015CCB9}
+template: {1A9B6300-4652-477C-A4B5-B2A64E86B29F}
+templatekey: Tag
+created: 20160715T154810:636041944908000000
+
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 38
+
+{0C559214-E3B6-418E-9E1C-8AF7B19FC20B}

@@ -1,0 +1,95 @@
+----item----
+version: 1
+id: {3C44CC07-77B9-4394-A337-1C9966064748}
+database: master
+path: /sitecore/content/Legal/Home/Accounts/Register Page
+parent: {AC931F1E-A59A-4658-AE45-BFFE9BDD4EF4}
+name: Register Page
+master: {00000000-0000-0000-0000-000000000000}
+template: {8203C85C-E9CA-4AA3-8345-032EF9EECBB4}
+templatekey: Register Page
+created: 20160715T155322:636041948028100000
+
+----version----
+language: en
+version: 1
+revision: e205e64a-e129-42ba-9800-fb8ebf8c35f3
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 29
+
+Register for our Legal Portal
+----field----
+field: {AC3FD4DB-8266-476D-9635-67814D91E901}
+name: Summary
+key: summary
+content-length: 218
+
+<p>Please register with our legal portal.Here you can collaborate directly with our great team of legal experts and gain direct access to all our valuable information.</p>
+<p>All you need is a valid email address.</p>
+----field----
+field: {9492E0BB-9DF9-46E7-8188-EC795C4ADE44}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{F2844FE0-9AE2-4311-8654-8279837A9F66}" />
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 13
+
+Register Page
+----field----
+field: {0EE2F208-1FEE-42FC-8051-6696D49A92BF}
+name: OpenGraphTitle
+key: opengraphtitle
+content-length: 13
+
+Register Page
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 13
+
+Register Page
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 3834
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{242C9A0C-7FC3-4E55-A834-289905C8E830}" p:before="*" s:ds="{6C120B9D-8923-43F3-A0C3-CC4A8A07FDF4}" s:id="{781C6B36-4B02-46EA-8ADC-B92A11877F10}" s:par="Background=%7B22EFB258-62F5-4B49-9D7E-DE07F70C9F37%7D" s:ph="/page-layout/section_a01c5508-383d-4fdd-bb9b-e0d3be2ea7ac/col-huge_746ffdc8-e1ee-472a-a714-0949b1d0fb23/teaser-placeholder-6_983aac8b-63c9-49c1-bfb9-8cc57e516c39" /><r uid="{598244D7-336C-4DCD-AE66-A2DA65E754B9}" p:after="r[@uid='{242C9A0C-7FC3-4E55-A834-289905C8E830}']" s:ds="{2AE21DEF-82EC-403E-A8A8-16761CF85995}" s:id="{781C6B36-4B02-46EA-8ADC-B92A11877F10}" s:par="Background=%7B22EFB258-62F5-4B49-9D7E-DE07F70C9F37%7D" s:ph="/page-layout/section_a01c5508-383d-4fdd-bb9b-e0d3be2ea7ac/col-huge_746ffdc8-e1ee-472a-a714-0949b1d0fb23/teaser-placeholder-5_983aac8b-63c9-49c1-bfb9-8cc57e516c39" /><r uid="{5465E8F3-1B6C-49D4-99EB-361F56B6FFDA}" p:after="r[@uid='{598244D7-336C-4DCD-AE66-A2DA65E754B9}']" s:ds="{BEBB2420-28F4-4209-A5B7-D2A46647F43D}" s:id="{781C6B36-4B02-46EA-8ADC-B92A11877F10}" s:par="Background=%7B22EFB258-62F5-4B49-9D7E-DE07F70C9F37%7D" s:ph="/page-layout/section_a01c5508-383d-4fdd-bb9b-e0d3be2ea7ac/col-huge_746ffdc8-e1ee-472a-a714-0949b1d0fb23/teaser-placeholder-2_983aac8b-63c9-49c1-bfb9-8cc57e516c39" /><r uid="{42512259-DACB-48D8-9E9A-88C73D2D1904}" p:after="r[@uid='{5465E8F3-1B6C-49D4-99EB-361F56B6FFDA}']" s:ds="{3C9607A2-104E-4753-A88D-C575CFA478F1}" s:id="{781C6B36-4B02-46EA-8ADC-B92A11877F10}" s:par="Background=%7B22EFB258-62F5-4B49-9D7E-DE07F70C9F37%7D" s:ph="/page-layout/section_a01c5508-383d-4fdd-bb9b-e0d3be2ea7ac/col-huge_746ffdc8-e1ee-472a-a714-0949b1d0fb23/teaser-placeholder-3_983aac8b-63c9-49c1-bfb9-8cc57e516c39" /><r uid="{118BA024-EBA0-40FA-BB59-0D78CD566635}" p:after="r[@uid='{42512259-DACB-48D8-9E9A-88C73D2D1904}']" s:ds="{6E532AF2-459C-49B5-911C-41BFEE7AE9D4}" s:id="{781C6B36-4B02-46EA-8ADC-B92A11877F10}" s:par="Background=%7B22EFB258-62F5-4B49-9D7E-DE07F70C9F37%7D" s:ph="/page-layout/section_a01c5508-383d-4fdd-bb9b-e0d3be2ea7ac/col-huge_746ffdc8-e1ee-472a-a714-0949b1d0fb23/teaser-placeholder-4_983aac8b-63c9-49c1-bfb9-8cc57e516c39" /><r uid="{11F4A737-3FFA-4AF7-8D4B-34C344B265E6}" p:after="r[@uid='{118BA024-EBA0-40FA-BB59-0D78CD566635}']" s:ds="{FC989D9E-38A7-4279-A5CA-603DCDEA7DA2}" s:id="{781C6B36-4B02-46EA-8ADC-B92A11877F10}" s:par="Background=%7B22EFB258-62F5-4B49-9D7E-DE07F70C9F37%7D" s:ph="/page-layout/section_a01c5508-383d-4fdd-bb9b-e0d3be2ea7ac/col-huge_746ffdc8-e1ee-472a-a714-0949b1d0fb23/teaser-placeholder-1_983aac8b-63c9-49c1-bfb9-8cc57e516c39" /><r uid="{EC98E18C-9EBE-44FC-B716-878E593DD0C1}" p:after="r[@uid='{11F4A737-3FFA-4AF7-8D4B-34C344B265E6}']" s:ds="{8881920D-82DF-4D70-B819-3FE181E2D6EF}" s:id="{EE5A9F3D-C2CB-4710-8053-04D1A7135EBE}" s:ph="/page-layout/section_a01c5508-383d-4fdd-bb9b-e0d3be2ea7ac/col-huge_746ffdc8-e1ee-472a-a714-0949b1d0fb23" /><r uid="{983AAC8B-63C9-49C1-BFB9-8CC57E516C39}" p:after="r[@uid='{EC98E18C-9EBE-44FC-B716-878E593DD0C1}']" s:ds="{EDFFFCC2-3682-40AD-BB2B-531BD1060BE2}" s:id="{5D35C31F-0770-4498-BAB8-C88BEF41F153}" s:ph="/page-layout/section_a01c5508-383d-4fdd-bb9b-e0d3be2ea7ac/col-huge_746ffdc8-e1ee-472a-a714-0949b1d0fb23" /><r uid="{746FFDC8-E1EE-472A-A714-0949B1D0FB23}" p:after="r[@uid='{983AAC8B-63C9-49C1-BFB9-8CC57E516C39}']" s:id="{0AD8EC59-33EC-4103-AAD4-F3A49BFDB92C}" s:ph="/page-layout/section_a01c5508-383d-4fdd-bb9b-e0d3be2ea7ac" /><r uid="{A01C5508-383D-4FDD-BB9B-E0D3BE2EA7AC}" p:after="r[@uid='{A3CA17FF-693C-46F1-87AA-B8C1833F1890}']" s:ds="" s:id="{D201A487-5099-48A1-8189-55944F70C6CB}" s:par="Background=%7B22EFB258-62F5-4B49-9D7E-DE07F70C9F37%7D&amp;ContainerIsFluid&amp;UseStaticPlaceholderNames" s:ph="page-layout" /><r uid="{025588CB-DFC0-4B02-8223-0015C525AE52}"><p:d /></r></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160318T101434Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+e205e64a-e129-42ba-9800-fb8ebf8c35f3
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160715T155322Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

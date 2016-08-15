@@ -1,0 +1,9 @@
+{
+  "itemName": "_Quote",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{E6197898-5ED7-47F5-A15C-B221B9E6866C}",
+  "childIds": [
+    "{22563CA0-5BF8-4DDA-861C-BC8EC2573A25}"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "itemName": "Site Root",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{D6B6FCF3-0438-4EC6-8876-218C229A36ED}",
+  "childIds": [
+    "{03403201-F458-4642-A501-0E2C9BF21FC4}"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "itemName": "Registered For Webinar",
+  "templateId": "{8CE2707A-3742-4A89-933B-065E5BE02BC9}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{2F83A11E-C2D7-478A-837A-7E0376551424}",
+  "childIds": [
+    "{B69ED275-ED25-4928-BA76-F7A05E3E8BEC}"
+  ]
+}

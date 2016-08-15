@@ -1,0 +1,87 @@
+----item----
+version: 1
+id: {4E025C2C-1612-42D4-9C17-B66D0533172C}
+database: master
+path: /sitecore/system/Marketing Control Panel/Engagement Plans/Legal/Webinar Nurture/Requested More Info
+parent: {2F83A11E-C2D7-478A-837A-7E0376551424}
+name: Requested More Info
+master: {00000000-0000-0000-0000-000000000000}
+template: {8CE2707A-3742-4A89-933B-065E5BE02BC9}
+templatekey: Engagement Plan State
+created: 20160715T155329:636041948093900000
+
+----field----
+field: {575A25C8-5C6F-4530-A48F-F38E23E9DBD5}
+name: Page Event Subscription
+key: page event subscription
+content-length: 38
+
+{95F2499A-DC5E-4CE1-B45C-0CA42BF239FB}
+----field----
+field: {07CE07CB-078C-415E-8F92-96690BABD6C7}
+name: Time interval
+key: time interval
+content-length: 1
+
+0
+----field----
+field: {3F72BC07-DE92-483E-A724-D430769D9BA4}
+name: Designer ID
+key: designer id
+content-length: 36
+
+9d8c9f21-ba8a-4f2f-8749-80c88df473fc
+----field----
+field: {7642ED71-348B-4B88-8634-CC7B28949472}
+name: Origin ID
+key: origin id
+content-length: 36
+
+00000000-0000-0000-0000-000000000000
+----version----
+language: en
+version: 1
+revision: dd1952b3-85e1-47fd-a7c3-ec293bb42568
+
+----field----
+field: {06F2D72A-1924-4B9A-BA1E-186CE4E57EFD}
+name: Description
+key: description
+content-length: 122
+
+an email address has been supplied and the site visitor has requested more information so should be encouraged to register
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 19
+
+Requested More Info
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160112T140535Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+dd1952b3-85e1-47fd-a7c3-ec293bb42568
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160715T155329Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

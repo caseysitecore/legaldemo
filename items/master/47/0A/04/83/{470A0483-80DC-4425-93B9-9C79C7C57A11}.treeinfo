@@ -1,0 +1,9 @@
+{
+  "itemName": "Feature",
+  "templateId": "{93227C5D-4FEF-474D-94C0-F252EC8E8219}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{75CC5CE4-8979-4008-9D3C-806477D57619}",
+  "childIds": [
+    "{4535ABBF-7DE1-4CB2-9599-C0EBE6B3A9C5}"
+  ]
+}

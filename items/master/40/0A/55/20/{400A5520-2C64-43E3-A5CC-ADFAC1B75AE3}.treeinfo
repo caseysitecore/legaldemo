@@ -1,0 +1,9 @@
+{
+  "itemName": "Settings",
+  "templateId": "{4C82B6DD-FE7C-4144-BCB3-F21B4080568F}",
+  "branchId": "{B2E4052A-6B3B-4527-933B-E24188C76B61}",
+  "parentId": "{F92B8D36-CE18-4B7E-8D31-004BFF4A82B9}",
+  "childIds": [
+    "{CA325D9A-67AB-49BD-88AE-929B07B52458}"
+  ]
+}

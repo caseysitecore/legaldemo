@@ -1,0 +1,75 @@
+----item----
+version: 1
+id: {4A5B361F-253D-46CB-8FB5-48A9673AC899}
+database: master
+path: /sitecore/templates/Email Campaign/Messages/Inner Content/Footer/__Standard Values
+parent: {A5B51631-4357-45EE-B2B8-99502F351324}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {A5B51631-4357-45EE-B2B8-99502F351324}
+templatekey: Footer
+created: 20160715T154802:636041944826830000
+
+----field----
+field: {DEC8D2D5-E3CF-48B6-A653-8E69E2716641}
+name: __Security
+key: __security
+content-length: 0
+
+
+----version----
+language: en
+version: 1
+revision: d7ad9f12-2b52-451d-b49e-a93d60b83d1b
+
+----field----
+field: {504831FB-5B5E-44AE-8CF1-F5005E653622}
+name: Footer
+key: footer
+content-length: 219
+
+<p>If you want to unsubscribe from this email, click one of these links:</p>
+<p><a href="/sitecore/Unsubscribe.aspx">Unsubscribe</a></p>
+<p><a href="/sitecore/UnsubscribeFromAll.aspx">Unsubscribe from all emails</a></p>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20090617T111125
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+d7ad9f12-2b52-451d-b49e-a93d60b83d1b
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20140611T181146:635381071061998552
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

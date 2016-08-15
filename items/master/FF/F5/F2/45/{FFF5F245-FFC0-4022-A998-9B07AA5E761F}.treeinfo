@@ -1,0 +1,9 @@
+{
+  "itemName": "Local Datasource Folder",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{7C610278-908F-487C-B32E-C81696D43396}",
+  "childIds": [
+    "{E20518BB-1F4D-467F-BAE0-11FC2F939C5E}"
+  ]
+}

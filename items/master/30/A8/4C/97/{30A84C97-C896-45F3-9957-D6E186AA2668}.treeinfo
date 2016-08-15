@@ -1,0 +1,9 @@
+{
+  "itemName": "Group",
+  "templateId": "{E269FBB5-3750-427A-9149-7AA950B49301}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{3AF7DB6C-A602-4ABC-8D63-19E2D2C6726B}",
+  "childIds": [
+    "{631DA648-E2A5-4E3B-9733-C9C066C41EAE}"
+  ]
+}

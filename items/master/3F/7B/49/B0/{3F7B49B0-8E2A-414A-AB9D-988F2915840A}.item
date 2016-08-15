@@ -1,0 +1,66 @@
+----item----
+version: 1
+id: {3F7B49B0-8E2A-414A-AB9D-988F2915840A}
+database: master
+path: /sitecore/content/Legal/Global/Social/Chase Ridley
+parent: {F29C4632-BCA1-49F7-AE41-B59304332E6A}
+name: Chase Ridley
+master: {00000000-0000-0000-0000-000000000000}
+template: {773A96F7-2752-4DA2-A2F5-6119A21A24F3}
+templatekey: Twitter Feed
+created: 20160715T155322:636041948024700000
+
+----version----
+language: en
+version: 1
+revision: 3b9f4216-800d-4151-b45f-7a06bf599a01
+
+----field----
+field: {92EF8986-45E2-42DE-913F-B91FD960297A}
+name: TwitterUrl
+key: twitterurl
+content-length: 63
+
+<link linktype="external" url="https://twitter.com/DSTChase" />
+----field----
+field: {D1CF33B1-8B8A-4AAB-AA7E-2460566BEDED}
+name: WidgetId
+key: widgetid
+content-length: 18
+
+696435650342612992
+----field----
+field: {099E4085-150C-4073-88D9-8B159D9A8B01}
+name: FeedTitle
+key: feedtitle
+content-length: 19
+
+Tweets by @DSTChase
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160207T204811Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+3b9f4216-800d-4151-b45f-7a06bf599a01
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160715T155322Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 17
+
+default\Anonymous

@@ -1,0 +1,9 @@
+{
+  "itemName": "Triggered Type Folder",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{BC62F86D-78F0-446A-AFAD-DB7541F72445}",
+  "childIds": [
+    "{8C0A3FC6-7EFB-42C5-AB8E-F6BBADEAE8BF}"
+  ]
+}

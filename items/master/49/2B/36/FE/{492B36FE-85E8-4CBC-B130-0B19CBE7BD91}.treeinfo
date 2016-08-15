@@ -1,0 +1,9 @@
+{
+  "itemName": "Demo Tools",
+  "templateId": "{E269FBB5-3750-427A-9149-7AA950B49301}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{C6D4DDD5-B912-4C1A-A3A3-E1D90E4D0939}",
+  "childIds": [
+    "{2A84ECA4-68BB-4451-B4AC-98EA71A5A3DC}"
+  ]
+}

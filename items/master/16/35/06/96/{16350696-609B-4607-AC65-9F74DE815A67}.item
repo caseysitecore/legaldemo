@@ -1,0 +1,80 @@
+----item----
+version: 1
+id: {16350696-609B-4607-AC65-9F74DE815A67}
+database: master
+path: /sitecore/system/Tasks/Commands/Email Campaign/Activate Triggered Message
+parent: {5980824F-5714-4FCD-84AB-6A8CD76F171C}
+name: Activate Triggered Message
+master: {00000000-0000-0000-0000-000000000000}
+template: {58119A3E-560E-4DA6-97C6-1ACE8A5B1219}
+templatekey: Command
+created: 20160715T154810:636041944909170000
+
+----field----
+field: {752579A7-EF2F-45B7-B9D1-9B682308B7A5}
+name: Type
+key: type
+content-length: 85
+
+Sitecore.Modules.EmailCampaign.Commands.ActivateTriggeredTask, Sitecore.EmailCampaign
+----field----
+field: {4BC75539-D5C4-487B-AF35-FF13D62BD286}
+name: Method
+key: method
+content-length: 7
+
+Execute
+----version----
+language: en
+version: 1
+revision: 8d0faf4a-12b9-4b2d-9271-6a20b3c3469f
+
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 26
+
+Activate Triggered Message
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20120411T151000
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+8d0faf4a-12b9-4b2d-9271-6a20b3c3469f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150325T153804:635628946840327417Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

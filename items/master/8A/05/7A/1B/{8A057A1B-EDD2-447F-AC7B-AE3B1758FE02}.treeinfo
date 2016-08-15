@@ -1,0 +1,9 @@
+{
+  "itemName": "Main Section",
+  "templateId": "{7E6F2940-D810-4960-B452-E0D4076D4572}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{D60DBC1A-0E8E-4E57-8B6B-18178E71E7A8}",
+  "childIds": [
+    "{D4ACD8E9-9CD1-481B-AEC6-2D7BB4B4AD29}"
+  ]
+}

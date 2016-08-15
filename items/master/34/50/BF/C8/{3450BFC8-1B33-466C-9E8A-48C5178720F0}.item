@@ -1,0 +1,99 @@
+----item----
+version: 1
+id: {3450BFC8-1B33-466C-9E8A-48C5178720F0}
+database: master
+path: /sitecore/content/Legal/Home/News/2015/12/23/13/59/37 Chase Ridley Attorneys Named
+parent: {9B792EC8-230D-4750-8905-22807AB7296F}
+name: 37 Chase Ridley Attorneys Named
+master: {00000000-0000-0000-0000-000000000000}
+template: {BB6A204D-2B9E-46CA-82CD-00751803B03E}
+templatekey: News Article
+created: 20160715T155324:636041948047500000
+
+----field----
+field: {C464D2D7-3382-428A-BCDF-0963C60BA0E3}
+name: NewsDate
+key: newsdate
+content-length: 16
+
+20151011T090000Z
+----version----
+language: en
+version: 1
+revision: d17012db-6291-42bf-8d7d-573316c4746f
+
+----field----
+field: {BD9ECD4A-C0B0-4233-A3CD-D995519AC87B}
+name: NewsTitle
+key: newstitle
+content-length: 73
+
+37 Chase Ridley Attorneys Named Among 2015 Super Lawyers and Rising Stars
+----field----
+field: {3437EAAC-6EE8-460B-A33D-DA1F714B5A93}
+name: NewsImage
+key: newsimage
+content-length: 58
+
+<image mediaid="{E1F82DEA-B761-45D7-8668-B7E70C1DBC62}" />
+----field----
+field: {9D08271A-1672-44DD-B7EF-0A6EC34FCBA7}
+name: NewsSummary
+key: newssummary
+content-length: 202
+
+<p><span>Super Lawyers has released its Northern California, Southern California, and San Diego lists of outstanding attorneys for 2015, on which 37 Chase Ridley attorneys have been included.</span></p>
+----field----
+field: {801612C7-5E98-4E3C-80D2-A34D0EEBCBDA}
+name: NewsBody
+key: newsbody
+content-length: 2031
+
+<p><span>San Francisco, California&mdash;Super Lawyers has released its Northern California, Southern California, and San Diego lists of outstanding attorneys for 2015, on which 37 Chase Ridley attorneys have been included.</span></p>
+<p><span>Chase Ridley attorneys named to the 2015 Southern California and San Diego Super Lawyers include Roberto Nevins and Sam Harvey in the firm&rsquo;s Beverly Hills office; Wallace Olafsen in the firm&rsquo;s Newport Beach office; and Joseph K. Denney in the firm&rsquo;s San Diego office.</span></p>
+<p><span>Attorneys listed as 2015 Northern California Super Lawyers include Mark Chase, Brenda Barkley, Jenna Ridley, Kayla Beeks, Dale Kent, Eduardotoph Cheedle, Susanne Quisette, James Clark, Eduardo Perez, Jr., Kristy Sparks, Louis Belmont, Shawn Cain, Dave Hanson, Michael Pe&ntilde;a, Tricia Marcs, Alden Tanaka, Dale Crean, Charlie Spieth, Kenneth Silva, and Liz Claynor in the firm&rsquo;s Sacramento office; and Paul Marketi, Hillary Bainer, and H. Ryan Jeon in the firm&rsquo;s San Francisco office.</span></p>
+<p><span>Attorneys listed as 2015 Northern California Rising Stars include Megan Shelley, Car0line Schaeffer, Mark Taylor, Brandon Hahn, and Julie Steinkemp in the firm&rsquo;s Sacramento office; Shauna Tonellie and Jeffrey Boatwright in the firm&rsquo;s San Francisco office.</span></p>
+<p><em><span>About Super Lawyers</span></em></p>
+<p><span>Super Lawyers is a rating service of outstanding lawyers from more than 70 practice areas who have attained a high degree of peer recognition and professional achievement. The annual selections are made using a patented multiphase process that includes a statewide survey of lawyers, an independent research evaluation of candidates, and peer reviews by practice area. The result is a credible, comprehensive, and diverse listing of exceptional attorneys. The Super Lawyers lists are published nationwide in Super Lawyers Magazine and in leading city and regional magazines and newspapers across the country.</span></p>
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 31
+
+37 Chase Ridley Attorneys Named
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20151223T135915Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+d17012db-6291-42bf-8d7d-573316c4746f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160715T155324Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

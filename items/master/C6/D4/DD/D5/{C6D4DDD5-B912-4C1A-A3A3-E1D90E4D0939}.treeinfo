@@ -1,0 +1,9 @@
+{
+  "itemName": "_ProfilingSettings",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{CC5890AF-54A1-4F8F-9298-A064D631E132}",
+  "childIds": [
+    "{492B36FE-85E8-4CBC-B130-0B19CBE7BD91}"
+  ]
+}

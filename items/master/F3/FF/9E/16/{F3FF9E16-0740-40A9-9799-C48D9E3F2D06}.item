@@ -1,0 +1,73 @@
+----item----
+version: 1
+id: {F3FF9E16-0740-40A9-9799-C48D9E3F2D06}
+database: master
+path: /sitecore/templates/Email Campaign/Messages/Inner Content/Newsletter
+parent: {DC64A09D-F875-4F48-A5AD-9AB2D178DE00}
+name: Newsletter
+master: {00000000-0000-0000-0000-000000000000}
+template: {0437FEE2-44C9-46A6-ABE9-28858D9FEE8C}
+templatekey: Template Folder
+created: 20160715T154800:636041944805470000
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 2
+
+50
+----version----
+language: en
+version: 1
+revision: 811a0131-1062-4c28-a173-1499a47e7f9b
+
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 10
+
+Newsletter
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20091125T101706
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+811a0131-1062-4c28-a173-1499a47e7f9b
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20110704T092341:634453682218346116
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

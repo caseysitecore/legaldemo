@@ -1,0 +1,9 @@
+{
+  "itemName": "Conditional Field Type",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{71864730-4722-446F-A3FE-C0CFB14F2330}",
+  "childIds": [
+    "{B33DE510-FC94-49FE-9486-5C8F29B19F50}"
+  ]
+}

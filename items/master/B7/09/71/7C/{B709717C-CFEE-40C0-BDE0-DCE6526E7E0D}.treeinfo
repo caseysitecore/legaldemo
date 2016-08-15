@@ -1,0 +1,10 @@
+{
+  "itemName": "Awaiting Legal Approval",
+  "templateId": "{4B7E2DA9-DE43-4C83-88C3-02F042031D04}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{E2A658AB-B142-4AD9-AACA-C69200622F44}",
+  "childIds": [
+    "{E6D660A9-9968-4FDD-9C8F-BDB0990BAAF2}",
+    "{859B79B2-D69F-4C6E-8909-EA32C5214E38}"
+  ]
+}

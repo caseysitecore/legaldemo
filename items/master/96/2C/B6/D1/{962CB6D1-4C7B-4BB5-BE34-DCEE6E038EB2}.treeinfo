@@ -1,0 +1,9 @@
+{
+  "itemName": "Habitat",
+  "templateId": "{93227C5D-4FEF-474D-94C0-F252EC8E8219}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{DA04B275-8838-4A3A-AFEE-817CF1FDD2EB}",
+  "childIds": [
+    "{ED043C36-CD48-4EDF-A288-EC404EE1CD42}"
+  ]
+}

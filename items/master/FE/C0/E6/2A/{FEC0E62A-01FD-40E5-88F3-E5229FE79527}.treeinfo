@@ -1,0 +1,10 @@
+{
+  "itemName": "_TeaserContent",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{4534144F-68BB-4FB5-9DA3-664CA5DD8E9D}",
+  "childIds": [
+    "{2BF8C08F-C6CA-49AA-B722-15E12B5E796D}",
+    "{FF12FA13-D8E7-4806-8251-D7819B7AAE5A}"
+  ]
+}

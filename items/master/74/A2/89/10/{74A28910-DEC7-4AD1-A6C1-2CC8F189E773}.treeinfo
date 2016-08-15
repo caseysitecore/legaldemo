@@ -1,0 +1,10 @@
+{
+  "itemName": "Twitter Account",
+  "templateId": "{E269FBB5-3750-427A-9149-7AA950B49301}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{89D988BC-A9A7-43F5-A9FD-A05B0B164720}",
+  "childIds": [
+    "{92EF8986-45E2-42DE-913F-B91FD960297A}",
+    "{D1CF33B1-8B8A-4AAB-AA7E-2460566BEDED}"
+  ]
+}

@@ -1,0 +1,143 @@
+----item----
+version: 1
+id: {32887EA0-D21A-4067-97BD-DB6D71E65FE3}
+database: master
+path: /sitecore/layout/Renderings/Email Campaign/Newsletter/Category Section
+parent: {68E5A579-D57C-4D68-AA4D-838644511856}
+name: Category Section
+master: {00000000-0000-0000-0000-000000000000}
+template: {F1F1D639-4F54-40C2-8BE0-81266B392CEB}
+templatekey: Xsl Rendering
+created: 20160715T154803:636041944834600000
+
+----field----
+field: {78783F79-1411-4B91-958D-AD81F81E2485}
+name: Path
+key: path
+content-length: 51
+
+/xsl/EmailCampaign/Newsletter/Category Section.xslt
+----field----
+field: {CFF1E810-B68B-47FD-9B94-8E3582586A72}
+name: Parameters Template
+key: parameters template
+content-length: 38
+
+{0B1489D8-1FC8-4AE8-A364-CD860AA4DF0D}
+----field----
+field: {3D08DB46-2267-41B0-BC52-BE69FD618633}
+name: Cacheable
+key: cacheable
+content-length: 1
+
+1
+----field----
+field: {8B6D532B-6128-4486-A044-CA06D90948BA}
+name: VaryByData
+key: varybydata
+content-length: 1
+
+1
+----field----
+field: {8D9232B0-613F-440B-A2FA-DCDD80FBD33E}
+name: VaryByLogin
+key: varybylogin
+content-length: 0
+
+
+----field----
+field: {3AD2506A-DC39-4B1E-959F-9D524ADDBF50}
+name: VaryByParm
+key: varybyparm
+content-length: 1
+
+1
+----field----
+field: {B5B27AF1-25EF-405C-87CE-369B3A004016}
+name: Datasource Location
+key: datasource location
+content-length: 18
+
+./content sections
+----field----
+field: {1A7C85E5-DC0B-490D-9187-BB1DBCB4C72F}
+name: Datasource Template
+key: datasource template
+content-length: 80
+
+/sitecore/templates/Branches/Email Campaign/Messages/Newsletter/Category Section
+----field----
+field: {A2F5D9DF-8CBA-4A1D-99EB-51ACB94CB057}
+name: Page Editor Buttons
+key: page editor buttons
+content-length: 38
+
+{31A3A929-C599-4DD3-91A6-F4A9487CC8B7}
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+350
+----field----
+field: {C7C26117-DBB1-42B2-AB5E-F7223845CCA3}
+name: __Thumbnail
+key: __thumbnail
+content-length: 176
+
+<image mediaid="{E5425331-D6F5-455A-9DBB-7D218361995B}" mediapath="/Email Campaign/Thumbnails/Category Section" src="~/media/Email Campaign/Thumbnails/Category Section.ashx" />
+----version----
+language: en
+version: 1
+revision: 3a439619-5aa0-4aa6-8885-cc274bb4b65a
+
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 16
+
+Category Section
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20101126T123700
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+3a439619-5aa0-4aa6-8885-cc274bb4b65a
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20110704T092335:634453682159014252
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

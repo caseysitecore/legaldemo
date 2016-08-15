@@ -1,0 +1,9 @@
+{
+  "itemName": "Indexing",
+  "templateId": "{A87A00B1-E6DB-45AB-8B54-636FEC3B5523}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{CB5EF5CD-A46D-444F-AA9F-9465766F185D}",
+  "childIds": [
+    "{D34A9561-0532-45DB-82C7-A18E1A93978D}"
+  ]
+}

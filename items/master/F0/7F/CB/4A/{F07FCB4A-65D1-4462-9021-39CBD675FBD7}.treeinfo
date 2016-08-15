@@ -1,0 +1,9 @@
+{
+  "itemName": "Contact Details",
+  "templateId": "{98E4BDC6-9B43-4EB2-BAA3-D4303C35852E}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{4B4C7560-6143-4CF4-BB18-3E67D23CD226}",
+  "childIds": [
+    "{B7A0D4B1-211B-44A5-905B-E17480BEBEA5}"
+  ]
+}

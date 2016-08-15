@@ -1,0 +1,10 @@
+{
+  "itemName": "Condition List",
+  "templateId": "{E269FBB5-3750-427A-9149-7AA950B49301}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{25EE7654-BA0E-4703-AEDA-62C4BC2825B2}",
+  "childIds": [
+    "{725BA083-5290-4281-9838-EEC781201970}",
+    "{A5C24ADB-9786-40B7-A1AD-61CC5A96523B}"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "itemName": "Necessary information",
+  "templateId": "{CF47DBAE-6E22-465A-B9B5-3EB6BCF9ECBF}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{0E8906B3-99BA-421E-A74D-277ED17A32FD}",
+  "childIds": [
+    "{4FB90F03-5B61-4A54-A1B8-275D7C698726}",
+    "{8818EBA7-0FDA-4F69-90E8-C54BCC4AB7F0}"
+  ]
+}

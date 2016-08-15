@@ -1,0 +1,9 @@
+{
+  "itemName": "Page Types",
+  "templateId": "{0437FEE2-44C9-46A6-ABE9-28858D9FEE8C}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{104E6124-706D-4620-9DB6-F8814BE5F471}",
+  "childIds": [
+    "{49C651BA-4004-40A9-9B0F-E95D0573F3AE}"
+  ]
+}

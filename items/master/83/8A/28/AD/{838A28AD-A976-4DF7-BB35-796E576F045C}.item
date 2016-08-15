@@ -1,0 +1,81 @@
+----item----
+version: 1
+id: {838A28AD-A976-4DF7-BB35-796E576F045C}
+database: master
+path: /sitecore/system/Marketing Control Panel/Profiles/Legal Persona/Pattern Cards/Eric the Entrepreneur
+parent: {000C8311-1AB4-40BF-9B09-E4917B7BE5C9}
+name: Eric the Entrepreneur
+master: {00000000-0000-0000-0000-000000000000}
+template: {4A6A7E36-2481-438F-A9BA-0453ECC638FA}
+templatekey: Pattern Card
+created: 20160715T155329:636041948092170000
+
+----field----
+field: {FE732790-2DDB-4657-A882-C2FCE1FBF0C9}
+name: Name
+key: name
+content-length: 21
+
+Eric the Entrepreneur
+----field----
+field: {98535F26-6C9D-4FD7-A7E2-392C7CB82D65}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{A9B854B9-73FD-4087-90D3-3700E572630C}" />
+----field----
+field: {6DA71AD3-5849-4482-9317-D21390E5A348}
+name: Pattern
+key: pattern
+content-length: 326
+
+<tracking>
+  <profile id="{AD3B7C5C-5BDD-4000-91CF-57F7407F9050}" name="Legal Persona">
+    <key name="Self-employed" value="5" />
+    <key name="Large Corporate" value="1" />
+    <key name="Legal trade" value="1" />
+    <key name="Personal-Civil" value="1" />
+    <key name="B2B" value="1" />
+  </profile>
+</tracking>
+----version----
+language: en
+version: 1
+revision: 3ac4dd82-c2d1-4818-9204-efd1af745256
+
+----field----
+field: {03DB5C50-D4BF-4E87-9AB4-0E5B4BF4E1A9}
+name: Description
+key: description
+content-length: 344
+
+<p style="margin: 0cm 0cm 0pt;">Eric is the owner of a small start-up tech company. Given that he&rsquo;s starting his own company from the ground up, his interests lie specifically in legal areas affecting company organization, contract development (employee, vendor, and SLAs), and expertise within intellectual property and taxation law.</p>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160104T145142Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+3ac4dd82-c2d1-4818-9204-efd1af745256
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160715T155329Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

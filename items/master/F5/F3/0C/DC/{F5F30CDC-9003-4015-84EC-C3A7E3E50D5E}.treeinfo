@@ -1,0 +1,9 @@
+{
+  "itemName": "Dynamic Teaser",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{9701D6E6-4B64-453E-B1B8-F6A28D5F98DF}",
+  "childIds": [
+    "{FDF5CBD3-1AF3-48EB-8934-272E27139E8E}"
+  ]
+}

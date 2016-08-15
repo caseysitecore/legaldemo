@@ -1,0 +1,9 @@
+{
+  "itemName": "ec_General",
+  "templateId": "{E269FBB5-3750-427A-9149-7AA950B49301}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{0B1489D8-1FC8-4AE8-A364-CD860AA4DF0D}",
+  "childIds": [
+    "{A723FA6E-1151-49D2-832C-F6C714A15294}"
+  ]
+}

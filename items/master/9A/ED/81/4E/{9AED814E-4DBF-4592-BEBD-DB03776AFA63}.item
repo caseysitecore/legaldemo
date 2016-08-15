@@ -1,0 +1,80 @@
+----item----
+version: 1
+id: {9AED814E-4DBF-4592-BEBD-DB03776AFA63}
+database: master
+path: /sitecore/content/Legal/Global/Teasers/Portal Login
+parent: {EA263B2A-C269-452C-AC31-1FE6A8EE5188}
+name: Portal Login
+master: {00000000-0000-0000-0000-000000000000}
+template: {C7D9D293-4EF8-4380-8E10-C4632E729F39}
+templatekey: Teaser
+created: 20160715T155322:636041948025500000
+
+----field----
+field: {E8AB122C-6F54-4D4E-AEC6-F81ADDC558FC}
+name: TeaserLink
+key: teaserlink
+content-length: 138
+
+<link text="Discover Portal" linktype="internal" class="" title="" target="" querystring="" id="{3C44CC07-77B9-4394-A337-1C9966064748}" />
+----version----
+language: en
+version: 1
+revision: 328681c9-9bcd-40c2-82ab-b5f8943d848e
+
+----field----
+field: {0F6B5546-E0AB-4487-81DE-640C1AA1B65B}
+name: TeaserImage
+key: teaserimage
+content-length: 58
+
+<image mediaid="{F2844FE0-9AE2-4311-8654-8279837A9F66}" />
+----field----
+field: {4A59D072-5B41-4A79-A157-2B2CCAC10F2B}
+name: TeaserTitle
+key: teasertitle
+content-length: 31
+
+Find out about our legal portal
+----field----
+field: {13D97A52-7C4E-407C-960D-FADDE8A3C1B1}
+name: TeaserSummary
+key: teasersummary
+content-length: 114
+
+Manage your customers, receive promotional material and always have the latest updates. Register to use our portal
+----field----
+field: {3F7E7E3A-4E8E-4639-B079-FC5AEFF172F5}
+name: Teaser Label
+key: teaser label
+content-length: 7
+
+Sign Up
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160210T173129Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+328681c9-9bcd-40c2-82ab-b5f8943d848e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160715T155322Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 17
+
+default\Anonymous

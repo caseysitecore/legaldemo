@@ -1,0 +1,80 @@
+----item----
+version: 1
+id: {8A057A1B-EDD2-447F-AC7B-AE3B1758FE02}
+database: master
+path: /sitecore/templates/Branches/Email Campaign/Messages/Newsletter/Newsletter Message/$name/Newsletter Root/Content Sections/Main Section
+parent: {D60DBC1A-0E8E-4E57-8B6B-18178E71E7A8}
+name: Main Section
+master: {00000000-0000-0000-0000-000000000000}
+template: {7E6F2940-D810-4960-B452-E0D4076D4572}
+templatekey: Main Section
+created: 20160715T154758:636041944785500000
+
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 0
+
+
+----version----
+language: en
+version: 1
+revision: 320b34d0-8183-47d7-8998-099ca90bb032
+
+----field----
+field: {DFF96981-99AA-47B4-8388-9A8400159307}
+name: Title
+key: title
+content-length: 12
+
+Main Section
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 12
+
+Main Section
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20091127T113808
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\Anonymous
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+320b34d0-8183-47d7-8998-099ca90bb032
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20110704T092338:634453682189800408
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

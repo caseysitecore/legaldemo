@@ -1,0 +1,9 @@
+{
+  "itemName": "_Person",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{E6197898-5ED7-47F5-A15C-B221B9E6866C}",
+  "childIds": [
+    "{E7DB8566-B0A1-4E49-965F-CFB8450DEEB4}"
+  ]
+}

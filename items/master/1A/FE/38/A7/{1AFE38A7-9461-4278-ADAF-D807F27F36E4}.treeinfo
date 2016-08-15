@@ -1,0 +1,10 @@
+{
+  "itemName": "Plain Text Message",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{FD920051-C5A4-4DF3-A9FB-A0EEE2BEAF47}",
+  "childIds": [
+    "{0B518137-5B46-4E70-8DDC-B40341131203}",
+    "{42F5109F-42B7-4E67-904D-E5858DB1D48D}"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "itemName": "_TwitterFeedRenderingProperties",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{5C48308A-0749-4895-9AA3-7D9B11EC3AB3}",
+  "childIds": [
+    "{663A7141-3CCA-4115-A062-D7A91C7B8F31}",
+    "{300A5935-6031-41E8-A66F-1FB4BFAE860D}"
+  ]
+}

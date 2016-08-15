@@ -1,0 +1,10 @@
+{
+  "itemName": "Simple Section",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{F3FF9E16-0740-40A9-9799-C48D9E3F2D06}",
+  "childIds": [
+    "{62A665E3-E87A-419D-BD63-0DD15D140A43}",
+    "{4676AE78-2F5B-485B-8836-975F66FC52DC}"
+  ]
+}

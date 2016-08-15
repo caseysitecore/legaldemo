@@ -1,0 +1,80 @@
+----item----
+version: 1
+id: {DA5C6559-5E46-4B5D-8789-EA6C00ACCB6B}
+database: master
+path: /sitecore/templates/Email Campaign/Messages/Inner Content/Newsletter/Auto Overview/__Standard Values
+parent: {D8A016F6-E604-4CA1-BC26-A575AE563141}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {D8A016F6-E604-4CA1-BC26-A575AE563141}
+templatekey: Auto Overview
+created: 20160715T154802:636041944827270000
+
+----version----
+language: en
+version: 1
+revision: 4b279823-5e85-422a-bd66-bc1d43ff484c
+
+----field----
+field: {A825DD2B-A60C-4073-9CBB-DCA926D66BCE}
+name: Category Title
+key: category title
+content-length: 13
+
+In this issue
+----field----
+field: {9522F7B2-CE64-41BD-B9F8-7E4C15BD680D}
+name: Title
+key: title
+content-length: 0
+
+
+----field----
+field: {0546A1B2-FE82-4BBF-8527-47D748AFC85A}
+name: Text
+key: text
+content-length: 0
+
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20091126T173406
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+4b279823-5e85-422a-bd66-bc1d43ff484c
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20140619T130037:635387796376336149
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

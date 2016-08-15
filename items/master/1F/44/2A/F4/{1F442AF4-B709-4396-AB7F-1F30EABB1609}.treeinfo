@@ -1,0 +1,10 @@
+{
+  "itemName": "Global Settings",
+  "templateId": "{E269FBB5-3750-427A-9149-7AA950B49301}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{7097C01C-BFC2-40A3-AEA4-D434B318CFD0}",
+  "childIds": [
+    "{AA3884AF-4FCE-4BE1-945B-C5673151D8B5}",
+    "{BB47FD88-850B-4B9E-88B4-8C3B37371F10}"
+  ]
+}

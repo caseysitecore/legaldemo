@@ -1,0 +1,10 @@
+{
+  "itemName": "Recipient List",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{433F3088-DDE8-4B27-9077-F5408234FFA6}",
+  "childIds": [
+    "{50A31009-C0BD-40F1-8BC0-6F9CF4354E30}",
+    "{6773A111-DE65-415D-8978-6931D04B8DC4}"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "itemName": "Statistics",
+  "templateId": "{E269FBB5-3750-427A-9149-7AA950B49301}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{3F12D78C-B7B7-4157-98FC-DA3322EE1A5B}",
+  "childIds": [
+    "{EB0B7CDF-D971-4539-916D-C5CF11E3FD4F}"
+  ]
+}

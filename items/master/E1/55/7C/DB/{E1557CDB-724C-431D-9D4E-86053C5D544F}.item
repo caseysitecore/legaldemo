@@ -1,0 +1,80 @@
+----item----
+version: 1
+id: {E1557CDB-724C-431D-9D4E-86053C5D544F}
+database: master
+path: /sitecore/system/Settings/Rules/Definitions/Obsolete/Common/Actions/Send Email
+parent: {5495ED07-AB27-4864-9ADF-5B1A831A7FB3}
+name: Send Email
+master: {00000000-0000-0000-0000-000000000000}
+template: {F90052A5-B4E6-4E6D-9812-1E1B88A6FCEA}
+templatekey: Action
+created: 20160715T154810:636041944907600000
+
+----field----
+field: {FF55D5A7-6D4B-4CD1-83E0-BAC268073F66}
+name: Type
+key: type
+content-length: 76
+
+Sitecore.Modules.EmailCampaign.Core.Actions.SendEmail,Sitecore.EmailCampaign
+----version----
+language: en
+version: 1
+revision: b35e5578-b1f9-4ea1-bccc-f941b9a80ed2
+
+----field----
+field: {EEB36A3B-40D9-4AF5-862A-DE257B84DCA3}
+name: Text
+key: text
+content-length: 175
+
+send [messageid,StandardMessage,selection={1AFE38A7-9461-4278-ADAF-D807F27F36E4}|{ECF0A9C8-FE56-45D8-B750-6BDE3A34A532}|{A89CF30C-EDFA-442E-8048-9234980E2176},specific] e-mail
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 10
+
+Send Email
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20100316T144623
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+b35e5578-b1f9-4ea1-bccc-f941b9a80ed2
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20110704T092337:634453682172736996
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

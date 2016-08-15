@@ -1,0 +1,94 @@
+----item----
+version: 1
+id: {BC06FAD5-5239-4BE5-87B3-98E987607E78}
+database: master
+path: /sitecore/templates/Email Campaign/Recipient Lists/Drafts/__Standard Values
+parent: {C469DAE1-4EB2-4DED-8B50-9CFE4C80E8B6}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {C469DAE1-4EB2-4DED-8B50-9CFE4C80E8B6}
+templatekey: Drafts
+created: 20160715T154802:636041944829970000
+
+----field----
+field: {A0CB3965-8884-4C7A-8815-B6B2E5CED162}
+name: __Editors
+key: __editors
+content-length: 38
+
+{1D445CFA-A8BD-4012-AB86-4F247308646C}
+----field----
+field: {9C6106EA-7A5A-48E2-8CAD-F0F693B1E2D4}
+name: __Read Only
+key: __read only
+content-length: 0
+
+
+----field----
+field: {6FD695E7-7F6D-4CA5-8B49-A829E5950AE9}
+name: __Subitems Sorting
+key: __subitems sorting
+content-length: 38
+
+{32416A95-4197-4D33-8CE7-7BB4FFEBEB42}
+----field----
+field: {1172F251-DAD4-4EFB-A329-0C63500E4F1E}
+name: __Masters
+key: __masters
+content-length: 38
+
+{69474581-3668-4FED-B0F0-0B88C2532CAE}
+----field----
+field: {DEC8D2D5-E3CF-48B6-A653-8E69E2716641}
+name: __Security
+key: __security
+content-length: 0
+
+
+----version----
+language: en
+version: 1
+revision: 858b9617-ec25-417b-a735-4729f1658a4b
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20081120T150000
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+858b9617-ec25-417b-a735-4729f1658a4b
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20110718T152039:634465992394117195
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

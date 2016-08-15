@@ -1,0 +1,45 @@
+----item----
+version: 1
+id: {3C732009-3989-4AF9-8461-28AE9A85D70C}
+database: master
+path: /sitecore/content/Legal/Home/News/2015/12/23/14
+parent: {5058237C-A766-4B2A-8AF6-E2D853471049}
+name: 14
+master: {00000000-0000-0000-0000-000000000000}
+template: {ADB6CA4F-03EF-4F47-B9AC-9CE2BA53FF97}
+templatekey: Bucket
+created: 20160715T155324:636041948043500000
+
+----version----
+language: en
+version: 1
+revision: d348f271-4438-4a1c-b496-ad1f31ecb964
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20151223T140207Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+d348f271-4438-4a1c-b496-ad1f31ecb964
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160715T155324Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

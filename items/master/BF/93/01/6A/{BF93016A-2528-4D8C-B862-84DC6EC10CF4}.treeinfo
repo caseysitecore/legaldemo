@@ -1,0 +1,9 @@
+{
+  "itemName": "$name",
+  "templateId": "{524E81CE-A58A-4B07-B38F-BBF877886879}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{F672A9CE-8EC1-4645-94D1-A11D69917307}",
+  "childIds": [
+    "{799EF6CE-2281-4F53-AE35-D2FBFE455EED}"
+  ]
+}

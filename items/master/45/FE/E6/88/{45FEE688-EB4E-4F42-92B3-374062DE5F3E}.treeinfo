@@ -1,0 +1,10 @@
+{
+  "itemName": "Category Section",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{F3FF9E16-0740-40A9-9799-C48D9E3F2D06}",
+  "childIds": [
+    "{443EDC76-ABF8-45DA-A74D-DAE522489D57}",
+    "{E04A3A33-2F64-4053-BBE0-55AE755CAC6B}"
+  ]
+}

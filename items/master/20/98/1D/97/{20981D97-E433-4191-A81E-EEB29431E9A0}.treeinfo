@@ -1,0 +1,9 @@
+{
+  "itemName": "Deactivate Triggered Task",
+  "templateId": "{35E75C72-4985-4E09-88C3-0EAC6CD1E64F}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{3EAF2765-3AB4-4D8B-93A3-88C605D90CA8}",
+  "childIds": [
+    "{4D6E9FC4-4D8D-44EE-808F-8700E9DA884F}"
+  ]
+}

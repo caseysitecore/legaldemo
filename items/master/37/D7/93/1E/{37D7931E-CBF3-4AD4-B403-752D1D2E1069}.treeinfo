@@ -1,0 +1,9 @@
+{
+  "itemName": "Sent",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{433F3088-DDE8-4B27-9077-F5408234FFA6}",
+  "childIds": [
+    "{BF0C1CE6-8B87-4A59-A101-63049137E04E}"
+  ]
+}

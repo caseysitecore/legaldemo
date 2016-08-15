@@ -1,0 +1,9 @@
+{
+  "itemName": "Media",
+  "templateId": "{E269FBB5-3750-427A-9149-7AA950B49301}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{AE4635AF-CFBF-4BF6-9B50-00BE23A910C0}",
+  "childIds": [
+    "{72EA8682-24D2-4BEB-951C-3E2164974105}"
+  ]
+}

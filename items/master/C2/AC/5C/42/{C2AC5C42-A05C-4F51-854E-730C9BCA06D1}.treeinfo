@@ -1,0 +1,9 @@
+{
+  "itemName": "Style",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{53A22396-4581-459D-80D6-47135E1F6F3B}",
+  "childIds": [
+    "{5FDBD528-E060-4FCD-90E4-1579C2E80EAC}"
+  ]
+}

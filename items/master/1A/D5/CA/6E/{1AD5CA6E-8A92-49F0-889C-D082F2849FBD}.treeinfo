@@ -1,0 +1,10 @@
+{
+  "itemName": "Password-Confirmation",
+  "templateId": "{ECF6562F-91E7-4D79-B416-0DB3C2DBF67B}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{15BDE7E1-ED49-4BA6-8F7D-1459338A61E7}",
+  "childIds": [
+    "{953A6FD7-CF54-4895-9CD4-39804961A776}",
+    "{A47F22B9-C1E8-41AB-A36E-2A0C634E800B}"
+  ]
+}

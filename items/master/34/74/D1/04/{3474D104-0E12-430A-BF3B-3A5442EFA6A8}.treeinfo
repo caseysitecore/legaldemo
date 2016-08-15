@@ -1,0 +1,10 @@
+{
+  "itemName": "Regular Expression Validator",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{0B95CCAA-8551-466B-A474-7719D743B046}",
+  "childIds": [
+    "{0E367A75-C306-4E65-980A-C2F8BEB3DA09}",
+    "{36271873-4F51-47B7-89FF-56C335FBE545}"
+  ]
+}

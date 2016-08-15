@@ -1,0 +1,10 @@
+{
+  "itemName": "ParametersTemplates",
+  "templateId": "{0437FEE2-44C9-46A6-ABE9-28858D9FEE8C}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{4A2CCF0B-9C08-485B-9902-87CA2869BC8F}",
+  "childIds": [
+    "{B962A806-D708-4001-B0A3-3FA31F2263C5}",
+    "{5DF30DC0-E2FC-4921-B8F2-C54FAC1BD03E}"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "itemName": "Status Messages",
+  "templateId": "{69474581-3668-4FED-B0F0-0B88C2532CAE}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{9A210EBB-A432-4A25-BF20-D9CEA73C5969}",
+  "childIds": [
+    "{58B1F035-6CD4-439F-A953-E3DA3BA730A2}",
+    "{29FA138B-909F-4134-8275-BD1F0FCC6810}"
+  ]
+}

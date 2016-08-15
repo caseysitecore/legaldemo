@@ -1,0 +1,9 @@
+{
+  "itemName": "One-Column Message",
+  "templateId": "{35E75C72-4985-4E09-88C3-0EAC6CD1E64F}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{C4A4C9A2-4B54-44F3-B360-35C88CC303A2}",
+  "childIds": [
+    "{0A923A3B-08E3-44EE-B819-CDA5B39EFDF0}"
+  ]
+}

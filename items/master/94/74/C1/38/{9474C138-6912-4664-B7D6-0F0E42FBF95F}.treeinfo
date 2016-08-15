@@ -1,0 +1,9 @@
+{
+  "itemName": "Dictionary",
+  "templateId": "{E269FBB5-3750-427A-9149-7AA950B49301}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{EC4DD3F2-590D-404B-9189-2A12679749CC}",
+  "childIds": [
+    "{DDACDD55-5B08-405F-9E58-04F09AED640A}"
+  ]
+}

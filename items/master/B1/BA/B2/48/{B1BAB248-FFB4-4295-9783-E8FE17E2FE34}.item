@@ -1,0 +1,66 @@
+----item----
+version: 1
+id: {B1BAB248-FFB4-4295-9783-E8FE17E2FE34}
+database: master
+path: /sitecore/system/Workflows/Legal Workflow/Approved
+parent: {E2A658AB-B142-4AD9-AACA-C69200622F44}
+name: Approved
+master: {00000000-0000-0000-0000-000000000000}
+template: {4B7E2DA9-DE43-4C83-88C3-02F042031D04}
+templatekey: State
+created: 20160715T155330:636041948104000000
+
+----field----
+field: {FB8ABC73-7ACF-45A0-898C-D3CCB889C3EE}
+name: Final
+key: final
+content-length: 1
+
+1
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 35
+
+Applications/32x32/document_out.png
+----field----
+field: {DEC8D2D5-E3CF-48B6-A653-8E69E2716641}
+name: __Security
+key: __security
+content-length: 84
+
+ar|sitecore\Sitecore Client Authoring|pe|+workflowState:write|+workflowState:delete|
+----version----
+language: en
+version: 1
+revision: 3e0286b8-1084-4859-ac1b-55a711fe546c
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160202T140635Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+3e0286b8-1084-4859-ac1b-55a711fe546c
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160715T155330Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

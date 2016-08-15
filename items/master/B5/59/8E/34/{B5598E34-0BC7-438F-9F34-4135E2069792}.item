@@ -1,0 +1,101 @@
+----item----
+version: 1
+id: {B5598E34-0BC7-438F-9F34-4135E2069792}
+database: master
+path: /sitecore/templates/Email Campaign/Messages/Base HTML Message
+parent: {FD920051-C5A4-4DF3-A9FB-A0EEE2BEAF47}
+name: Base HTML Message
+master: {00000000-0000-0000-0000-000000000000}
+template: {AB86861A-6030-46C5-B394-E8F99E8B87DB}
+templatekey: Template
+created: 20160715T154800:636041944802000000
+
+----field----
+field: {12C33F3F-86C5-43A5-AEB4-5598CEC45116}
+name: __Base template
+key: __base template
+content-length: 38
+
+{A0EA9681-5C86-43AB-80F7-C522DADF6F12}
+----field----
+field: {F7D48A55-2158-4F02-9356-756654404F73}
+name: __Standard values
+key: __standard values
+content-length: 38
+
+{FFFED4DA-E1BC-4610-98F8-E27C7147628E}
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 36
+
+Software/32x32/text_code_colored.png
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 4
+
+1400
+----field----
+field: {C7C26117-DBB1-42B2-AB5E-F7223845CCA3}
+name: __Thumbnail
+key: __thumbnail
+content-length: 163
+
+<image mediaid="{6BCAAECD-3EBD-4633-8902-7DBBDE16DDB6}" mediapath="/Email Campaign/Thumbnails/html-template" src="~/media/6BCAAECD3EBD463389027DBBDE16DDB6.ashx" />
+----version----
+language: en
+version: 1
+revision: bc0e71e7-554c-4b29-8e5f-dfe77ec22174
+
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 17
+
+Base HTML Message
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20090616T164000
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+bc0e71e7-554c-4b29-8e5f-dfe77ec22174
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20121116T145528:634886745282699277
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

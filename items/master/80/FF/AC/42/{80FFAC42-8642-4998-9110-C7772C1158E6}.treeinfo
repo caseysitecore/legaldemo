@@ -1,0 +1,9 @@
+{
+  "itemName": "Left Column",
+  "templateId": "{E993C33E-06A9-4172-88D8-D694AEF4E6D4}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{ED28875E-E80F-4828-91B4-619C9AD41B22}",
+  "childIds": [
+    "{E7DBE999-B3CD-4E5D-AB89-707A25EB4A47}"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "itemName": "Legal",
+  "templateId": "{A87A00B1-E6DB-45AB-8B54-636FEC3B5523}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{EC095310-746F-4C1B-A73F-941863564DC2}",
+  "childIds": [
+    "{6E479558-DF6C-4F8F-85E8-8FF20D2055F8}"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "itemName": "_PagedSearchResultsParameters",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{F01ECD05-6D91-447F-BA10-3B6347FF3CF6}",
+  "childIds": [
+    "{F93150F8-B16A-43E9-A830-FE91BAD2A959}",
+    "{6912DBC9-587B-448C-A49D-0FB43F446301}"
+  ]
+}

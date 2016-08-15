@@ -1,0 +1,10 @@
+{
+  "itemName": "Get Our Newsletter",
+  "templateId": "{FFB1DA32-2764-47DB-83B0-95B843546A7E}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{4F42E032-6174-4A79-B3B0-5056494D6B39}",
+  "childIds": [
+    "{81F56176-F806-4C1C-82E0-19A6995DBE5E}",
+    "{2A307E1A-C2F5-4165-9554-C899EBEC6B5F}"
+  ]
+}

@@ -1,0 +1,87 @@
+----item----
+version: 1
+id: {0A923A3B-08E3-44EE-B819-CDA5B39EFDF0}
+database: master
+path: /sitecore/templates/Branches/Email Campaign/Messages/One-Column Message/$name
+parent: {6FE51EB4-1D30-4E6B-8BA0-0EBB1405D283}
+name: $name
+master: {00000000-0000-0000-0000-000000000000}
+template: {078D8A76-F971-4891-B422-76C0BCF9FA03}
+templatekey: AB Test Message
+created: 20160715T154758:636041944789100000
+
+----field----
+field: {09AD7C00-A8DE-46F7-BC54-E7572E38C136}
+name: Body
+key: body
+content-length: 38
+
+{64E06F4B-2D09-4C6C-9055-180179FFEB2A}
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 29
+
+Applications/32x32/window.png
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 0
+
+
+----field----
+field: {DEC8D2D5-E3CF-48B6-A653-8E69E2716641}
+name: __Security
+key: __security
+content-length: 0
+
+
+----version----
+language: en
+version: 1
+revision: 990f827b-f389-470d-ba7f-9b80faf51c9c
+
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 0
+
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20090616T171500
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\Anonymous
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+990f827b-f389-470d-ba7f-9b80faf51c9c
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20140605T125837:635375699172797703
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

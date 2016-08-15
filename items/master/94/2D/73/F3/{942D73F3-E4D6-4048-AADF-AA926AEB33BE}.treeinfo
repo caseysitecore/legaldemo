@@ -1,0 +1,9 @@
+{
+  "itemName": "Search",
+  "templateId": "{98E4BDC6-9B43-4EB2-BAA3-D4303C35852E}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{C884E500-A0D2-4FE5-B657-B01E58474FD9}",
+  "childIds": [
+    "{51BE38BD-D221-41CB-A049-183C2E4E5499}"
+  ]
+}

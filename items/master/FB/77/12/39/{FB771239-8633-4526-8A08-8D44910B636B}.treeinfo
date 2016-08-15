@@ -1,0 +1,10 @@
+{
+  "itemName": "Content Management Primary",
+  "templateId": "{A87A00B1-E6DB-45AB-8B54-636FEC3B5523}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{FD347B2C-D2F7-4D73-86CE-E54E773A6405}",
+  "childIds": [
+    "{D0FE3508-709B-45C2-8BE5-09DC96E4BA90}",
+    "{7356F179-B8D2-4091-AC17-D65F02E4416D}"
+  ]
+}

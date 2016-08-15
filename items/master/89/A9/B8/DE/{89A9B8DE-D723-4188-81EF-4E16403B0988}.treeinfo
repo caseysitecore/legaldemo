@@ -1,0 +1,9 @@
+{
+  "itemName": "Logo",
+  "templateId": "{FE5DD826-48C6-436D-B87A-7C4210C7413B}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{982F557B-34C7-4538-8FE0-26375BF90FE6}",
+  "childIds": [
+    "{60CB73C9-D101-4248-95FF-AF8AF939B7ED}"
+  ]
+}

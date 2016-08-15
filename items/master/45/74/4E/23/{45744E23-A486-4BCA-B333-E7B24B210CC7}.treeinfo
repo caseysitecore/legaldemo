@@ -1,0 +1,9 @@
+{
+  "itemName": "PageContent",
+  "templateId": "{0437FEE2-44C9-46A6-ABE9-28858D9FEE8C}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{8F343079-3CC5-4EF7-BC27-32ADDB46F45E}",
+  "childIds": [
+    "{AF74A00B-8CA7-4C9A-A5C1-156A68590EE2}"
+  ]
+}

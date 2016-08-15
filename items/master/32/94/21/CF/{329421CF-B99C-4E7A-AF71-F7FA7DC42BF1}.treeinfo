@@ -1,0 +1,10 @@
+{
+  "itemName": "ParametersTemplate_FixedHeight",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{53A22396-4581-459D-80D6-47135E1F6F3B}",
+  "childIds": [
+    "{00D4DA36-D6DD-41C0-AC17-48004C236E8D}",
+    "{99F3844E-9023-44A5-A737-EBD4283E2455}"
+  ]
+}

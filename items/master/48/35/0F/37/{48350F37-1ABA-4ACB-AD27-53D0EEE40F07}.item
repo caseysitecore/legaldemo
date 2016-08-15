@@ -1,0 +1,153 @@
+----item----
+version: 1
+id: {48350F37-1ABA-4ACB-AD27-53D0EEE40F07}
+database: master
+path: /sitecore/system/Modules/E-mail Campaign Manager/System/Queries/Automation States By Language
+parent: {1AA34FF6-ED86-4C9F-8812-36F114145D3A}
+name: Automation States By Language
+master: {00000000-0000-0000-0000-000000000000}
+template: {A90F48C4-4D4F-41D7-8497-070A9A50304E}
+templatekey: ReportQuery
+created: 20160715T154809:636041944896330000
+
+----field----
+field: {72B1C86F-AE19-4534-ABCF-0692378D41CF}
+name: Data Source
+key: data source
+content-length: 10
+
+collection
+----field----
+field: {A61CC636-3272-4FB6-BCF9-762940047A78}
+name: Query
+key: query
+content-length: 378
+
+{{
+  collection: 'AutomationStates',
+  query:
+  {{
+    '_id.PlanId': @PlanId,
+    'StateId':
+    {{
+      $in: [ {0} ]
+    }},
+    'CustomValues':
+    {{
+      $elemMatch:
+      {{
+        $elemMatch:
+        {{
+          'MessageLanguage': @Language
+        }}
+      }}
+    }}
+  }},
+  fields:
+  [
+    '_id.ContactId',
+    'StateId',
+    'Entry'
+  ]
+}}
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 2
+
+94
+----version----
+language: en
+version: 1
+revision: dab9d77f-4975-4017-9dac-7f2676c26037
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20130809T163100
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+dab9d77f-4975-4017-9dac-7f2676c26037
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20140806T211351:635429564317871473
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 2
+revision: dab9d77f-4975-4017-9dac-7f2676c26037
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20130809T163100
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+dab9d77f-4975-4017-9dac-7f2676c26037
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20140806T211351:635429564317871473
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

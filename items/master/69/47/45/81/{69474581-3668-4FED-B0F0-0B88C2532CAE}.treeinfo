@@ -1,0 +1,9 @@
+{
+  "itemName": "Message Folder",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{FD920051-C5A4-4DF3-A9FB-A0EEE2BEAF47}",
+  "childIds": [
+    "{F9C8E489-274C-41F7-9127-F90922091095}"
+  ]
+}

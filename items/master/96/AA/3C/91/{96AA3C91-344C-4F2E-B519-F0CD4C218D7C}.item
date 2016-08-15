@@ -1,0 +1,52 @@
+----item----
+version: 1
+id: {96AA3C91-344C-4F2E-B519-F0CD4C218D7C}
+database: master
+path: /sitecore/templates/Branches/Email Campaign/Manager Root/$name/Message Types/Subscription
+parent: {7B23FF40-CBFE-4B7B-A2CC-051632E1CB01}
+name: Subscription
+master: {00000000-0000-0000-0000-000000000000}
+template: {60E4A220-B639-46E8-93EF-8466990256AA}
+templatekey: Subscription Type Folder
+created: 20160715T154758:636041944783230000
+
+----version----
+language: en
+version: 1
+revision: fd70c220-3a8c-4c9c-8dfc-592bdad663c9
+
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 20
+
+Subscription Message
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20110811T172718
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+fd70c220-3a8c-4c9c-8dfc-592bdad663c9
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20130123T131504:634945437046275685
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

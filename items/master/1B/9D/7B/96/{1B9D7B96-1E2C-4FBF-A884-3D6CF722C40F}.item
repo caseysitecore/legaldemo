@@ -1,0 +1,114 @@
+----item----
+version: 1
+id: {1B9D7B96-1E2C-4FBF-A884-3D6CF722C40F}
+database: master
+path: /sitecore/system/Marketing Control Panel/Engagement Plans/Email Campaign/Standard/Message Plan/Clicked Through/Valuable
+parent: {CA0D1DC3-9016-4F59-995E-3FDB69FEA15C}
+name: Valuable
+master: {00000000-0000-0000-0000-000000000000}
+template: {0A43A0FE-7E0E-49EF-95D4-E3DE34F4F175}
+templatekey: Engagement Plan Condition
+created: 20160715T154805:636041944852530000
+
+----field----
+field: {E13DCD09-D9BB-43C9-8D7D-438C79D714CA}
+name: Evaluate
+key: evaluate
+content-length: 38
+
+{B81C1F4C-8B83-44D9-902F-448463DBCCBC}
+----field----
+field: {21F3482B-BB14-4555-BA5D-AF20D400D5B9}
+name: Rule
+key: rule
+content-length: 290
+
+<ruleset>
+  <rule uid="{5CAAB788-8F51-4786-9BAC-13B93D4BAF6F}">
+    <conditions>
+      <condition id="{4640D86A-9B01-4B04-9BEB-03E06E5AC722}" uid="FD7DB53282A8463AB92F3775928D7C20" operatorid="{B88CD556-082E-4385-BB76-E4D1B565F290}" value="0" />
+    </conditions>
+  </rule>
+</ruleset>
+----field----
+field: {D2368879-C784-4031-9B79-6A3BF3CB444E}
+name: Next state
+key: next state
+content-length: 36
+
+24963ae9-1c8c-4e18-8eee-01bc249d1f1b
+----field----
+field: {3F72BC07-DE92-483E-A724-D430769D9BA4}
+name: Designer ID
+key: designer id
+content-length: 36
+
+1b9d7b96-1e2c-4fbf-a884-3d6cf722c40f
+----field----
+field: {7642ED71-348B-4B88-8634-CC7B28949472}
+name: Origin ID
+key: origin id
+content-length: 36
+
+00000000-0000-0000-0000-000000000000
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 1
+
+0
+----version----
+language: en
+version: 1
+revision: b18bb120-5fbd-4e85-a5dd-2f8ac0b5a413
+
+----field----
+field: {06F2D72A-1924-4B9A-BA1E-186CE4E57EFD}
+name: Description
+key: description
+content-length: 0
+
+
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 14
+
+Valuable visit
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20110401T135200
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+b18bb120-5fbd-4e85-a5dd-2f8ac0b5a413
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20120711T111004:634776018049238349
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

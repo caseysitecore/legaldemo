@@ -1,0 +1,9 @@
+{
+  "itemName": "Draft",
+  "templateId": "{4B7E2DA9-DE43-4C83-88C3-02F042031D04}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{E2A658AB-B142-4AD9-AACA-C69200622F44}",
+  "childIds": [
+    "{D465DC23-5B6A-4D70-BB6A-707E370A5E54}"
+  ]
+}

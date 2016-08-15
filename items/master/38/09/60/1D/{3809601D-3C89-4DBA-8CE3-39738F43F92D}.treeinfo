@@ -1,0 +1,10 @@
+{
+  "itemName": "Employees List",
+  "templateId": "{51E2FF7F-6FB3-4470-91C8-D2AD97BF1EAE}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{CAC2E25B-3A13-4E1B-AB8C-5B71FD613077}",
+  "childIds": [
+    "{F0519E91-3B1E-47B0-91C0-710C6DF5AD34}",
+    "{50A4942D-C644-4AD9-8452-78BD786C48A2}"
+  ]
+}

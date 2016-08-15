@@ -1,0 +1,9 @@
+{
+  "itemName": "Message Types Container",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{BC62F86D-78F0-446A-AFAD-DB7541F72445}",
+  "childIds": [
+    "{3DBD7629-D697-42F0-8693-42FD970FC0BD}"
+  ]
+}

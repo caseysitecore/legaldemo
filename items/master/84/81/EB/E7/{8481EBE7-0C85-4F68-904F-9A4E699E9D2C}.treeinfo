@@ -1,0 +1,9 @@
+{
+  "itemName": "_Local",
+  "templateId": "{FFF5F245-FFC0-4022-A998-9B07AA5E761F}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{88D7F189-43AF-4704-94EA-DAA482F9DBA5}",
+  "childIds": [
+    "{E9E0AC91-854D-4E27-AA3C-134235209CE2}"
+  ]
+}

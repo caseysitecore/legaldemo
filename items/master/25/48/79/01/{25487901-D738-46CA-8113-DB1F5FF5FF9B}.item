@@ -1,0 +1,80 @@
+----item----
+version: 1
+id: {25487901-D738-46CA-8113-DB1F5FF5FF9B}
+database: master
+path: /sitecore/content/Legal/Global/Teasers/Our Insights/Brenda Barkley
+parent: {EAE30575-9D83-4802-871D-1C4909CEA766}
+name: Brenda Barkley
+master: {00000000-0000-0000-0000-000000000000}
+template: {40AD8A9B-C75C-428D-9E1A-51372B21F63E}
+templatekey: Quote
+created: 20160715T155323:636041948038330000
+
+----version----
+language: en
+version: 1
+revision: 2003fd5c-21f4-4fe4-ace6-4788a78bc50d
+
+----field----
+field: {26CD59AB-3639-488F-BAFD-58D2B217755A}
+name: Name
+key: name
+content-length: 14
+
+Brenda Barkley
+----field----
+field: {0DE53078-0DA4-40CC-BBCA-63AA96A0A1EF}
+name: Quote
+key: quote
+content-length: 169
+
+Although I have a great deal of experience in corporate finance, I also feel passionate about using this knowledge to help people with their personal and family tax law.
+----field----
+field: {76972FCD-4BB0-4255-864E-077745EFDF50}
+name: Title
+key: title
+content-length: 11
+
+Shareholder
+----field----
+field: {BF83983A-473F-4A49-BE8E-7D563AA5687E}
+name: Cite Origin
+key: cite origin
+content-length: 12
+
+Chase Ridley
+----field----
+field: {C9BAF3EB-8CFA-4BF6-9B19-51D38DB5FC38}
+name: Picture
+key: picture
+content-length: 65
+
+<image mediaid="{DBA76CC5-D35A-4527-9516-65D22ED35441}" ></image>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160322T141813Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+2003fd5c-21f4-4fe4-ace6-4788a78bc50d
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160715T155323Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 17
+
+default\Anonymous

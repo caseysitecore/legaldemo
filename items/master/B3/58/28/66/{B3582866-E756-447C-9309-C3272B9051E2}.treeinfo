@@ -1,0 +1,9 @@
+{
+  "itemName": "Content Sections",
+  "templateId": "{050C8A20-E616-47A1-85D1-B11A0025F869}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{614063A9-E35C-468E-9371-B4140BD67BF2}",
+  "childIds": [
+    "{7DC4DBC9-06FD-4B7B-94FF-42B549DE57BD}"
+  ]
+}

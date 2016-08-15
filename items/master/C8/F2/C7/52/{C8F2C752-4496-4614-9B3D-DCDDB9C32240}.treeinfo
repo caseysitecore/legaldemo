@@ -1,0 +1,10 @@
+{
+  "itemName": "Email Campaign",
+  "templateId": "{A87A00B1-E6DB-45AB-8B54-636FEC3B5523}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{4497A9BE-0A00-4EE4-9AE0-50D6CBB4FAB2}",
+  "childIds": [
+    "{0CD22799-4DD2-424D-A454-9D7AAB733E69}",
+    "{512C7FF7-C30D-41FA-8831-91A089462EB5}"
+  ]
+}

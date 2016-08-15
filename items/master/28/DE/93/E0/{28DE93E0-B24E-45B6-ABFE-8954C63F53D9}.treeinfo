@@ -1,0 +1,9 @@
+{
+  "itemName": "Datasource Folders",
+  "templateId": "{E269FBB5-3750-427A-9149-7AA950B49301}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{D339E56B-6A8A-46BD-A7D3-C9725D50DD4A}",
+  "childIds": [
+    "{E7A63BF6-5A06-498D-B6C1-C8F058ABE2B3}"
+  ]
+}

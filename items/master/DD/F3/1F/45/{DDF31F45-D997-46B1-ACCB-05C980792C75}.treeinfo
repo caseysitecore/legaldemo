@@ -1,0 +1,9 @@
+{
+  "itemName": "Multisite",
+  "templateId": "{85ADBF5B-E836-4932-A333-FE0F9FA1ED1E}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{E24C4A00-08D6-41C8-B60E-E7990B21697A}",
+  "childIds": [
+    "{05DB4668-538B-4E6E-9C89-B6AB7374AA3C}"
+  ]
+}

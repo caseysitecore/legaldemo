@@ -1,0 +1,9 @@
+{
+  "itemName": "Page View",
+  "templateId": "{98E4BDC6-9B43-4EB2-BAA3-D4303C35852E}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{4B4C7560-6143-4CF4-BB18-3E67D23CD226}",
+  "childIds": [
+    "{6AF4F12E-C59B-4173-B402-E2E5516C980D}"
+  ]
+}

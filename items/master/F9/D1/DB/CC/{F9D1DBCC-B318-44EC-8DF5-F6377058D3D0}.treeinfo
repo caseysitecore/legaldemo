@@ -1,0 +1,9 @@
+{
+  "itemName": "Teasers",
+  "templateId": "{A87A00B1-E6DB-45AB-8B54-636FEC3B5523}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{256655EC-8F3A-45B5-AD90-B63BC25B8067}",
+  "childIds": [
+    "{2E066B18-EB55-41A6-B933-27063A7C3C55}"
+  ]
+}

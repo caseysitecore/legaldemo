@@ -1,0 +1,9 @@
+{
+  "itemName": "_LinkMenuItem",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{DA0DA133-7B20-4317-B4CB-A7B60AF8D6A4}",
+  "childIds": [
+    "{425B7F03-FE2D-4FF0-B403-74286AED4451}"
+  ]
+}

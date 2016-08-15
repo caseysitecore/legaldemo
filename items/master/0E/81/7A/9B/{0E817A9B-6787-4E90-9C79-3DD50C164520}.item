@@ -1,0 +1,101 @@
+----item----
+version: 1
+id: {0E817A9B-6787-4E90-9C79-3DD50C164520}
+database: master
+path: /sitecore/content/Email Campaign
+parent: {0DE95AE4-41AB-4D01-9EB0-67441B7C2450}
+name: Email Campaign
+master: {00000000-0000-0000-0000-000000000000}
+template: {CF9C8A2A-2794-4FEA-980A-EF8426F3D6C3}
+templatekey: Manager Root
+created: 20160715T155331:636041948115430000
+
+----field----
+field: {1B963507-6176-4336-A14D-D5070C3B0286}
+name: Base URL
+key: base url
+content-length: 23
+
+http://legal.demo.local
+----field----
+field: {52D572AD-9678-423F-96E2-477528418BA1}
+name: Global Opt-out List
+key: global opt-out list
+content-length: 36
+
+d0f28594-080d-4bef-8604-a107f726349b
+----field----
+field: {AFB3E366-DAB4-4E10-B61F-BC3776542BB8}
+name: POP3 User Name
+key: pop3 user name
+content-length: 5
+
+admin
+----field----
+field: {1EC023FB-DBB4-4A7B-837D-55F9614737B8}
+name: POP3 Password
+key: pop3 password
+content-length: 1
+
+b
+----field----
+field: {DEC8D2D5-E3CF-48B6-A653-8E69E2716641}
+name: __Security
+key: __security
+content-length: 247
+
+ar|sitecore\ECM Users|pd|^*|+item:read|pe|^*|+item:read|ar|sitecore\ECM Advanced Users|pd|+item:delete|+item:admin|+item:create|+item:rename|^*|+item:read|+item:write|pe|+item:delete|+item:admin|+item:create|+item:rename|^*|+item:read|+item:write|
+----version----
+language: en
+version: 1
+revision: 78c21a2d-280e-41e2-8e02-09f72e1ce3c2
+
+----field----
+field: {69AAD409-CA36-4767-B945-ABB77F3611FD}
+name: From Name
+key: from name
+content-length: 8
+
+Sitecore
+----field----
+field: {0F383CD8-C031-4A9D-9ED0-D55217F91287}
+name: From Address
+key: from address
+content-length: 21
+
+no_reply@sitecore.net
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 14
+
+Email Campaign
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160714T112551Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+78c21a2d-280e-41e2-8e02-09f72e1ce3c2
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160715T155331Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

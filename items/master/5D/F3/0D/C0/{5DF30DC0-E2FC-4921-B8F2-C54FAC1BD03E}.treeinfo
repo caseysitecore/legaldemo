@@ -1,0 +1,9 @@
+{
+  "itemName": "_MediaParameters",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{6F740F9A-FB28-4F15-8CE3-C76BE26C2439}",
+  "childIds": [
+    "{63DE0B0A-3E94-42EC-89EF-F02607530BCF}"
+  ]
+}

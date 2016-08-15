@@ -1,0 +1,9 @@
+{
+  "itemName": "_AccountsSettings",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{51745B37-CC61-45C0-982C-BFD80BFD42F0}",
+  "childIds": [
+    "{49567788-6193-4B6F-BFEE-4605CD263C61}"
+  ]
+}

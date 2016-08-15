@@ -1,0 +1,9 @@
+{
+  "itemName": "Map Type",
+  "templateId": "{E269FBB5-3750-427A-9149-7AA950B49301}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{04C34CF5-B7EA-4408-88E8-5FC851173DBD}",
+  "childIds": [
+    "{4A724065-E4CA-4CDD-9027-F56CEEF1B082}"
+  ]
+}

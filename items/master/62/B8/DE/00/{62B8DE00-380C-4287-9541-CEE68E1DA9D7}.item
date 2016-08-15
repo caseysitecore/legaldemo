@@ -1,0 +1,105 @@
+----item----
+version: 1
+id: {62B8DE00-380C-4287-9541-CEE68E1DA9D7}
+database: master
+path: /sitecore/content/Legal/Home/Landing Pages/Taxation Webinar/Taxation Webinar Register
+parent: {DB743E29-8335-41E2-A3F5-4875F6B49411}
+name: Taxation Webinar Register
+master: {00000000-0000-0000-0000-000000000000}
+template: {9917C92B-0F13-4F96-B50B-84C874E25783}
+templatekey: Landing Page
+created: 20160715T155324:636041948041500000
+
+----field----
+field: {B0A67B2A-8B07-4E0B-8809-69F751709806}
+name: __Tracking
+key: __tracking
+content-length: 319
+
+<tracking><profile id="{AD3B7C5C-5BDD-4000-91CF-57F7407F9050}" name="Legal Persona" presets="lucas the lawyer|100||"><key name="B2B" value="5" /><key name="Large Corporate" value="3" /><key name="Legal trade" value="5" /><key name="Personal-Civil" value="4" /><key name="Self-employed" value="1" /></profile></tracking>
+----version----
+language: en
+version: 1
+revision: fcf217c3-975c-48ce-a720-79841bf588e2
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 62
+
+Solving Transaction Tax Challenges in Mergers and Acquisitions
+----field----
+field: {AC3FD4DB-8266-476D-9635-67814D91E901}
+name: Summary
+key: summary
+content-length: 105
+
+<span>Legal Insight Webinar Series: Solving Transaction Tax Challenges in Mergers and Acquisitions</span>
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 999
+
+<p style="margin: 0cm 0cm 0pt 13.5pt;"><span>This webinar series will provide attorneys with a deep dive and valuable guidance in outlining the different tax planning opportunities associated with various business entity structures, not only at startup but throughout the life of your client&rsquo;s business. Tax counsel must provide guidance to business owners to set up the right type of entity to meet the owner's initial goals while providing sufficient flexibility to change the form of the entity as the business evolves.</span></p>
+<p style="margin: 0cm 0cm 0pt 13.5pt;"><span>&nbsp;</span></p>
+<p style="margin: 0cm 0cm 0pt 13.5pt;"><span>Advisers need to know the details of choice of entity to enable their clients to operate businesses in a tax-efficient manner.</span></p>
+<p style="margin: 0cm 0cm 0pt 13.5pt;"><span>&nbsp;</span></p>
+<p style="margin: 0cm 0cm 0pt 13.5pt;"><span>Complete the form below to register for Chase Ridley&rsquo;s Legal Insight Webinar Series.</span></p>
+----field----
+field: {9492E0BB-9DF9-46E7-8188-EC795C4ADE44}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{76C6808D-2572-4707-9F81-1B03356475A9}" />
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 11
+
+Tax Webinar
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 107
+
+Mergers, acquisitions, M&A, MA, legal mergers, legal resource, B2B, transaction tax, webinar, legal webinar
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 627
+
+<r xmlns:p="p" xmlns:s="s" p:p="1" s:xsd="http://www.w3.org/2001/XMLSchema"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><p uid="{8FAC4D06-E673-4A5B-92EC-AA9468541DA9}" p:before="r[@uid='{E6CA18D8-321D-4105-9C38-0622E94BE400}']" s:key="/page-layout/col-wide-1" s:md="/sitecore/layout/Placeholder Settings/Project/Legal/Columns/col-wide-1" /><r uid="{A0255320-1014-4F97-8DB4-DC4A3EFB3336}" p:before="r[@uid='{A3BAD4D4-8E21-4B30-8C4C-B04163653D62}']" s:ds="{D0F65BCA-8836-4285-AED7-00949A6A0EB3}" s:id="{F2CCA16D-7524-4E99-8EE0-78FF6394A3B3}" s:par="FormID&amp;ReadQueryString" s:ph="/page-layout/section/col-wide-1" /></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20151223T144213Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+fcf217c3-975c-48ce-a720-79841bf588e2
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160715T155324Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

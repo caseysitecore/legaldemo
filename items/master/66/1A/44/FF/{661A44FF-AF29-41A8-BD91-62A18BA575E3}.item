@@ -1,0 +1,52 @@
+----item----
+version: 1
+id: {661A44FF-AF29-41A8-BD91-62A18BA575E3}
+database: master
+path: /sitecore/system/Settings/Rules/Definitions/Elements/E-mail Campaign Manager
+parent: {E7CBEFE8-9112-4B95-A978-4E470D94C54A}
+name: E-mail Campaign Manager
+master: {00000000-0000-0000-0000-000000000000}
+template: {54DAE7CD-BFD8-4E69-9679-75F2AE9F9034}
+templatekey: Element Folder
+created: 20160715T154810:636041944906370000
+
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 0
+
+
+----version----
+language: en
+version: 1
+revision: 4e6c711a-b77c-42c7-9ada-ed93f959becf
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20130924T155237
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+4e6c711a-b77c-42c7-9ada-ed93f959becf
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20130924T155237:635156347575367415
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

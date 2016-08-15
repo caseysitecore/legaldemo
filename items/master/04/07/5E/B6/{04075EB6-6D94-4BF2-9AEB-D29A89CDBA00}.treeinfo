@@ -1,0 +1,9 @@
+{
+  "itemName": "_TeaserVideoContent",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{4534144F-68BB-4FB5-9DA3-664CA5DD8E9D}",
+  "childIds": [
+    "{6F62CEE9-E9D8-452E-96E5-A4957E888B87}"
+  ]
+}

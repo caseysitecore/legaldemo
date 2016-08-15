@@ -1,0 +1,9 @@
+{
+  "itemName": "News Article",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{85086BB5-0365-48D7-98B1-CB9B1B6392CA}",
+  "childIds": [
+    "{5FE4D0ED-177A-4111-80A0-D1CB6F4718AD}"
+  ]
+}

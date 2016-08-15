@@ -1,0 +1,9 @@
+{
+  "itemName": "Landing Page",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{788CB1EB-BF51-4951-B41F-8D557D5386CF}",
+  "childIds": [
+    "{86CFFC79-A7A0-4A7E-ADED-85C116A4A3D4}"
+  ]
+}

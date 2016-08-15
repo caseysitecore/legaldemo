@@ -1,0 +1,87 @@
+----item----
+version: 1
+id: {8FAC8482-630E-4412-85BB-16023D58DCFA}
+database: master
+path: /sitecore/system/Modules/E-mail Campaign Manager/Common Text/an email
+parent: {1F01DD94-CEDF-43F7-BFB4-ED1B6BED7E42}
+name: an email
+master: {00000000-0000-0000-0000-000000000000}
+template: {76D41116-0577-4DEF-8435-A622E9E06A8F}
+templatekey: Front End Text
+created: 20160715T154809:636041944890770000
+
+----version----
+language: en
+version: 1
+revision: 7dffc636-5961-4917-a835-a13c23e17042
+
+----field----
+field: {E2236E26-714E-4AA2-8ED2-C782452BF1F4}
+name: Text
+key: text
+content-length: 9
+
+an e-mail
+----field----
+field: {5D432D0E-7464-4801-933B-9D2DDC14E4F7}
+name: Comments
+key: comments
+content-length: 42
+
+The address used in a confirmation dialog.
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 8
+
+an email
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20081208T102800
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+7dffc636-5961-4917-a835-a13c23e17042
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20121120T115407:634890092474725506
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

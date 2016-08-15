@@ -1,0 +1,10 @@
+{
+  "itemName": "Service Messages",
+  "templateId": "{69474581-3668-4FED-B0F0-0B88C2532CAE}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{61EFDD42-1A26-4E51-B7B5-0FFE35BF0291}",
+  "childIds": [
+    "{72732D51-8766-488A-8EF7-C57585144BD9}",
+    "{479AAD17-7978-4CC8-B7F9-6AC0A3B96F0C}"
+  ]
+}

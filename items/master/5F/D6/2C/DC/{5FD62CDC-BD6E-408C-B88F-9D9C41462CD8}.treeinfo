@@ -1,0 +1,10 @@
+{
+  "itemName": "SitecoreExtensions",
+  "templateId": "{0437FEE2-44C9-46A6-ABE9-28858D9FEE8C}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{B26BD035-8D0A-4DF3-8F67-2DE3C7FDD74A}",
+  "childIds": [
+    "{8373E4E5-C79C-4123-9284-BABD9601C565}",
+    "{4738312C-22B8-4E77-9B9C-86BCDCEE6635}"
+  ]
+}

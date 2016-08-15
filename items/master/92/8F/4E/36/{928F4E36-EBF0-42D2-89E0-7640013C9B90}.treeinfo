@@ -1,0 +1,10 @@
+{
+  "itemName": "Web Forms for Marketers",
+  "templateId": "{85ADBF5B-E836-4932-A333-FE0F9FA1ED1E}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{BAD98E0E-C1B5-4598-AC13-21B06218B30C}",
+  "childIds": [
+    "{3FB6999D-CDDF-4444-B245-FE9B683179AA}",
+    "{9D2B5542-F674-44A3-B607-947BFABDA5B2}"
+  ]
+}

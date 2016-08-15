@@ -1,0 +1,59 @@
+----item----
+version: 1
+id: {C277FED9-0405-469E-AE5D-4FE006B3EE91}
+database: master
+path: /sitecore/content/Legal/Global/Links/Accounts Links/Edit Profile
+parent: {34712652-4DF9-4D20-9CA6-A1549CF0B34E}
+name: Edit Profile
+master: {00000000-0000-0000-0000-000000000000}
+template: {390333C8-751B-4332-84A3-6360B969A19F}
+templatekey: Link Menu Item
+created: 20160715T155323:636041948036030000
+
+----version----
+language: en
+version: 1
+revision: b5d2cdb3-6c98-4dc3-9e32-209db55ded4e
+
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 12
+
+Edit Profile
+----field----
+field: {FE71C30E-F07D-4052-8594-C3028CD76E1F}
+name: Link
+key: link
+content-length: 135
+
+<link text="Edit Profile" linktype="internal" class="" title="" target="" querystring="" id="{5656D752-1EB9-4689-93DF-7E52066D5515}" />
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160318T102034Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+b5d2cdb3-6c98-4dc3-9e32-209db55ded4e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160715T155323Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 17
+
+default\Anonymous

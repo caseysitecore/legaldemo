@@ -1,0 +1,10 @@
+{
+  "itemName": "ParametersTemplate_SectionBackground",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{6F740F9A-FB28-4F15-8CE3-C76BE26C2439}",
+  "childIds": [
+    "{E6F93ADA-1B3B-4D80-870C-479033DB680A}",
+    "{257A2FE2-E361-4F56-A107-4D4BCF0C239F}"
+  ]
+}

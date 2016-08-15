@@ -1,0 +1,9 @@
+{
+  "itemName": "Registration",
+  "templateId": "{689BA377-E538-49ED-9DFC-4DCC398AB9AC}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{4B67A7F9-7246-4A59-A051-961095C2DC70}",
+  "childIds": [
+    "{9354DD07-5CE9-441E-9F3B-955D8B19E691}"
+  ]
+}

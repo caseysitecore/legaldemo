@@ -1,0 +1,80 @@
+----item----
+version: 1
+id: {6DF4CEA4-AE9A-45E2-A08C-E96557ABDF74}
+database: master
+path: /sitecore/content/Legal/Global/Teasers/Our Insights/Eduado Perez
+parent: {EAE30575-9D83-4802-871D-1C4909CEA766}
+name: Eduado Perez
+master: {00000000-0000-0000-0000-000000000000}
+template: {40AD8A9B-C75C-428D-9E1A-51372B21F63E}
+templatekey: Quote
+created: 20160715T155323:636041948038670000
+
+----version----
+language: en
+version: 1
+revision: 17bba2f6-7872-4083-b6d0-97239ffecd54
+
+----field----
+field: {26CD59AB-3639-488F-BAFD-58D2B217755A}
+name: Name
+key: name
+content-length: 12
+
+Eduado Perez
+----field----
+field: {0DE53078-0DA4-40CC-BBCA-63AA96A0A1EF}
+name: Quote
+key: quote
+content-length: 157
+
+Company mergers require a great deal of thought and planning. I have many years experience in this area and I will be glad to help you navigate the pitfalls.
+----field----
+field: {76972FCD-4BB0-4255-864E-077745EFDF50}
+name: Title
+key: title
+content-length: 16
+
+Managing Partner
+----field----
+field: {BF83983A-473F-4A49-BE8E-7D563AA5687E}
+name: Cite Origin
+key: cite origin
+content-length: 12
+
+Chase Ridley
+----field----
+field: {C9BAF3EB-8CFA-4BF6-9B19-51D38DB5FC38}
+name: Picture
+key: picture
+content-length: 65
+
+<image mediaid="{71BB982B-938D-4772-8E77-7658791DDBC2}" ></image>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160322T142432Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+17bba2f6-7872-4083-b6d0-97239ffecd54
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160715T155323Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 17
+
+default\Anonymous

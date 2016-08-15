@@ -1,0 +1,45 @@
+----item----
+version: 1
+id: {EEFA227B-F23F-4085-A9CF-D7E44D0C702F}
+database: master
+path: /sitecore/content/Legal/Global/Quotes
+parent: {9B5A91B1-A83D-4FE6-9E50-2BB90530C785}
+name: Quotes
+master: {00000000-0000-0000-0000-000000000000}
+template: {A8F1B162-041F-46BF-81EB-5213AE8BC579}
+templatekey: Quote Folder
+created: 20160715T155321:636041948018600000
+
+----version----
+language: en
+version: 1
+revision: 0628f48b-5645-4b3d-a0ea-2a28d79c364d
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20151124T105754Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+0628f48b-5645-4b3d-a0ea-2a28d79c364d
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160715T155321Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 17
+
+default\Anonymous

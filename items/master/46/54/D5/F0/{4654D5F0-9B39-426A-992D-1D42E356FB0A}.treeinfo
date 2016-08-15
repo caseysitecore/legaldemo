@@ -1,0 +1,9 @@
+{
+  "itemName": "ParametersTemplate_HasContainerWithDynamicPlaceholder",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{78FC406F-FB34-42DA-8F10-B955FE9F5A4E}",
+  "childIds": [
+    "{3ACBA3A7-FD6C-4C3E-AE68-DA2AA6C3AE95}"
+  ]
+}

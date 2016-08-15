@@ -1,0 +1,9 @@
+{
+  "itemName": "Message",
+  "templateId": "{E269FBB5-3750-427A-9149-7AA950B49301}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{078D8A76-F971-4891-B422-76C0BCF9FA03}",
+  "childIds": [
+    "{09AD7C00-A8DE-46F7-BC54-E7572E38C136}"
+  ]
+}

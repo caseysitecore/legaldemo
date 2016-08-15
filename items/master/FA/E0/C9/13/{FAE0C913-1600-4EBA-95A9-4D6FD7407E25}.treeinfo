@@ -1,0 +1,9 @@
+{
+  "itemName": "_HasMediaImage",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{4A2CCF0B-9C08-485B-9902-87CA2869BC8F}",
+  "childIds": [
+    "{57930FE6-C782-429E-B095-1821340F9AE4}"
+  ]
+}

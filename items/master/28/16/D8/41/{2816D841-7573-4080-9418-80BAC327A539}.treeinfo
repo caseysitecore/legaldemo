@@ -1,0 +1,10 @@
+{
+  "itemName": "Interpreter Properties",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{4F7DA173-DF3B-4750-B974-2EB24C97AB97}",
+  "childIds": [
+    "{8D930FE1-8CDE-497C-B5FC-8A499412C8B0}",
+    "{C6BEE5E7-53A3-410D-8D96-03A30BEDEFE0}"
+  ]
+}

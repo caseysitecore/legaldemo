@@ -1,0 +1,9 @@
+{
+  "itemName": "_SiteConfiguration",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{0134CFB3-DDA2-49AB-86A7-BBAEBDB1DC30}",
+  "childIds": [
+    "{A71C3A41-08FA-4DA0-909B-C4C52F531CDE}"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "itemName": "FAQ",
+  "templateId": "{7EE0975B-0698-493E-B3A2-0B2EF33D0522}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{DA61AD50-8FDB-4252-A68F-B4470B1C9FE8}",
+  "childIds": [
+    "{52A898D9-6D20-43FD-9798-1578B14A117C}"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "itemName": "Right Column",
+  "templateId": "{BF8B7B37-1E90-401A-A360-58119C0780B5}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{ED28875E-E80F-4828-91B4-619C9AD41B22}",
+  "childIds": [
+    "{F812779B-0EE0-4223-B3E6-D96919D7C031}"
+  ]
+}

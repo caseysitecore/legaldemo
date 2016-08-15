@@ -1,0 +1,45 @@
+----item----
+version: 1
+id: {05CB1EFA-E446-4DE3-B495-A5140870C7B6}
+database: master
+path: /sitecore/system/Marketing Control Panel/Goals/Legal/Header Clicks
+parent: {B5DF0D1C-22B7-4307-B3E8-BCCEC744B87A}
+name: Header Clicks
+master: {00000000-0000-0000-0000-000000000000}
+template: {DB6E13B8-786C-4DD6-ACF2-3E5E6A959905}
+templatekey: Goal Category
+created: 20160715T155329:636041948095730000
+
+----version----
+language: en
+version: 1
+revision: 188a6c54-e80d-4c60-9c4c-9f3976f3a1a8
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160218T162148Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+188a6c54-e80d-4c60-9c4c-9f3976f3a1a8
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160715T155329Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

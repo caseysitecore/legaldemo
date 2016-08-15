@@ -1,0 +1,10 @@
+{
+  "itemName": "_MapRenderingParameters",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{B327BE93-876A-49C3-9275-422937BCA4A3}",
+  "childIds": [
+    "{55D248E4-6F66-4C00-9653-BECEAE53E8B7}",
+    "{8DC4EAC1-57C2-45F0-B9AC-0D96CB1707CF}"
+  ]
+}

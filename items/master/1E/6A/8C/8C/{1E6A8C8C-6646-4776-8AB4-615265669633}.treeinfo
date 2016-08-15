@@ -1,0 +1,9 @@
+{
+  "itemName": "_MapPoint",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{B327BE93-876A-49C3-9275-422937BCA4A3}",
+  "childIds": [
+    "{9BD240D2-A645-4E05-9412-5905729CFA51}"
+  ]
+}

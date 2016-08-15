@@ -1,0 +1,9 @@
+{
+  "itemName": "Triggered",
+  "templateId": "{9F353948-ACC9-4DB2-9033-CCD810BA9628}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{5D23DBE6-CACC-401E-A139-4D40D6BCC254}",
+  "childIds": [
+    "{F90CC6E9-B058-4060-9E5C-0C2FCF753AA6}"
+  ]
+}

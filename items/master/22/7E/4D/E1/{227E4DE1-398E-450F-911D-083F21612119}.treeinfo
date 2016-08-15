@@ -1,0 +1,9 @@
+{
+  "itemName": "Language",
+  "templateId": "{0437FEE2-44C9-46A6-ABE9-28858D9FEE8C}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{8F343079-3CC5-4EF7-BC27-32ADDB46F45E}",
+  "childIds": [
+    "{748EBA96-3F0C-4F45-8AFB-DE8DCC707B84}"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "itemName": "Datasource Configuration",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{DF639DE8-C9E7-4B18-967E-B1A14A8FF221}",
+  "childIds": [
+    "{D2CFA97C-FD9D-4928-BB9B-215CE5537368}"
+  ]
+}

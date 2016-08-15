@@ -1,0 +1,9 @@
+{
+  "itemName": "Sidebar Sections",
+  "templateId": "{A4CE4035-5BD0-423E-BC64-1394CB17487B}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{614063A9-E35C-468E-9371-B4140BD67BF2}",
+  "childIds": [
+    "{B1EBC296-E80C-41A4-B20A-29278600A627}"
+  ]
+}

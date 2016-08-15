@@ -1,0 +1,9 @@
+{
+  "itemName": "Factory",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{71864730-4722-446F-A3FE-C0CFB14F2330}",
+  "childIds": [
+    "{DF10BC43-2EF5-453F-B479-64E214091F81}"
+  ]
+}

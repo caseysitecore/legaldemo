@@ -1,0 +1,9 @@
+{
+  "itemName": "Newsletter",
+  "templateId": "{239F9CF4-E5A0-44E0-B342-0F32CD4C6D8B}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{15451229-7534-44EF-815D-D93D6170BFCB}",
+  "childIds": [
+    "{A6400A81-025C-4183-8343-0AA6212FDB2E}"
+  ]
+}

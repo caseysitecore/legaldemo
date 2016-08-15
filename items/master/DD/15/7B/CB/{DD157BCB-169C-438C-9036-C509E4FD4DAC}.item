@@ -1,0 +1,59 @@
+----item----
+version: 1
+id: {DD157BCB-169C-438C-9036-C509E4FD4DAC}
+database: master
+path: /sitecore/templates/Branches/Email Campaign/Manager Root/$name/Message Types/OneTime/Default
+parent: {A6FD0423-F0DA-4980-9441-9ECB8F8F5C77}
+name: Default
+master: {00000000-0000-0000-0000-000000000000}
+template: {54E7880D-2621-49EA-A417-982FCD372903}
+templatekey: OneTime
+created: 20160715T154758:636041944783100000
+
+----field----
+field: {1172F251-DAD4-4EFB-A329-0C63500E4F1E}
+name: __Masters
+key: __masters
+content-length: 233
+
+{F112BDEF-8D86-4CEA-9B9A-8477A582926C}|{9E170B31-F8AA-4E1F-B605-2FC0BD4FE120}|{6FE51EB4-1D30-4E6B-8BA0-0EBB1405D283}|{ECF0A9C8-FE56-45D8-B750-6BDE3A34A532}|{1AFE38A7-9461-4278-ADAF-D807F27F36E4}|{F868C724-50D0-4347-9C9B-BABB8DB705FE}
+----version----
+language: en
+version: 1
+revision: 8108a61c-30bc-41fd-b58a-05e72cc1a84d
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20110811T172900
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\Anonymous
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+8108a61c-30bc-41fd-b58a-05e72cc1a84d
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20140115T154753:635253976738648319
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

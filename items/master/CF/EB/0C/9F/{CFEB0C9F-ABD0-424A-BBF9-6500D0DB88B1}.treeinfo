@@ -1,0 +1,9 @@
+{
+  "itemName": "Navigation",
+  "templateId": "{E269FBB5-3750-427A-9149-7AA950B49301}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{A16B74E9-01B8-439C-B44E-42B3FB2EE14B}",
+  "childIds": [
+    "{FE71C30E-F07D-4052-8594-C3028CD76E1F}"
+  ]
+}

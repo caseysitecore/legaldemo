@@ -1,0 +1,81 @@
+----item----
+version: 1
+id: {5B951306-928F-4F74-BB69-C35DD6B0292C}
+database: master
+path: /sitecore/system/Marketing Control Panel/Profiles/Legal Persona/Pattern Cards/Susan the CEO
+parent: {000C8311-1AB4-40BF-9B09-E4917B7BE5C9}
+name: Susan the CEO
+master: {00000000-0000-0000-0000-000000000000}
+template: {4A6A7E36-2481-438F-A9BA-0453ECC638FA}
+templatekey: Pattern Card
+created: 20160715T155329:636041948092500000
+
+----field----
+field: {FE732790-2DDB-4657-A882-C2FCE1FBF0C9}
+name: Name
+key: name
+content-length: 13
+
+Susan the CEO
+----field----
+field: {98535F26-6C9D-4FD7-A7E2-392C7CB82D65}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{CD8E3ACD-4E0B-4A7D-87B6-F8EB63F9681A}" />
+----field----
+field: {6DA71AD3-5849-4482-9317-D21390E5A348}
+name: Pattern
+key: pattern
+content-length: 326
+
+<tracking>
+  <profile id="{AD3B7C5C-5BDD-4000-91CF-57F7407F9050}" name="Legal Persona">
+    <key name="Self-employed" value="0" />
+    <key name="Large Corporate" value="5" />
+    <key name="Legal trade" value="3" />
+    <key name="Personal-Civil" value="0" />
+    <key name="B2B" value="1" />
+  </profile>
+</tracking>
+----version----
+language: en
+version: 1
+revision: ddddb795-d92e-403d-9a8d-24eb3d01c708
+
+----field----
+field: {03DB5C50-D4BF-4E87-9AB4-0E5B4BF4E1A9}
+name: Description
+key: description
+content-length: 349
+
+<p style="margin: 0cm 0cm 0pt;">Susan is the CEO of an Inc. 5,000 corporation and leader of one of the world&rsquo;s fastest growing companies. Her interests within the legal profession reside in all areas affecting corporate-business law, employment law, IPO law, corporate finance, and all issues surrounding privacy, security, and technology.</p>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160106T145056Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ddddb795-d92e-403d-9a8d-24eb3d01c708
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160715T155329Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

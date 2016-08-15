@@ -1,0 +1,9 @@
+{
+  "itemName": "Demo",
+  "templateId": "{E269FBB5-3750-427A-9149-7AA950B49301}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{359AD0B9-20B5-49E7-A430-891D6E67BC5C}",
+  "childIds": [
+    "{4A27A4AA-9201-4D1D-B612-F45DDA086C4C}"
+  ]
+}

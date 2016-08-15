@@ -1,0 +1,10 @@
+{
+  "itemName": "Status Notifications",
+  "templateId": "{E269FBB5-3750-427A-9149-7AA950B49301}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{A0EA9681-5C86-43AB-80F7-C522DADF6F12}",
+  "childIds": [
+    "{EE1D1DC9-0C65-4E1C-A1C1-06D5EAC23A7C}",
+    "{0487113D-4DE1-4CA7-A5D0-9FADFD0EF187}"
+  ]
+}

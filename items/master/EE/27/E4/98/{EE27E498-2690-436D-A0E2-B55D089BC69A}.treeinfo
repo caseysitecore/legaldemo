@@ -1,0 +1,9 @@
+{
+  "itemName": "Metadata",
+  "templateId": "{7EE0975B-0698-493E-B3A2-0B2EF33D0522}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{DA61AD50-8FDB-4252-A68F-B4470B1C9FE8}",
+  "childIds": [
+    "{E7AE3F87-CF66-40F2-A9F5-33ECF08BC777}"
+  ]
+}

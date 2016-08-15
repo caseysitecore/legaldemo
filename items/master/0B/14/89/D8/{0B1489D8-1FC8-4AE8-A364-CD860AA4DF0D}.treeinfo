@@ -1,0 +1,10 @@
+{
+  "itemName": "ID Source Based Parameters",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{8D78F7AD-4DB0-4787-9318-F2DE38AB31D6}",
+  "childIds": [
+    "{C5F8FFB5-0FCE-4C70-9857-4B62FCE6DE93}",
+    "{1B8F6157-8233-4058-B74A-2B52D174F87F}"
+  ]
+}

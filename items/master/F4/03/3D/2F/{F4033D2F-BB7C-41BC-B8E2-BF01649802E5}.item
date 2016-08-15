@@ -1,0 +1,59 @@
+----item----
+version: 1
+id: {F4033D2F-BB7C-41BC-B8E2-BF01649802E5}
+database: master
+path: /sitecore/templates/Branches/Email Campaign/Messages/Saved as Periodical
+parent: {C4A4C9A2-4B54-44F3-B360-35C88CC303A2}
+name: Saved as Periodical
+master: {00000000-0000-0000-0000-000000000000}
+template: {85ADBF5B-E836-4932-A333-FE0F9FA1ED1E}
+templatekey: Branch Folder
+created: 20160715T154758:636041944789370000
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 1
+
+0
+----version----
+language: en
+version: 1
+revision: 6aed0770-d064-452d-9c37-80afb17aed02
+
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 29
+
+Saved as Subscription Message
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20120724T095019
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+6aed0770-d064-452d-9c37-80afb17aed02
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20130123T133331:634945448113995702
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

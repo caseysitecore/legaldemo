@@ -1,0 +1,80 @@
+----item----
+version: 1
+id: {6C120B9D-8923-43F3-A0C3-CC4A8A07FDF4}
+database: master
+path: /sitecore/content/Legal/Global/Teasers/White Papers/Trusts Estates and Tax Law
+parent: {632E60A4-8DB6-45AC-946C-710EE8AEFDA0}
+name: Trusts Estates and Tax Law
+master: {00000000-0000-0000-0000-000000000000}
+template: {C7D9D293-4EF8-4380-8E10-C4632E729F39}
+templatekey: Teaser
+created: 20160715T155324:636041948040700000
+
+----field----
+field: {E8AB122C-6F54-4D4E-AEC6-F81ADDC558FC}
+name: TeaserLink
+key: teaserlink
+content-length: 135
+
+<link text="Download Now" linktype="internal" class="" title="" target="" querystring="" id="{C92F3937-C70B-4AE4-B6C2-CD81B0EC16EF}" />
+----version----
+language: en
+version: 1
+revision: 8adddb94-0178-4cbe-852f-5f3370212d05
+
+----field----
+field: {0F6B5546-E0AB-4487-81DE-640C1AA1B65B}
+name: TeaserImage
+key: teaserimage
+content-length: 110
+
+<image mediaid="{99E21ED6-AD74-402B-AA61-965CB70926A9}" alt="" height="" width="" hspace="" vspace=""></image>
+----field----
+field: {4A59D072-5B41-4A79-A157-2B2CCAC10F2B}
+name: TeaserTitle
+key: teasertitle
+content-length: 50
+
+Download the Trusts Estates and Tax Law Whitepaper
+----field----
+field: {13D97A52-7C4E-407C-960D-FADDE8A3C1B1}
+name: TeaserSummary
+key: teasersummary
+content-length: 158
+
+This document summaries our core legal capabilities in the area of trusts estates and tax law. The white paper also includes a number of related case studies.
+----field----
+field: {3F7E7E3A-4E8E-4639-B079-FC5AEFF172F5}
+name: Teaser Label
+key: teaser label
+content-length: 10
+
+Whitepaper
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160106T164530Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+8adddb94-0178-4cbe-852f-5f3370212d05
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160715T155324Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 17
+
+default\Anonymous

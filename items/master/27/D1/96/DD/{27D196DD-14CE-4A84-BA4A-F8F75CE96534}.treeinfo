@@ -1,0 +1,9 @@
+{
+  "itemName": "News Teaser",
+  "templateId": "{98E4BDC6-9B43-4EB2-BAA3-D4303C35852E}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{45814A6A-69B2-48BD-9B14-8853BD13319A}",
+  "childIds": [
+    "{31309546-DE2E-4CF5-8289-77349FCCB75C}"
+  ]
+}

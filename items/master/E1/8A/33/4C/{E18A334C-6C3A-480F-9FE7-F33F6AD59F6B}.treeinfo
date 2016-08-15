@@ -1,0 +1,9 @@
+{
+  "itemName": "Twitter Feed",
+  "templateId": "{E269FBB5-3750-427A-9149-7AA950B49301}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{89D988BC-A9A7-43F5-A9FD-A05B0B164720}",
+  "childIds": [
+    "{099E4085-150C-4073-88D9-8B159D9A8B01}"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "itemName": "Content Types",
+  "templateId": "{0437FEE2-44C9-46A6-ABE9-28858D9FEE8C}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{F7ED173E-17D2-40A4-ACF2-89CC0AE831FA}",
+  "childIds": [
+    "{18BC1C1A-9A73-41BA-8A0C-6582E9337657}"
+  ]
+}

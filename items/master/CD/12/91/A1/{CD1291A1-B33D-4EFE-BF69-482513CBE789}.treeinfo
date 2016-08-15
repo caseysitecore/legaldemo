@@ -1,0 +1,9 @@
+{
+  "itemName": "Category Subsection",
+  "templateId": "{35E75C72-4985-4E09-88C3-0EAC6CD1E64F}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{CB18B49E-9A9E-4044-8DEE-4FAE4C149A22}",
+  "childIds": [
+    "{C7B6C284-E2F6-4612-8BC8-025CC7F83385}"
+  ]
+}

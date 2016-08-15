@@ -1,0 +1,10 @@
+{
+  "itemName": "ParametersTemplate_QueryableDatasourceRendering",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{5FD62CDC-BD6E-408C-B88F-9D9C41462CD8}",
+  "childIds": [
+    "{1CAE5ACB-51DD-48FF-B155-095F4035F90C}",
+    "{D305F6D0-753A-49C6-821A-80DCD09438C1}"
+  ]
+}

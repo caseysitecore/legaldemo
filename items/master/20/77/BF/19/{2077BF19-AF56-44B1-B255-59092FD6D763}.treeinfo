@@ -1,0 +1,9 @@
+{
+  "itemName": "Wide",
+  "templateId": "{FE5DD826-48C6-436D-B87A-7C4210C7413B}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{388C178F-BF38-48C9-A6C5-FC905B38FAC1}",
+  "childIds": [
+    "{99E21ED6-AD74-402B-AA61-965CB70926A9}"
+  ]
+}

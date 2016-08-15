@@ -1,0 +1,73 @@
+----item----
+version: 1
+id: {857B1C5D-CE83-4711-AFE9-9E9EBCCDC20B}
+database: master
+path: /sitecore/templates/Email Campaign/Message Types/Message Type/__Standard Values
+parent: {27A7FE05-048E-4294-97B3-C0C08B90D285}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {27A7FE05-048E-4294-97B3-C0C08B90D285}
+templatekey: Message Type
+created: 20160715T154802:636041944824870000
+
+----field----
+field: {BA69B6E7-FA6B-4963-AF17-77CB45797628}
+name: Campaigns Position
+key: campaigns position
+content-length: 38
+
+{C1B8669B-C41A-4ED3-BF0D-E859CF880D42}
+----field----
+field: {D306E324-3A29-428D-B686-999FD0A49C93}
+name: Standard Message Plan
+key: standard message plan
+content-length: 38
+
+{9B25DE0C-4F22-4086-A806-3046BC615386}
+----version----
+language: en
+version: 1
+revision: 4e73758a-5c55-40c7-902d-c07b25b3ed17
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20110811T152300
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+4e73758a-5c55-40c7-902d-c07b25b3ed17
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20110811T152338:634486730187751989
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

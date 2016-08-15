@@ -1,0 +1,9 @@
+{
+  "itemName": "Employees folder",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{85086BB5-0365-48D7-98B1-CB9B1B6392CA}",
+  "childIds": [
+    "{7B09F96B-3744-43FA-B934-C3DD44FAB0CB}"
+  ]
+}

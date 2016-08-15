@@ -1,0 +1,9 @@
+{
+  "itemName": "_MediaSiteExtension",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{4A2CCF0B-9C08-485B-9902-87CA2869BC8F}",
+  "childIds": [
+    "{28DE93E0-B24E-45B6-ABFE-8954C63F53D9}"
+  ]
+}

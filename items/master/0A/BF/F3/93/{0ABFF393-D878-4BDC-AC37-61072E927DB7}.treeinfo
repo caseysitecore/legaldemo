@@ -1,0 +1,9 @@
+{
+  "itemName": "Page Teaser",
+  "templateId": "{98E4BDC6-9B43-4EB2-BAA3-D4303C35852E}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{C884E500-A0D2-4FE5-B657-B01E58474FD9}",
+  "childIds": [
+    "{D5DB38CA-8665-433D-967D-724D7A3A7860}"
+  ]
+}

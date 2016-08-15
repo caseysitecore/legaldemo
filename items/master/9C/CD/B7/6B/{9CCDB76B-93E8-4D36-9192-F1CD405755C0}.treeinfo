@@ -1,0 +1,9 @@
+{
+  "itemName": "Extended List Item",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{55BD48F3-EF3B-41E4-80CF-FD4E8059E325}",
+  "childIds": [
+    "{5CA54D2D-741C-473F-BBFD-505300A75CDE}"
+  ]
+}

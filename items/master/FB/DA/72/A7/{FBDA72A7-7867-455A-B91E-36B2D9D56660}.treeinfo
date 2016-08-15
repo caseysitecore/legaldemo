@@ -1,0 +1,9 @@
+{
+  "itemName": "Leave an Email",
+  "templateId": "{FFB1DA32-2764-47DB-83B0-95B843546A7E}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{4BC8A78C-44A7-46EB-8126-040D3F12CAA0}",
+  "childIds": [
+    "{1A1D3877-8EE9-4BCC-8392-6804B96BA277}"
+  ]
+}

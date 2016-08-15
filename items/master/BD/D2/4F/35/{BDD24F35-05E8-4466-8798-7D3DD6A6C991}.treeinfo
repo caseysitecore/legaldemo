@@ -1,0 +1,9 @@
+{
+  "itemName": "_OpenGraph",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{5C48308A-0749-4895-9AA3-7D9B11EC3AB3}",
+  "childIds": [
+    "{0E03B0C2-FD98-4729-9E95-2B3C9170685F}"
+  ]
+}

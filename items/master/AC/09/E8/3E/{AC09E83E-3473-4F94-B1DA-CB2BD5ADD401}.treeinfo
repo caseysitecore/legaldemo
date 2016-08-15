@@ -1,0 +1,9 @@
+{
+  "itemName": "Habitat Introduction Video",
+  "templateId": "{F1828A2C-7E5D-4BBD-98CA-320474871548}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{06768B6F-CB33-46FF-9C33-95D662046753}",
+  "childIds": [
+    "{747D33E6-9784-4B15-AC8E-C854C5ED0D47}"
+  ]
+}

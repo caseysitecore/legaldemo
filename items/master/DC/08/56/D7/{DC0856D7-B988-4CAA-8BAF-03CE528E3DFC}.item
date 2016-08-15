@@ -1,0 +1,108 @@
+----item----
+version: 1
+id: {DC0856D7-B988-4CAA-8BAF-03CE528E3DFC}
+database: master
+path: /sitecore/system/Marketing Control Panel/Goals/Legal/Header Clicks/Sitecore Legal Services
+parent: {05CB1EFA-E446-4DE3-B495-A5140870C7B6}
+name: Sitecore Legal Services
+master: {00000000-0000-0000-0000-000000000000}
+template: {475E9026-333F-432D-A4DC-52E03B75CB6B}
+templatekey: Goal
+created: 20160715T155329:636041948096300000
+
+----field----
+field: {AC6BA888-4213-43BD-B787-D8DA2B6B881F}
+name: Name
+key: name
+content-length: 23
+
+Sitecore Legal Services
+----field----
+field: {33AE0E84-74A0-437F-AB2B-859DFA96F6C9}
+name: Points
+key: points
+content-length: 1
+
+2
+----field----
+field: {E4D0FAF3-61E7-44D4-A921-CE5C606A8DA8}
+name: IsSystem
+key: issystem
+content-length: 1
+
+0
+----field----
+field: {2F2AE296-8B58-4D94-8EEE-0E82589D61A4}
+name: Show in Page Events
+key: show in page events
+content-length: 1
+
+1
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{689E2994-4656-4C58-9112-7826CB46EE69}
+----version----
+language: en
+version: 1
+revision: a1935894-d4dd-4e87-ade6-82472559fab1
+
+----field----
+field: {797466F5-763B-4299-B6AD-E4192BF21222}
+name: Description
+key: description
+content-length: 87
+
+Site visitor clicked on a call to action to find out more about Sitecore Legal Services
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 23
+
+Sitecore Legal Services
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160218T162202Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 0
+
+
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a1935894-d4dd-4e87-ade6-82472559fab1
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160715T155329Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}
