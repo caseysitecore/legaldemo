@@ -1,0 +1,10 @@
+{
+  "itemName": "Webinar Series",
+  "templateId": "{29D4B405-39EB-487D-9D6B-3F8467AB167D}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{F4484DA6-0035-4139-ABC7-9C616854216C}",
+  "childIds": [
+    "{4C4E6AA0-8A9B-42F4-9DD2-6664A869A6EE}",
+    "{5E826C6B-C24E-4115-A711-0EC04481467F}"
+  ]
+}

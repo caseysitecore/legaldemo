@@ -1,0 +1,9 @@
+{
+  "itemName": "Footer Second",
+  "templateId": "{AC7394D5-2AA7-4FDB-A7D8-B1B87F9FA661}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{39722022-954F-4EED-B6CA-CF2A7F157A7D}",
+  "childIds": [
+    "{1E7D843D-E44D-4B27-87BA-1045AA78F355}"
+  ]
+}

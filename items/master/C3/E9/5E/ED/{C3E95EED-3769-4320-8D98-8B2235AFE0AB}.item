@@ -1,0 +1,77 @@
+----item----
+version: 1
+id: {C3E95EED-3769-4320-8D98-8B2235AFE0AB}
+database: master
+path: /sitecore/content/Consumer/Home/Landing Pages/Social Media White Paper/Social White Paper
+parent: {82F6F6D3-1F17-4236-9BD3-B23A42C088B3}
+name: Social White Paper
+master: {00000000-0000-0000-0000-000000000000}
+template: {9917C92B-0F13-4F96-B50B-84C874E25783}
+templatekey: Landing Page
+created: 20160815T174855:636068801350870000
+
+----version----
+language: en
+version: 1
+revision: 2886bf1f-1f25-428b-85c7-1a34a5d10093
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 18
+
+Social White Paper
+----field----
+field: {AC3FD4DB-8266-476D-9635-67814D91E901}
+name: Summary
+key: summary
+content-length: 84
+
+<span>The Legal Guide to the Risks and Rewards of Our Social Media Phenomenon</span>
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 420
+
+
+		<p>
+				Social media is now a revolutionary way in which corporations communicate with consumers on an everyday basis. Practically everyone is a user and, like every new communication channel there is huge potential—and huge potential risks.
+		</p>
+<p>This White Paper will help you maximize the huge potential benefits of this revolution and protect against the inherent legal risks surrounding social media.</p>
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 18
+
+Social White Paper
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20151223T144538Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+2886bf1f-1f25-428b-85c7-1a34a5d10093
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160715T155324Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

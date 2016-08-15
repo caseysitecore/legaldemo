@@ -1,0 +1,116 @@
+----item----
+version: 1
+id: {7F3E38F4-A190-48FE-AC51-B5158269D297}
+database: master
+path: /sitecore/content/Consumer/Home/News/2016/01/07/14/23/Cybersecurity Requires a Heightened Level of Collaboration
+parent: {C4E19E1C-3185-49A6-8CC8-D5BA2B67512E}
+name: Cybersecurity Requires a Heightened Level of Collaboration
+master: {00000000-0000-0000-0000-000000000000}
+template: {BB6A204D-2B9E-46CA-82CD-00751803B03E}
+templatekey: News Article
+created: 20160815T174855:636068801353500000
+
+----field----
+field: {C464D2D7-3382-428A-BCDF-0963C60BA0E3}
+name: NewsDate
+key: newsdate
+content-length: 16
+
+20160107T142500Z
+----field----
+field: {B0A67B2A-8B07-4E0B-8809-69F751709806}
+name: __Tracking
+key: __tracking
+content-length: 316
+
+<tracking><profile id="{AD3B7C5C-5BDD-4000-91CF-57F7407F9050}" name="Legal Persona" presets="susan the ceo|100||"><key name="Self-employed" value="0" /><key name="Large Corporate" value="5" /><key name="Legal trade" value="3" /><key name="Personal-Civil" value="0" /><key name="B2B" value="1" /></profile></tracking>
+----version----
+language: en
+version: 1
+revision: 3b9f347a-6691-4f6a-b65e-16a0611b0da8
+
+----field----
+field: {BD9ECD4A-C0B0-4233-A3CD-D995519AC87B}
+name: NewsTitle
+key: newstitle
+content-length: 58
+
+Cybersecurity Requires a Heightened Level of Collaboration
+----field----
+field: {3437EAAC-6EE8-460B-A33D-DA1F714B5A93}
+name: NewsImage
+key: newsimage
+content-length: 58
+
+<image mediaid="{486D73A3-4C5B-44E3-8AA8-5C84F939D618}" />
+----field----
+field: {9D08271A-1672-44DD-B7EF-0A6EC34FCBA7}
+name: NewsSummary
+key: newssummary
+content-length: 177
+
+<span>Fortune 500 banks are collaborating with law firms on a program that would allow the legal industry to share information, anonymously, about cybersecurity threats. </span>
+----field----
+field: {801612C7-5E98-4E3C-80D2-A34D0EEBCBDA}
+name: NewsBody
+key: newsbody
+content-length: 1108
+
+<p><span>In the first wave of many to follow, a number of Fortune 500 banks are collaborating with law firms on a program that would allow the legal industry to share information, anonymously, about cybersecurity threats they may be experiencing. The program go its start because the banks were individually talking to their law firms about security information and someone finally admitted, “That the current approach was painfully inefficient. ” This man was Joe Parker, a managing director at American Express who serves as chairman of the Financial Services Information Sharing and Analysis Center, an established group that facilitates transmission of such information to the financial industry.</span></p>
+<p><span>Law firms can now apply to participate as an adjunct to these participating Fortune 500 banks. In addition to major law firms such as Horvath Smithe & Tate and Sullivan & Comstock, representatives of the International Legal Technology Association are also now able to participate in discussions about sharing cybersecurity information between the financial and legal industry.</span></p>
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 58
+
+Cybersecurity Requires a Heightened Level of Collaboration
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 78
+
+cybersecurity, legal trends, legal collaboration, partnerships, cyber threats 
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 283
+
+<r xmlns:p="p" xmlns:s="s" p:p="1" s:xsd="http://www.w3.org/2001/XMLSchema"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{7EFEADD6-578D-4B17-A78B-AFA04CC8C226}" p:before="*" s:id="{831876B6-F9F1-463E-9DD5-7F93F1640590}" s:ph="/page-layout/section/section-narrow" /></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160107T142343Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+3b9f347a-6691-4f6a-b65e-16a0611b0da8
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160811T143527Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\casey

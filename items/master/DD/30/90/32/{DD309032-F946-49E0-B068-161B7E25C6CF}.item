@@ -1,0 +1,152 @@
+----item----
+version: 1
+id: {DD309032-F946-49E0-B068-161B7E25C6CF}
+database: master
+path: /sitecore/content/Consumer/Home/Our Team/Jenna Ridley
+parent: {1040CEC8-8CF1-46F6-A156-85608E2E4FE1}
+name: Jenna Ridley
+master: {00000000-0000-0000-0000-000000000000}
+template: {75E42A73-0AE1-44C5-AC04-C9D5C4568680}
+templatekey: Employee
+created: 20160815T174855:636068801351630000
+
+----field----
+field: {B0A67B2A-8B07-4E0B-8809-69F751709806}
+name: __Tracking
+key: __tracking
+content-length: 286
+
+<tracking><profile id="{AD3B7C5C-5BDD-4000-91CF-57F7407F9050}" name="Legal Persona"><key name="Self-employed" value="0" /><key name="Large Corporate" value="0" /><key name="Legal trade" value="1" /><key name="Personal-Civil" value="5" /><key name="B2B" value="2" /></profile></tracking>
+----version----
+language: en
+version: 1
+revision: 3be39115-bf56-41e6-ae52-bc0d5212c8b4
+
+----field----
+field: {0CC9785E-54FE-4FAE-93E4-D0D2AE75F339}
+name: Biography
+key: biography
+content-length: 1497
+
+<p style="margin-left: 13.5pt;"><span>Jenna is a partner and member of the firm’s Taxation Law group. Her areas of practice include primarily financial and tax counsel for corporate businesses as well as individual income, estate and gift tax planning, general business matters, international financial planning, and tax dispute resolution before the Internal Revenue Service, the Franchise Tax Board, and the State Board of Equalization. She regularly advises clients in connection with the acquisition and disposition of interests in business enterprises and disputes between owners within the same business.</span></p>
+<p style="margin-left: 13.5pt;"><span>Jenna counsels trustees, including family members, as to a wide range of tax issues that arise during the administration of trust. In advising trustees, Jenna’s expertise includes the taxation of estates and trusts. She has extensive knowledge about the many taxes that are required to be filed with federal, state, and local government.</span></p>
+<p style="margin-left: 13.5pt;"><span>Jenna has been practicing in the Bay Area area for more than 30 years. She lectures on business and corporate tax issues to a variety of community and business groups. She is actively involved in non-profit organizations in the community. Jenna is a member of the Board of Overseers for the UCSF Benioff Medical Center, and she is a board member of UCP of the Golden Gate. She was recognized on The Best Lawyers in America 2014 and 2015.</span></p>
+----field----
+field: {26CD59AB-3639-488F-BAFD-58D2B217755A}
+name: Name
+key: name
+content-length: 15
+
+Jenna C. Ridley
+----field----
+field: {76972FCD-4BB0-4255-864E-077745EFDF50}
+name: Title
+key: title
+content-length: 14
+
+Senior Partner
+----field----
+field: {C9BAF3EB-8CFA-4BF6-9B19-51D38DB5FC38}
+name: Picture
+key: picture
+content-length: 64
+
+<image mediaid="{75E9EE88-69FF-47D1-BE59-ED83E6664483}"></image>
+----field----
+field: {B897023C-15D2-49F3-8974-06FA5FB7AD00}
+name: Summary
+key: summary
+content-length: 155
+
+Jenna is a partner and member of the firm’s Taxation Law group. Her areas of practice include primarily financial and tax counsel for corporate businesses.
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 12
+
+Jenna Ridley
+----field----
+field: {8D0E8EE3-21C4-4AE2-A2F1-53D3F3EBE501}
+name: Telephone
+key: telephone
+content-length: 15
+
++1-912-555-2845
+----field----
+field: {25B4CEE3-A61A-4DC3-BB52-775DD509DBB5}
+name: Mobile
+key: mobile
+content-length: 15
+
++1-912-555-2776
+----field----
+field: {5978B330-1D46-4065-8751-F74BF17D815E}
+name: Email
+key: email
+content-length: 24
+
+j.ridley@chaseridley.com
+----field----
+field: {0EE2F208-1FEE-42FC-8051-6696D49A92BF}
+name: OpenGraphTitle
+key: opengraphtitle
+content-length: 12
+
+Jenna Ridley
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 12
+
+Jenna Ridley
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 84
+
+Jenna Ridley, partner, trust, estate, taxation, individual income, gift tax planning
+----field----
+field: {167ABA77-5172-42AF-9F9E-00299113839E}
+name: CustomMetaData
+key: custommetadata
+content-length: 84
+
+Jenna Ridley, partner, trust, estate, taxation, individual income, gift tax planning
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 1094
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{BAD494C9-8104-4770-B722-37BABE68F791}" p:before="r[@uid='{5F62AF91-E79E-4C10-816A-E620F7918974}']" s:ds="{96A6EC33-2398-4752-AA9E-4A3FDBB6606F}" s:id="{A1AD34DD-535E-47AF-A911-34C57CCC26F6}" s:ph="/footer/section/col-narrow-3_6d467c31-0e0f-4370-a9c2-52bbf63f9489" /><r uid="{5F62AF91-E79E-4C10-816A-E620F7918974}" p:before="r[@uid='{976C48E3-A376-49F2-84B1-B63A1F1B77F4}']" s:ds="{2FAAA7E6-D16A-4D81-B142-4AE6FCC4D4F5}" s:id="{A1AD34DD-535E-47AF-A911-34C57CCC26F6}" s:ph="/footer/section/col-narrow-2_6d467c31-0e0f-4370-a9c2-52bbf63f9489" /><r uid="{976C48E3-A376-49F2-84B1-B63A1F1B77F4}" p:before="r[@uid='{6D467C31-0E0F-4370-A9C2-52BBF63F9489}']" s:ds="{21B9EA21-EED3-471D-B17D-E3D90CD16434}" s:id="{A1AD34DD-535E-47AF-A911-34C57CCC26F6}" s:ph="/footer/section/col-narrow-1_6d467c31-0e0f-4370-a9c2-52bbf63f9489" /><r uid="{6D467C31-0E0F-4370-A9C2-52BBF63F9489}" p:before="r[@uid='{07C9FE71-A5E2-4E5F-B276-5F2B73481D44}']" s:id="{7074CA39-734D-4953-A3D5-B7D09C37CE3B}" s:ph="/footer/section" /></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20151217T155605Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+3be39115-bf56-41e6-ae52-bc0d5212c8b4
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160715T155323Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

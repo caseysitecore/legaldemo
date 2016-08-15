@@ -1,0 +1,59 @@
+----item----
+version: 1
+id: {257443E3-526D-40E6-A1E8-9065BE0E7458}
+database: master
+path: /sitecore/content/Consumer/Home/News/2016/08/10/13
+parent: {344A3109-8F8F-4B3E-8878-1B00B4CF0E0E}
+name: 13
+master: {00000000-0000-0000-0000-000000000000}
+template: {ADB6CA4F-03EF-4F47-B9AC-9CE2BA53FF97}
+templatekey: Bucket
+created: 20160815T174855:636068801355570000
+
+----version----
+language: en
+version: 1
+revision: 2899a205-af29-49e9-a600-2f36aaf27646
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+legal\caroline
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160810T132416Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+legal\caroline
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+2899a205-af29-49e9-a600-2f36aaf27646
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160810T132416Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+legal\caroline

@@ -1,0 +1,73 @@
+----item----
+version: 1
+id: {9E4E596B-8C31-4163-AB56-B15E25AA60B6}
+database: master
+path: /sitecore/content/Consumer/Global/Teasers/Headers/Trusts Estates and Tax Law
+parent: {C57BB0EE-DCC6-4737-8687-B1968C09119F}
+name: Trusts Estates and Tax Law
+master: {00000000-0000-0000-0000-000000000000}
+template: {C7D9D293-4EF8-4380-8E10-C4632E729F39}
+templatekey: Teaser
+created: 20160815T174855:636068801358670000
+
+----field----
+field: {E8AB122C-6F54-4D4E-AEC6-F81ADDC558FC}
+name: TeaserLink
+key: teaserlink
+content-length: 136
+
+<link text="Find Out More" linktype="internal" class="" title="" target="" querystring="" id="{D302EFA4-1332-4D8C-9F5D-F5D99AC5884A}" />
+----version----
+language: en
+version: 1
+revision: 22efd8c7-168c-49fc-b4f3-2feda4325c18
+
+----field----
+field: {0F6B5546-E0AB-4487-81DE-640C1AA1B65B}
+name: TeaserImage
+key: teaserimage
+content-length: 65
+
+<image mediaid="{4724E95C-30D7-4501-B2D7-15736BAFE229}" ></image>
+----field----
+field: {4A59D072-5B41-4A79-A157-2B2CCAC10F2B}
+name: TeaserTitle
+key: teasertitle
+content-length: 16
+
+Personal Matters
+----field----
+field: {13D97A52-7C4E-407C-960D-FADDE8A3C1B1}
+name: TeaserSummary
+key: teasersummary
+content-length: 82
+
+Helping you navigate family law and specialising in trusts, personal tax and wills
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160317T072504Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+22efd8c7-168c-49fc-b4f3-2feda4325c18
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160715T155323Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 17
+
+default\Anonymous

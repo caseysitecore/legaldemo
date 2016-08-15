@@ -1,0 +1,172 @@
+----item----
+version: 1
+id: {A851BA5C-65AA-4EF8-B643-15593FF1912B}
+database: master
+path: /sitecore/content/Consumer/Home/Landing Pages/Email Taxation Webinar Mockup
+parent: {6F18D243-D884-4584-BFFA-0E22484355AC}
+name: Email Taxation Webinar Mockup
+master: {00000000-0000-0000-0000-000000000000}
+template: {AA8556EE-6F5B-4B07-9909-11A5189F9FFC}
+templatekey: Demo Page
+created: 20160815T174855:636068801350230000
+
+----version----
+language: en
+version: 1
+revision: bd6d1d47-367a-496f-82e7-7113d054dd14
+
+----field----
+field: {0BC0AEDF-A6D0-4F74-933C-BD1779CD40B2}
+name: HTML Content
+key: html content
+content-length: 4789
+
+<!DOCTYPE html>
+<!--[if IE 9]><html lang="en" class="ie9 no-js"><![endif]-->
+<!--[if !IE]><!-->
+<html lang="en">
+<!--<![endif]-->
+<head>
+  <meta charset="utf-8"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+  <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+
+
+<title>Tax Webinar Email</title>
+<meta name="keywords" content=""/>
+<meta name="description" content="Mergers, acquisitions, M&A, MA, legal mergers, legal resource, B2B, transaction tax, webinar, legal webinar"/>
+<meta property="og:title" content=""/>
+<meta property="og:image" content=""/>
+<meta property="og:description" content=""/>
+<!-- Latest compiled and minified JavaScript -->
+  <script src="/Scripts/jquery-2.1.4.min.js"></script>
+
+  <link href="/assets/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
+<link href="/assets/plugins/simple-line-icons/simple-line-icons.min.css" rel="stylesheet" />
+<link href="/assets/plugins/animate/animate.min.css" rel="stylesheet" />
+<link href="/assets/Sitecore.Foundation.Theming.css" rel="stylesheet" />
+
+  
+</head>
+<body class="">
+<div class="page-layout">
+  <div class="container-fluid page-header-container">
+  <div class="row">
+    <div class="col-lg-8">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8">
+            <div class="page-header">
+              
+
+
+    <div>To: <span style="color:blue">Jared Jones (jared@sc-demo.net)</span></div>
+	<div>From: <span style="color:blue">Chase Ridley Marketing (noreply@chaseridley.com)</span></div>
+	<h5>Solving Transaction Tax Challenges in Mergers and Acquisitions</h5>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container">
+  <div class="row">
+    <div class="col-md-8">
+      
+
+<div class="section-title">
+  <h1>
+    &#160;What’s the best choice of entity for your client’s startup?
+  </h1>
+</div>
+    </div>
+  </div>
+</div>
+<div class="container">
+  <div class="row">
+    <div class="col-md-8">
+<div class="article image">
+  <img src="/-/media/Legal/Images/3x2/Business-Woman-Making-Arrangements.jpg?h=333&amp;la=en&amp;mw=500&amp;w=500&amp;hash=6D62EE5820C48C18077C03D4CD887074D2F1E156" class="img-responsive" alt="Business Woman Making Arrangements" width="500" height="333" disablewebedit="False">
+</div>
+<div class="article body">
+
+	<p>For startups that envision the need to issue stock options, explore venture capital, plan on the possibility of spinning off separate business lines, moving into global markets, or dealing with special issues of cashing out, the choice of entity the owner makes at the beginning can have significant tax and operational impact on their business.</p>
+	<p>Tax attorneys, like yourself, can provide detailed and valuable guidance in outlining the different tax planning opportunities associated with various business entity structures, not only at startup but throughout the life of your client’s business. Tax counsel must provide guidance to business owners to set up the right type of entity to meet the owner's initial goals while providing sufficient flexibility to change the form of the entity as the business evolves.</p>
+	<p>Advisers need to know the details of choice of entity to enable their clients to operate businesses in a tax-efficient manner.</p>
+	<p>Listen as our experienced panel provides a detailed examination into the tax planning considerations and opportunities in advising clients on choosing a business entity.</p>
+	<h5><a href="/Landing%20Pages/Taxation%20Webinar/Taxation%20Webinar%20Register?sc_camp=356A7E5445E14860AFBBF922E8A3018F">Register now</a></h5>
+</div>
+
+
+    </div>
+
+  </div>
+</div>
+</div>
+<footer>
+
+<div class="postfooter">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-8">
+        
+<div class="copyright">
+  Copyright 2015 Sitecore Legal Services
+</div>
+      </div>
+    </div>
+  </div>
+</div>
+  <div class="prefooter">
+        <div class="container">
+        <div class="row">
+          <div class="col-lg-8">
+            <div class="page-header">
+				<span style="color:blue;font-weight: 600;">Reply</span>&nbsp;&nbsp;&nbsp; <span style="color:blue;font-weight: 600;">Reply All</span>&nbsp;&nbsp;&nbsp; <span style="color:blue;font-weight: 600;">Forward</span>&nbsp;&nbsp;&nbsp; <span style="color:blue;font-weight: 600;">More</span> 
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+</div>
+</footer>
+
+  
+
+<script src="/javascripts/bootstrap.min.js"></script>
+<script src="/scripts/Sitecore.Foundation.Theming.js"></script>
+
+</body>
+</html>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160209T151137Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+bd6d1d47-367a-496f-82e7-7113d054dd14
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160715T155322Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 17
+
+default\Anonymous

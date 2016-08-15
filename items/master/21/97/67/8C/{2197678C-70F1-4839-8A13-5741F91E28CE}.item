@@ -1,0 +1,145 @@
+----item----
+version: 1
+id: {2197678C-70F1-4839-8A13-5741F91E28CE}
+database: master
+path: /sitecore/content/Consumer/Home/Our Team/Shane Nevins
+parent: {1040CEC8-8CF1-46F6-A156-85608E2E4FE1}
+name: Shane Nevins
+master: {00000000-0000-0000-0000-000000000000}
+template: {75E42A73-0AE1-44C5-AC04-C9D5C4568680}
+templatekey: Employee
+created: 20160815T174855:636068801351730000
+
+----field----
+field: {B0A67B2A-8B07-4E0B-8809-69F751709806}
+name: __Tracking
+key: __tracking
+content-length: 286
+
+<tracking><profile id="{AD3B7C5C-5BDD-4000-91CF-57F7407F9050}" name="Legal Persona"><key name="Self-employed" value="3" /><key name="Large Corporate" value="0" /><key name="Legal trade" value="5" /><key name="Personal-Civil" value="0" /><key name="B2B" value="1" /></profile></tracking>
+----version----
+language: en
+version: 1
+revision: e9a8a23f-b46d-4071-aa31-fc7c867f666b
+
+----field----
+field: {0CC9785E-54FE-4FAE-93E4-D0D2AE75F339}
+name: Biography
+key: biography
+content-length: 1467
+
+<p style="margin-left: 13.5pt;"><span>Shane Nevins is a shareholder at Chase Ridley. Shane was originally a trial lawyer, but is now focused on counseling production companies, direct response companies and multi-level marketing organizations in both operational and compliance matters. In particular, Shane is focused on advertising and compliance issues, including FTC counseling and litigation, trademark and copyrights, class actions, and multi-agency compliance involving all aspects of marketing (over multiple media platforms).</span></p>
+<p style="margin-left: 13.5pt;"><span>Shane has practiced law for over 20 years. He is a graduate of UC Berkeley School of Law, where he served as an editor of  their Weekly Law Review. From the earliest stages of his career, he advised high-level clients on corporate governance, contracting and compliance issues. Shane has litigated intellectual property, government contracts, trademark, copyright, trade secrets, insurance and environmental and entertainment issues, among others. He has tried cases in the contract real estate, bankruptcy and partnership areas.</span></p>
+<p style="margin-left: 13.5pt;"><span>Shane publishes regularly in the fields of advertising law and litigation, art law and proposition 65 matters. And, has been an invited speaker at both UCLA and USC Law Schools and is a mentor to UCLA law students. He has been recognized as a Southern California Super Lawyer from 2007-2015.</span></p>
+----field----
+field: {26CD59AB-3639-488F-BAFD-58D2B217755A}
+name: Name
+key: name
+content-length: 12
+
+Shane Nevins
+----field----
+field: {76972FCD-4BB0-4255-864E-077745EFDF50}
+name: Title
+key: title
+content-length: 11
+
+Shareholder
+----field----
+field: {C9BAF3EB-8CFA-4BF6-9B19-51D38DB5FC38}
+name: Picture
+key: picture
+content-length: 64
+
+<image mediaid="{220D5B75-CC20-4ADF-B4B8-BAE4CB4E0B9C}"></image>
+----field----
+field: {B897023C-15D2-49F3-8974-06FA5FB7AD00}
+name: Summary
+key: summary
+content-length: 205
+
+Shane Nevins is a shareholder at Chase Ridley. Shane was originally a trial lawyer, but is now focused on counseling production companies, direct response companies and multi-level marketing organizations.
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 12
+
+Shane Nevins
+----field----
+field: {8D0E8EE3-21C4-4AE2-A2F1-53D3F3EBE501}
+name: Telephone
+key: telephone
+content-length: 15
+
++1-912-555-5561
+----field----
+field: {25B4CEE3-A61A-4DC3-BB52-775DD509DBB5}
+name: Mobile
+key: mobile
+content-length: 15
+
++1-912-555-5578
+----field----
+field: {5978B330-1D46-4065-8751-F74BF17D815E}
+name: Email
+key: email
+content-length: 24
+
+s.nevins@chaseridley.com
+----field----
+field: {0EE2F208-1FEE-42FC-8051-6696D49A92BF}
+name: OpenGraphTitle
+key: opengraphtitle
+content-length: 12
+
+Shane Nevins
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 12
+
+Shane Nevins
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 114
+
+Shane Nevins, operati0nal and compliance law, multilevel marketing, production company, marketing, direct response
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 1094
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{9752E156-24FC-462F-8304-44A1812AAF24}" p:before="r[@uid='{ABDFE10A-DD63-4A35-A864-FE2EC59D4899}']" s:ds="{0BC92115-528D-4784-B9C2-9EB422C0C5CB}" s:id="{A25C9850-AAB7-46A6-84B7-0DFAB32FC357}" s:ph="/footer/section/col-narrow-3_21959a84-18d3-4047-99e0-08f1117a9af8" /><r uid="{ABDFE10A-DD63-4A35-A864-FE2EC59D4899}" p:before="r[@uid='{54AF42DE-4F42-4FE1-966C-4A8E9D64F683}']" s:ds="{43C5E36C-C606-44D4-981E-0072038BDB02}" s:id="{A25C9850-AAB7-46A6-84B7-0DFAB32FC357}" s:ph="/footer/section/col-narrow-2_21959a84-18d3-4047-99e0-08f1117a9af8" /><r uid="{54AF42DE-4F42-4FE1-966C-4A8E9D64F683}" p:before="r[@uid='{21959A84-18D3-4047-99E0-08F1117A9AF8}']" s:ds="{54636D26-3151-425B-873D-8B8C3C03A999}" s:id="{A25C9850-AAB7-46A6-84B7-0DFAB32FC357}" s:ph="/footer/section/col-narrow-1_21959a84-18d3-4047-99e0-08f1117a9af8" /><r uid="{21959A84-18D3-4047-99E0-08F1117A9AF8}" p:before="r[@uid='{07C9FE71-A5E2-4E5F-B276-5F2B73481D44}']" s:id="{7074CA39-734D-4953-A3D5-B7D09C37CE3B}" s:ph="/footer/section" /></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160107T134252Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+e9a8a23f-b46d-4071-aa31-fc7c867f666b
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160715T155323Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

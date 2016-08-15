@@ -1,0 +1,67 @@
+----item----
+version: 1
+id: {BA3CE19C-1918-4652-8DA1-DA229C28A807}
+database: master
+path: /sitecore/content/Consumer/Global/Media/Boardroom
+parent: {48B0CF8D-6D59-40F0-B27B-8577648EC07F}
+name: Boardroom
+master: {00000000-0000-0000-0000-000000000000}
+template: {F1C095E2-B3E0-46D0-B838-02A9E8B880D9}
+templatekey: Video
+created: 20160815T174855:636068801357600000
+
+----version----
+language: en
+version: 1
+revision: c900f142-27ef-4677-b464-80fd2934f9c8
+
+----field----
+field: {2628705D-9434-4448-978C-C3BF166FA1EB}
+name: MediaVideoLink
+key: mediavideolink
+content-length: 204
+
+<link id="{C3098D0A-B58C-4DAF-9D96-75D13F6B276C}" querystring="" text="Boardroom" title="" class="" linktype="internal" url="/sitecore/media library/Legal/Video/Conference Room Chairs Office" target="" />
+----field----
+field: {63DDA48B-B0CB-45A7-9A1B-B26DDB41009B}
+name: MediaTitle
+key: mediatitle
+content-length: 9
+
+Boardroom
+----field----
+field: {302C9F8D-F703-4F76-A4AB-73D222648232}
+name: MediaDescription
+key: mediadescription
+content-length: 268
+
+<p><span style="font-family: Times New Roman;">Almost every board meeting results in new ideas. Some are simple but other require complex legal advice.</span></p>
+<p><span style="font-family: Times New Roman;">We can provide expert advice on corporate law.</span></p>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160325T100859Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+c900f142-27ef-4677-b464-80fd2934f9c8
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160715T155322Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 17
+
+default\Anonymous

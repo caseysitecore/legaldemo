@@ -1,0 +1,52 @@
+----item----
+version: 1
+id: {50F71D9A-BD1F-427B-B8EB-1D0CB4C2E76D}
+database: master
+path: /sitecore/content/Consumer/Home/News/2016/02/02/15/16
+parent: {61B27989-7CC0-4A4E-86DB-2E1C4B78388B}
+name: 16
+master: {00000000-0000-0000-0000-000000000000}
+template: {ADB6CA4F-03EF-4F47-B9AC-9CE2BA53FF97}
+templatekey: Bucket
+created: 20160815T174855:636068801354400000
+
+----version----
+language: en
+version: 1
+revision: 5ce04152-93a5-4744-ae76-00e456711ee6
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160202T151627Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 17
+
+sitecore\Caroline
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+5ce04152-93a5-4744-ae76-00e456711ee6
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160715T155324Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

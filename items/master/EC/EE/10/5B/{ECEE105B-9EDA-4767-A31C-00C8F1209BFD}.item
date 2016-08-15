@@ -1,0 +1,73 @@
+----item----
+version: 1
+id: {ECEE105B-9EDA-4767-A31C-00C8F1209BFD}
+database: master
+path: /sitecore/content/Consumer/Global/Teasers/Contact Us
+parent: {F4484DA6-0035-4139-ABC7-9C616854216C}
+name: Contact Us
+master: {00000000-0000-0000-0000-000000000000}
+template: {C7D9D293-4EF8-4380-8E10-C4632E729F39}
+templatekey: Teaser
+created: 20160815T174855:636068801358430000
+
+----field----
+field: {E8AB122C-6F54-4D4E-AEC6-F81ADDC558FC}
+name: TeaserLink
+key: teaserlink
+content-length: 172
+
+<link id="{EEEB4C47-E0D5-4871-A793-C00501923D99}" querystring="" text="Contact Now" title="" class="" linktype="internal" url="/Legal/Home/About Us/Contact Us" target="" />
+----version----
+language: en
+version: 1
+revision: aec16a9b-c20a-4cb5-bab1-aa9f3971bfa6
+
+----field----
+field: {0F6B5546-E0AB-4487-81DE-640C1AA1B65B}
+name: TeaserImage
+key: teaserimage
+content-length: 65
+
+<image mediaid="{7C41D733-01A5-4EDF-A28D-7B3A44B8A9E3}" ></image>
+----field----
+field: {4A59D072-5B41-4A79-A157-2B2CCAC10F2B}
+name: TeaserTitle
+key: teasertitle
+content-length: 10
+
+Contact Us
+----field----
+field: {13D97A52-7C4E-407C-960D-FADDE8A3C1B1}
+name: TeaserSummary
+key: teasersummary
+content-length: 38
+
+Please feel free to leave us a message
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160301T181041Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+aec16a9b-c20a-4cb5-bab1-aa9f3971bfa6
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160715T155322Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 17
+
+default\Anonymous

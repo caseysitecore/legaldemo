@@ -1,0 +1,549 @@
+----item----
+version: 1
+id: {A851B2EC-F88A-459A-ADDD-77D10B9EAF6F}
+database: master
+path: /sitecore/content/Consumer/Home/Practise Areas/Trusts Estates and Tax Law
+parent: {B992C547-0F18-47E5-8A13-11B9636EBF6B}
+name: Trusts Estates and Tax Law
+master: {00000000-0000-0000-0000-000000000000}
+template: {4B0A2893-4E7B-4248-86A9-DAB6DA3BB230}
+templatekey: Article
+created: 20160815T174854:636068801349730000
+
+----field----
+field: {B0A67B2A-8B07-4E0B-8809-69F751709806}
+name: __Tracking
+key: __tracking
+content-length: 322
+
+<tracking><profile id="{AD3B7C5C-5BDD-4000-91CF-57F7407F9050}" name="Legal Persona" presets="margaret the mother|100||"><key name="B2B" value="1" /><key name="Large Corporate" value="0" /><key name="Legal trade" value="0" /><key name="Personal-Civil" value="5" /><key name="Self-employed" value="1" /></profile></tracking>
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{E2A658AB-B142-4AD9-AACA-C69200622F44}
+----version----
+language: en
+version: 1
+revision: 9eca899d-a3c6-4915-8da4-c9a213b03622
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 28
+
+Trusts, Estates, and Tax Law
+----field----
+field: {AC3FD4DB-8266-476D-9635-67814D91E901}
+name: Summary
+key: summary
+content-length: 348
+
+<span>Chase Ridley’s attorneys have concentrated their practices on Trusts and Estates for more than 20 years. With all of this expertise, we know how to focus on clients’ personal concerns as well as their estate planning, tax, and litigation goals. Our top priority is to provide our clients with the customized service they need and want.</span>
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 1076
+
+<span>Chase Ridley’s estate planners advise individuals and families in connection with minimizing estate tax, gift tax, and tax burdens associated with the transfer of wealth between generations. We have extensive experience with designing and implementing sophisticated estate, valuation, and philanthropic planning techniques, including such planning vehicles as family limited partnerships and limited liability companies, grantor trusts, life insurance trusts, charitable lead and charitable remainder trusts, and other charitable planning devices. As a result of recent tax law changes, our planning strategies include full consideration of income tax basis and value appreciation in our clients’ various assets, and the potential for portability of our clients’ unused estate and gift tax exemptions. We also have expertise in tax planning and tax controversies, including representation in audits and tax court proceedings. We advise clients on all aspects of federal, state and local taxation issues, including estate, gift, GST, income, and property taxation.</span>
+----field----
+field: {9492E0BB-9DF9-46E7-8188-EC795C4ADE44}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{4F077DF2-F8F4-44DF-AC98-DA8DEBFB5EA5}" />
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 28
+
+Trusts, Estates, and Tax Law
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 28
+
+Trusts, Estates, and Tax Law
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 209
+
+tax law, estate law, tax and estate planning, estate tax, gift tax, trusts, valuation, philanthropy planning, life insurance trusts, estat valuation, charitable trusts, estate planning strategies, tax planning
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 361
+
+<r xmlns:p="p" xmlns:s="s" p:p="1" s:xsd="http://www.w3.org/2001/XMLSchema"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{90EF5CFE-D321-4217-B342-AF291B35F2C1}" p:before="r[@uid='{565F9960-4E47-4DA4-9406-0A29DD09911F}']" s:ds="{6C120B9D-8923-43F3-A0C3-CC4A8A07FDF4}" s:id="{E47303E0-90FD-4E81-B2B5-CA4E8C1C36B4}" s:ph="/page-layout/sidebar" /></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20151223T142834Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+9eca899d-a3c6-4915-8da4-c9a213b03622
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160715T155323Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn
+----version----
+language: en
+version: 2
+revision: 22a2cdfe-1f4c-456d-8314-05429dc8d19c
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 28
+
+Trusts, Estates, and Tax Law
+----field----
+field: {AC3FD4DB-8266-476D-9635-67814D91E901}
+name: Summary
+key: summary
+content-length: 348
+
+<span>Chase Ridley’s attorneys have concentrated their practices on Trusts and Estates for more than 20 years. With all of this expertise, we know how to focus on clients’ personal concerns as well as their estate planning, tax, and litigation goals. Our top priority is to provide our clients with the customized service they need and want.</span>
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 1076
+
+<span>Chase Ridley’s estate planners advise individuals and families in connection with minimizing estate tax, gift tax, and tax burdens associated with the transfer of wealth between generations. We have extensive experience with designing and implementing sophisticated estate, valuation, and philanthropic planning techniques, including such planning vehicles as family limited partnerships and limited liability companies, grantor trusts, life insurance trusts, charitable lead and charitable remainder trusts, and other charitable planning devices. As a result of recent tax law changes, our planning strategies include full consideration of income tax basis and value appreciation in our clients’ various assets, and the potential for portability of our clients’ unused estate and gift tax exemptions. We also have expertise in tax planning and tax controversies, including representation in audits and tax court proceedings. We advise clients on all aspects of federal, state and local taxation issues, including estate, gift, GST, income, and property taxation.</span>
+----field----
+field: {9492E0BB-9DF9-46E7-8188-EC795C4ADE44}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{99AC60F4-68E0-44CE-A612-91DBC1400691}" />
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 28
+
+Trusts, Estates, and Tax Law
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 28
+
+Trusts, Estates, and Tax Law
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 209
+
+tax law, estate law, tax and estate planning, estate tax, gift tax, trusts, valuation, philanthropy planning, life insurance trusts, estat valuation, charitable trusts, estate planning strategies, tax planning
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 361
+
+<r xmlns:p="p" xmlns:s="s" p:p="1" s:xsd="http://www.w3.org/2001/XMLSchema"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{90EF5CFE-D321-4217-B342-AF291B35F2C1}" p:before="r[@uid='{565F9960-4E47-4DA4-9406-0A29DD09911F}']" s:ds="{6C120B9D-8923-43F3-A0C3-CC4A8A07FDF4}" s:id="{E47303E0-90FD-4E81-B2B5-CA4E8C1C36B4}" s:ph="/page-layout/sidebar" /></d></r>
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20160211T094343Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160211T094343Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 17
+
+sitecore\Caroline
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+22a2cdfe-1f4c-456d-8314-05429dc8d19c
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160715T155323Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{B1BAB248-FFB4-4295-9783-E8FE17E2FE34}
+----version----
+language: en
+version: 3
+revision: c6a90b9e-56da-4abd-9101-8622f3221ac1
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 28
+
+Trusts, Estates, and Tax Law
+----field----
+field: {AC3FD4DB-8266-476D-9635-67814D91E901}
+name: Summary
+key: summary
+content-length: 348
+
+<span>Chase Ridley’s attorneys have concentrated their practices on Trusts and Estates for more than 20 years. With all of this expertise, we know how to focus on clients’ personal concerns as well as their estate planning, tax, and litigation goals. Our top priority is to provide our clients with the customized service they need and want.</span>
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 1076
+
+<span>Chase Ridley’s estate planners advise individuals and families in connection with minimizing estate tax, gift tax, and tax burdens associated with the transfer of wealth between generations. We have extensive experience with designing and implementing sophisticated estate, valuation, and philanthropic planning techniques, including such planning vehicles as family limited partnerships and limited liability companies, grantor trusts, life insurance trusts, charitable lead and charitable remainder trusts, and other charitable planning devices. As a result of recent tax law changes, our planning strategies include full consideration of income tax basis and value appreciation in our clients’ various assets, and the potential for portability of our clients’ unused estate and gift tax exemptions. We also have expertise in tax planning and tax controversies, including representation in audits and tax court proceedings. We advise clients on all aspects of federal, state and local taxation issues, including estate, gift, GST, income, and property taxation.</span>
+----field----
+field: {9492E0BB-9DF9-46E7-8188-EC795C4ADE44}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{99AC60F4-68E0-44CE-A612-91DBC1400691}" />
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 28
+
+Trusts, Estates, and Tax Law
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 28
+
+Trusts, Estates, and Tax Law
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 209
+
+tax law, estate law, tax and estate planning, estate tax, gift tax, trusts, valuation, philanthropy planning, life insurance trusts, estat valuation, charitable trusts, estate planning strategies, tax planning
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 361
+
+<r xmlns:p="p" xmlns:s="s" p:p="1" s:xsd="http://www.w3.org/2001/XMLSchema"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{90EF5CFE-D321-4217-B342-AF291B35F2C1}" p:before="r[@uid='{565F9960-4E47-4DA4-9406-0A29DD09911F}']" s:ds="{6C120B9D-8923-43F3-A0C3-CC4A8A07FDF4}" s:id="{E47303E0-90FD-4E81-B2B5-CA4E8C1C36B4}" s:ph="/page-layout/sidebar" /></d></r>
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20160211T100336Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160211T100336Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 17
+
+sitecore\Caroline
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+c6a90b9e-56da-4abd-9101-8622f3221ac1
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160715T155323Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{B1BAB248-FFB4-4295-9783-E8FE17E2FE34}
+----version----
+language: en
+version: 4
+revision: a9115e21-415b-47e9-972a-c52d1586b0f0
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 28
+
+Trusts, Estates, and Tax Law
+----field----
+field: {AC3FD4DB-8266-476D-9635-67814D91E901}
+name: Summary
+key: summary
+content-length: 348
+
+<span>Chase Ridley’s attorneys have concentrated their practices on Trusts and Estates for more than 20 years. With all of this expertise, we know how to focus on clients’ personal concerns as well as their estate planning, tax, and litigation goals. Our top priority is to provide our clients with the customized service they need and want.</span>
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 1076
+
+<span>Chase Ridley’s estate planners advise individuals and families in connection with minimizing estate tax, gift tax, and tax burdens associated with the transfer of wealth between generations. We have extensive experience with designing and implementing sophisticated estate, valuation, and philanthropic planning techniques, including such planning vehicles as family limited partnerships and limited liability companies, grantor trusts, life insurance trusts, charitable lead and charitable remainder trusts, and other charitable planning devices. As a result of recent tax law changes, our planning strategies include full consideration of income tax basis and value appreciation in our clients’ various assets, and the potential for portability of our clients’ unused estate and gift tax exemptions. We also have expertise in tax planning and tax controversies, including representation in audits and tax court proceedings. We advise clients on all aspects of federal, state and local taxation issues, including estate, gift, GST, income, and property taxation.</span>
+----field----
+field: {9492E0BB-9DF9-46E7-8188-EC795C4ADE44}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{BFEBCC8D-046C-43FF-AE82-504B2DAC9F62}" />
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 28
+
+Trusts, Estates, and Tax Law
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 28
+
+Trusts, Estates, and Tax Law
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 209
+
+tax law, estate law, tax and estate planning, estate tax, gift tax, trusts, valuation, philanthropy planning, life insurance trusts, estat valuation, charitable trusts, estate planning strategies, tax planning
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 361
+
+<r xmlns:p="p" xmlns:s="s" p:p="1" s:xsd="http://www.w3.org/2001/XMLSchema"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{90EF5CFE-D321-4217-B342-AF291B35F2C1}" p:before="r[@uid='{565F9960-4E47-4DA4-9406-0A29DD09911F}']" s:ds="{6C120B9D-8923-43F3-A0C3-CC4A8A07FDF4}" s:id="{E47303E0-90FD-4E81-B2B5-CA4E8C1C36B4}" s:ph="/page-layout/sidebar" /></d></r>
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20160211T155426Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160211T155426Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 17
+
+sitecore\Caroline
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a9115e21-415b-47e9-972a-c52d1586b0f0
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160715T155323Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{B1BAB248-FFB4-4295-9783-E8FE17E2FE34}
+----version----
+language: en
+version: 5
+revision: e47e6c91-05fd-4617-a19f-be29d1b10f22
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 28
+
+Trusts, Estates, and Tax Law
+----field----
+field: {AC3FD4DB-8266-476D-9635-67814D91E901}
+name: Summary
+key: summary
+content-length: 348
+
+<span>Chase Ridley’s attorneys have concentrated their practices on Trusts and Estates for more than 20 years. With all of this expertise, we know how to focus on clients’ personal concerns as well as their estate planning, tax, and litigation goals. Our top priority is to provide our clients with the customized service they need and want.</span>
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 1105
+
+<p><span>Chase Ridley’s estate planners advise individuals and families in connection with minimizing estate tax, gift tax, and tax burdens associated with the transfer of wealth between generations. We have extensive experience with designing and implementing sophisticated estate, valuation, and philanthropic planning techniques, including such planning vehicles as family limited partnerships and limited liability companies, grantor trusts, life insurance trusts, charitable lead and charitable remainder trusts, and other charitable planning devices. </span></p>
+<p><span>As a result of recent tax law changes, our planning strategies include full consideration of income tax basis and value appreciation in our clients’ various assets, and the potential for portability of our clients’ unused estate and gift tax exemptions. We also have expertise in tax planning and tax controversies, including representation in audits and tax court proceedings. We advise clients on all aspects of federal, state and local taxation issues, including estate, gift, GST, income, and property taxation.</span></p>
+----field----
+field: {9492E0BB-9DF9-46E7-8188-EC795C4ADE44}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{E8A054CA-AAC4-4D45-BB31-5B190441DED9}" />
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 28
+
+Trusts, Estates, and Tax Law
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 28
+
+Trusts, Estates, and Tax Law
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 209
+
+tax law, estate law, tax and estate planning, estate tax, gift tax, trusts, valuation, philanthropy planning, life insurance trusts, estat valuation, charitable trusts, estate planning strategies, tax planning
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 2590
+
+<r xmlns:p="p" xmlns:s="s" p:p="1" s:xsd="http://www.w3.org/2001/XMLSchema"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{A8124253-0B9D-4260-9AF7-CDB24F6840FC}" p:before="r[@uid='{F31AA027-2E39-41FE-9300-3A616D268D53}']" s:ds="{8CB3203A-3660-4F26-93B9-8E0B9DF6D8EB}" s:id="{EE5A9F3D-C2CB-4710-8053-04D1A7135EBE}" s:ph="/page-layout/section_c562f28e-8e19-4969-9cde-a3b59874a859/col-huge_f31aa027-2e39-41fe-9300-3a616d268d53" /><r uid="{F31AA027-2E39-41FE-9300-3A616D268D53}" p:before="r[@uid='{91D330BF-C31F-4E07-AC41-6DA2B169E9E2}']" s:id="{0AD8EC59-33EC-4103-AAD4-F3A49BFDB92C}" s:ph="/page-layout/section_c562f28e-8e19-4969-9cde-a3b59874a859" /><r uid="{91D330BF-C31F-4E07-AC41-6DA2B169E9E2}" p:before="r[@uid='{45126C1E-4A03-4E43-840C-245F25F60A5A}']" s:ds="{3D1C0597-EB53-4216-BA7C-215624C3A641}" s:id="{EBB6DC33-F281-49BE-B273-29ECCD6085A8}" s:ph="/page-layout/section_c562f28e-8e19-4969-9cde-a3b59874a859/col-narrow-3_276da1ae-95ff-4e05-afbc-ab3a205e03c5" /><r uid="{45126C1E-4A03-4E43-840C-245F25F60A5A}" p:before="r[@uid='{E6DA615D-6C3D-4BD2-AF07-50A2B2DC938F}']" s:ds="{B7264CE2-345E-4760-A3A8-619435E65A89}" s:id="{EBB6DC33-F281-49BE-B273-29ECCD6085A8}" s:ph="/page-layout/section_c562f28e-8e19-4969-9cde-a3b59874a859/col-narrow-2_276da1ae-95ff-4e05-afbc-ab3a205e03c5" /><r uid="{E6DA615D-6C3D-4BD2-AF07-50A2B2DC938F}" p:before="r[@uid='{276DA1AE-95FF-4E05-AFBC-AB3A205E03C5}']" s:ds="{1BEE7175-8126-4F1F-B0D3-1C0C3879795D}" s:id="{EBB6DC33-F281-49BE-B273-29ECCD6085A8}" s:ph="/page-layout/section_c562f28e-8e19-4969-9cde-a3b59874a859/col-narrow-1_276da1ae-95ff-4e05-afbc-ab3a205e03c5" /><r uid="{276DA1AE-95FF-4E05-AFBC-AB3A205E03C5}" p:before="r[@uid='{E6CA18D8-321D-4105-9C38-0622E94BE400}']" s:id="{7074CA39-734D-4953-A3D5-B7D09C37CE3B}" s:ph="/page-layout/section_c562f28e-8e19-4969-9cde-a3b59874a859" /><r uid="{C562F28E-8E19-4969-9CDE-A3B59874A859}" p:before="r[@uid='{66422117-69C1-4B62-9323-482F16C4F244}']" s:ds="" s:id="{1149A3C7-C69A-4E6B-A6C3-32687EC2F8D4}" s:par="UseStaticPlaceholderNames&amp;Type=bg-primary&amp;Media&amp;Parallax" s:ph="page-layout" /><r uid="{379C084A-87C6-4753-BBBE-BB133AEB21FB}" p:before="r[@uid='{565F9960-4E47-4DA4-9406-0A29DD09911F}']" s:ds="{25487901-D738-46CA-8113-DB1F5FF5FF9B}" s:id="{A1AD34DD-535E-47AF-A911-34C57CCC26F6}" s:ph="/page-layout/section/col-narrow-1" /><r uid="{90EF5CFE-D321-4217-B342-AF291B35F2C1}" p:before="r[@uid='{A3BAD4D4-8E21-4B30-8C4C-B04163653D62}']" s:ds="{6C120B9D-8923-43F3-A0C3-CC4A8A07FDF4}" s:id="{A25C9850-AAB7-46A6-84B7-0DFAB32FC357}" s:par="" s:ph="/page-layout/section/col-wide-1" /></d></r>
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20160211T160833Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160211T160833Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+e47e6c91-05fd-4617-a19f-be29d1b10f22
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160715T155323Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{B1BAB248-FFB4-4295-9783-E8FE17E2FE34}

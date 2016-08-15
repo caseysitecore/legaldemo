@@ -1,0 +1,111 @@
+----item----
+version: 1
+id: {4BBCFC3D-4A2D-4C11-9C91-3BAFB6D9CE05}
+database: master
+path: /sitecore/content/Consumer/Home/Practise Areas/Intellectual Property
+parent: {B992C547-0F18-47E5-8A13-11B9636EBF6B}
+name: Intellectual Property
+master: {00000000-0000-0000-0000-000000000000}
+template: {4B0A2893-4E7B-4248-86A9-DAB6DA3BB230}
+templatekey: Article
+created: 20160815T174854:636068801349600000
+
+----field----
+field: {B0A67B2A-8B07-4E0B-8809-69F751709806}
+name: __Tracking
+key: __tracking
+content-length: 324
+
+<tracking><profile id="{AD3B7C5C-5BDD-4000-91CF-57F7407F9050}" name="Legal Persona" presets="eric the entrepreneur|100||"><key name="Self-employed" value="5" /><key name="Large Corporate" value="1" /><key name="Legal trade" value="1" /><key name="Personal-Civil" value="1" /><key name="B2B" value="1" /></profile></tracking>
+----version----
+language: en
+version: 1
+revision: f116a568-f909-4d66-8bff-8e48e409cc7a
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 21
+
+Intellectual Property
+----field----
+field: {AC3FD4DB-8266-476D-9635-67814D91E901}
+name: Summary
+key: summary
+content-length: 427
+
+<span>Chase Ridley has one of the strongest Intellectual Property and digital media practices in the region. We represent a variety of clients (from small businesses and multi-billion dollar publicly traded companies, to professional service firms and individual consultants) in securing, protecting, and using Intellectual Property, and with handling complex issues involving technology, the internet, and social media.</span>
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 1903
+
+<span></span>
+<p style="margin-left: 13.5pt;"><span>Our Intellectual Property team routinely represents clients in handling complex Intellectual Property disputes, including prosecuting and defending claims involving patents, trademarks, copyrights, trade secrets, and competition disputes. We also have one of the Region’s’s strongest trademark and copyright practices—in which we register, manage, and protect trademarks and copyrights on a regular basis. In addition, we routinely counsel clients on strategies aimed at protecting and policing Intellectual Property and limiting liability and risk in the use of Intellectual Property. We also provide Intellectual Property rights counseling in corporate mergers and acquisitions and counseling venture capitalists and start-up companies on the contribution and protection of Intellectual Property.</span></p>
+<p style="margin-left: 13.5pt;"><span>Chase Ridley also has a special team dedicated to technology, focused on analyzing, negotiating, and writing agreements involving Intellectual Property, the internet, software development, and other technologies—including licensing agreements, acquisition, and partnership agreements, strategic alliances and joint ventures, outsourcing and manufacturing agreements, and development and tech support agreements. In addition, we have deep-level experience counseling clients in specialized issues involving ISV development, software, the internet, social media, and privacy, such as domain name acquisition and enforcement, and other emerging technology issues.</span></p>
+<p style="margin-left: 13.5pt;"><span>We represent clients from a wide array of industries in California (including technology consulting, software development, professional marketing and public relations, grocery chains, private universities, and gaming) in complex technology and intellectual property transactions.</span></p>
+----field----
+field: {9492E0BB-9DF9-46E7-8188-EC795C4ADE44}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{D46D0E55-FC52-4CB9-B4F4-2676D862462F}" />
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 21
+
+Intellectual Property
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 21
+
+Intellectual Property
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 99
+
+intellectual property, IP law, digital media IP, SMB, corporate, technology, internet, social media
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 2854
+
+<r xmlns:p="p" xmlns:s="s" p:p="1" s:xsd="http://www.w3.org/2001/XMLSchema"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><p uid="{3E58EA74-D8AB-48CC-9EDE-1EA7206FACB5}" p:before="r[@uid='{9CF3EA6D-5BBF-4CEA-BB16-A0095928B9C0}']" s:key="/page-layout/sidebar" s:md="/sitecore/layout/Placeholder Settings/Project/Legal/sidebar" /><r uid="{9CF3EA6D-5BBF-4CEA-BB16-A0095928B9C0}" p:before="r[@uid='{DFB09FE6-4B42-436F-A621-CAC6610F5B29}']" s:ds="{8CB3203A-3660-4F26-93B9-8E0B9DF6D8EB}" s:id="{EE5A9F3D-C2CB-4710-8053-04D1A7135EBE}" s:ph="/page-layout/section_374196a5-57f1-4286-b359-9eadbeed0dd7/col-huge_dfb09fe6-4b42-436f-a621-cac6610f5b29" /><r uid="{DFB09FE6-4B42-436F-A621-CAC6610F5B29}" p:before="r[@uid='{A619C7FE-74FC-45A2-A21B-5F3E195A62F7}']" s:id="{0AD8EC59-33EC-4103-AAD4-F3A49BFDB92C}" s:ph="/page-layout/section_374196a5-57f1-4286-b359-9eadbeed0dd7" /><r uid="{A619C7FE-74FC-45A2-A21B-5F3E195A62F7}" p:before="r[@uid='{A2BB2AEC-8E40-4DF4-A058-B25A407F1320}']" s:ds="{3D1C0597-EB53-4216-BA7C-215624C3A641}" s:id="{EBB6DC33-F281-49BE-B273-29ECCD6085A8}" s:ph="/page-layout/section_374196a5-57f1-4286-b359-9eadbeed0dd7/col-narrow-3_1a1dfb15-7368-443b-9e9b-48b6f98b43f6" /><r uid="{A2BB2AEC-8E40-4DF4-A058-B25A407F1320}" p:before="r[@uid='{51641A40-D88B-4F0D-98D1-6420053CB8A4}']" s:ds="{C9BFB6A6-5B20-42EF-82FD-E79CEC01CC80}" s:id="{EBB6DC33-F281-49BE-B273-29ECCD6085A8}" s:ph="/page-layout/section_374196a5-57f1-4286-b359-9eadbeed0dd7/col-narrow-2_1a1dfb15-7368-443b-9e9b-48b6f98b43f6" /><r uid="{51641A40-D88B-4F0D-98D1-6420053CB8A4}" p:before="r[@uid='{1A1DFB15-7368-443B-9E9B-48B6F98B43F6}']" s:ds="{17F0B1C7-0D17-4039-962D-6B5894DEF4DF}" s:id="{EBB6DC33-F281-49BE-B273-29ECCD6085A8}" s:ph="/page-layout/section_374196a5-57f1-4286-b359-9eadbeed0dd7/col-narrow-1_1a1dfb15-7368-443b-9e9b-48b6f98b43f6" /><r uid="{1A1DFB15-7368-443B-9E9B-48B6F98B43F6}" p:before="r[@uid='{E6CA18D8-321D-4105-9C38-0622E94BE400}']" s:id="{7074CA39-734D-4953-A3D5-B7D09C37CE3B}" s:ph="/page-layout/section_374196a5-57f1-4286-b359-9eadbeed0dd7" /><r uid="{374196A5-57F1-4286-B359-9EADBEED0DD7}" p:before="r[@uid='{66422117-69C1-4B62-9323-482F16C4F244}']" s:ds="" s:id="{1149A3C7-C69A-4E6B-A6C3-32687EC2F8D4}" s:par="UseStaticPlaceholderNames&amp;Type=bg-primary&amp;Media&amp;Parallax" s:ph="page-layout" /><r uid="{91613C40-5DCA-4509-A7FC-35727FF9E15A}" p:before="r[@uid='{565F9960-4E47-4DA4-9406-0A29DD09911F}']" s:ds="{BEEAFD65-59E5-4D72-BDFF-7BAEE75369BC}" s:id="{96EFEFFC-4D53-4F29-913E-84EDBFBE4DAB}" s:par="Background={ECCA6054-1534-4C34-AF46-7EB610433229}" s:ph="/page-layout/section/col-narrow-1" /><r uid="{B910B9ED-F242-489F-A7BA-4101DC639F2B}" p:before="r[@uid='{A3BAD4D4-8E21-4B30-8C4C-B04163653D62}']" s:ds="{3C9607A2-104E-4753-A88D-C575CFA478F1}" s:id="{A25C9850-AAB7-46A6-84B7-0DFAB32FC357}" s:par="" s:ph="/page-layout/section/col-wide-1" /></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20151223T142722Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+f116a568-f909-4d66-8bff-8e48e409cc7a
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160715T155323Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

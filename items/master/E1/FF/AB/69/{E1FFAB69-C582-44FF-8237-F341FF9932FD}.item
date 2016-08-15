@@ -1,0 +1,145 @@
+----item----
+version: 1
+id: {E1FFAB69-C582-44FF-8237-F341FF9932FD}
+database: master
+path: /sitecore/content/Consumer/Home/Our Team/Brenda Barkley
+parent: {1040CEC8-8CF1-46F6-A156-85608E2E4FE1}
+name: Brenda Barkley
+master: {00000000-0000-0000-0000-000000000000}
+template: {75E42A73-0AE1-44C5-AC04-C9D5C4568680}
+templatekey: Employee
+created: 20160815T174855:636068801351530000
+
+----field----
+field: {B0A67B2A-8B07-4E0B-8809-69F751709806}
+name: __Tracking
+key: __tracking
+content-length: 286
+
+<tracking><profile id="{AD3B7C5C-5BDD-4000-91CF-57F7407F9050}" name="Legal Persona"><key name="Self-employed" value="0" /><key name="Large Corporate" value="3" /><key name="Legal trade" value="5" /><key name="Personal-Civil" value="1" /><key name="B2B" value="3" /></profile></tracking>
+----version----
+language: en
+version: 1
+revision: 16fead14-b64b-4d61-8e8a-6b7d62f99621
+
+----field----
+field: {0CC9785E-54FE-4FAE-93E4-D0D2AE75F339}
+name: Biography
+key: biography
+content-length: 1460
+
+<p style="margin-left: 13.5pt;"><span>Brenda is a shareholder in the firm’s corporate law group. Brenda represents businesses from initial formation through all stages of growth, assisting clients in many areas including employment, shareholder and director-level contracts, corporate governance and other company issues. She also counsels clients with purchases and sales of businesses, with an emphasis on mergers and acquisitions and stock purchases across all business verticals. She represents all types of individuals and entities including corporations, general partnerships, limited partnerships, limited liability companies and limited liability partnerships. Brenda is a chair on the Business Law Section of the San Francisco County Bar.</span></p>
+<p style="margin-left: 13.5pt;"><span>Brenda also has deep-level experience helping companies in financing to fund both operations and expansion. These financing options have included unsecured loans and loans secured by personal property. Brenda has taught courses and regularly gives webcasts and webinars on the Uniform Commercial Code (UCC).</span></p>
+<p style="margin-left: 13.5pt;"><span>Brenda was named as one of the Top 100 Northern California Super Lawyers in 2012 and 2015, and was selected for inclusion in Northern California Super Lawyers for 2010, 2011, 2012, 2013, 2014, and 2015. She was also named one of the Top 25 San Francisco Super Lawyers for 2013, 2014, and 2015.</span></p>
+----field----
+field: {26CD59AB-3639-488F-BAFD-58D2B217755A}
+name: Name
+key: name
+content-length: 14
+
+Brenda Barkley
+----field----
+field: {76972FCD-4BB0-4255-864E-077745EFDF50}
+name: Title
+key: title
+content-length: 11
+
+Shareholder
+----field----
+field: {C9BAF3EB-8CFA-4BF6-9B19-51D38DB5FC38}
+name: Picture
+key: picture
+content-length: 64
+
+<image mediaid="{DBA76CC5-D35A-4527-9516-65D22ED35441}"></image>
+----field----
+field: {B897023C-15D2-49F3-8974-06FA5FB7AD00}
+name: Summary
+key: summary
+content-length: 173
+
+Brenda is a shareholder in the firm’s corporate law group. Brenda represents businesses from initial formation through all stages of growth, assisting clients in many areas.
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 14
+
+Brenda Barkley
+----field----
+field: {8D0E8EE3-21C4-4AE2-A2F1-53D3F3EBE501}
+name: Telephone
+key: telephone
+content-length: 15
+
++1-912-555-8873
+----field----
+field: {25B4CEE3-A61A-4DC3-BB52-775DD509DBB5}
+name: Mobile
+key: mobile
+content-length: 15
+
++1-912-555-2287
+----field----
+field: {5978B330-1D46-4065-8751-F74BF17D815E}
+name: Email
+key: email
+content-length: 25
+
+b.barkley@chaseridley.com
+----field----
+field: {0EE2F208-1FEE-42FC-8051-6696D49A92BF}
+name: OpenGraphTitle
+key: opengraphtitle
+content-length: 14
+
+Brenda Barkley
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 14
+
+Brenda Barkley
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 180
+
+Brenda Barkley, corporate law, business law, employment law, contracts, corporate governance, mergers and acquisitions, stock purchases, corporations, LLCs, partnerships, financing
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 858
+
+<r xmlns:p="p" xmlns:s="s" p:p="1" s:xsd="http://www.w3.org/2001/XMLSchema"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{747DC836-1880-4420-9083-CF8F212D470A}" p:before="r[@uid='{9253575D-0F36-43F2-BEBA-32DC0B3D4D57}']" s:ds="{FC989D9E-38A7-4279-A5CA-603DCDEA7DA2}" s:id="{A25C9850-AAB7-46A6-84B7-0DFAB32FC357}" s:ph="/footer/section/col-wide-1_22947452-8d2f-4bfd-bcbe-95d30a1cf01e" /><r uid="{9253575D-0F36-43F2-BEBA-32DC0B3D4D57}" p:before="r[@uid='{22947452-8D2F-4BFD-BCBE-95D30A1CF01E}']" s:ds="{96A6EC33-2398-4752-AA9E-4A3FDBB6606F}" s:id="{A1AD34DD-535E-47AF-A911-34C57CCC26F6}" s:ph="/footer/section/col-narrow-1_22947452-8d2f-4bfd-bcbe-95d30a1cf01e" /><r uid="{22947452-8D2F-4BFD-BCBE-95D30A1CF01E}" p:before="r[@uid='{07C9FE71-A5E2-4E5F-B276-5F2B73481D44}']" s:id="{E6D8107A-D811-4826-82BB-1A6279830C5A}" s:ph="/footer/section" /></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160106T172554Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+16fead14-b64b-4d61-8e8a-6b7d62f99621
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160715T155322Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

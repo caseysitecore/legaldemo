@@ -1,0 +1,93 @@
+----item----
+version: 1
+id: {322EEB79-409C-46F0-A62B-131A639C6CD8}
+database: master
+path: /sitecore/content/Consumer/Home/Landing Pages/Taxation Webinar/Thank You
+parent: {8F062A30-D3C8-4429-8957-005E63086EA7}
+name: Thank You
+master: {00000000-0000-0000-0000-000000000000}
+template: {9917C92B-0F13-4F96-B50B-84C874E25783}
+templatekey: Landing Page
+created: 20160815T174855:636068801351370000
+
+----version----
+language: en
+version: 1
+revision: b5f065d0-afd5-47e1-9228-e1d66947fd69
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 9
+
+Thank You
+----field----
+field: {AC3FD4DB-8266-476D-9635-67814D91E901}
+name: Summary
+key: summary
+content-length: 151
+
+Our servers are processing your request now. As soon as your request has been processed, we will send a confirmation email to the address you supplied.
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 808
+
+<p>We know you have in interest in tax webinars but there is much more to our site than that.</p>
+<p>Feel free to explore our site in any way you wish. However, if you would prefer something more structured, then we recommend the following.</p>
+<p>Explore our other free and paid for webinars in the links on this page.</p>
+<p>See the section of our site that specialises in <a href="~/link.aspx?_id=4793029852C843708FFC425648A1D627&_z=z">corporate law </a>- including corporate tax law.</p>
+<p>Look at our key staff on this page who specialise in corporate law and contact them if you have any questions.</p>
+<p>Read our related news items on this page or explore all news items on our news page.</p>
+<p>If you have any other questions, please do not hesitate to contact us using our contact form.</p>
+----field----
+field: {9492E0BB-9DF9-46E7-8188-EC795C4ADE44}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{B5284895-61BD-4FB4-B70E-A5DA4761C4C7}" />
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 29
+
+Thank You For Requesting Info
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 2591
+
+<r xmlns:p="p" xmlns:s="s" p:p="1" s:xsd="http://www.w3.org/2001/XMLSchema"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{39DB80E5-BD4E-4809-ACDC-A75AD5D15CEB}" p:before="r[@uid='{AD9DC6CD-27E7-4E44-8964-D8AF3BDFBEBF}']" s:ds="{8235F890-E581-4F79-8ACF-B04F90CCC0DD}" s:id="{BDD730EB-F808-4C65-B94A-D2F03672EAFB}" s:ph="/page-layout/section/col-narrow-1" /><r uid="{AD9DC6CD-27E7-4E44-8964-D8AF3BDFBEBF}" p:before="r[@uid='{A65C0604-BE85-4247-B359-281B72D4372D}']" s:ds="{1A3E8B69-309B-48F8-BBBD-15FA276B14DB}" s:id="{E47303E0-90FD-4E81-B2B5-CA4E8C1C36B4}" s:ph="/page-layout/section/section-narrow/col-wide-2_35324f54-4892-4052-8f47-e552d1e8b5d6" /><r uid="{A65C0604-BE85-4247-B359-281B72D4372D}" p:before="r[@uid='{35324F54-4892-4052-8F47-E552D1E8B5D6}']" s:ds="{DE787636-D111-4B9B-BC4A-35CDD3A2C1A2}" s:id="{E47303E0-90FD-4E81-B2B5-CA4E8C1C36B4}" s:ph="/page-layout/section/section-narrow/col-wide-1_35324f54-4892-4052-8f47-e552d1e8b5d6" /><r uid="{35324F54-4892-4052-8F47-E552D1E8B5D6}" p:before="r[@uid='{70D4FE16-8241-4E36-8B00-7481C27763BC}']" s:id="{50F6052C-4FC2-4AA6-9399-FFC6055CF19F}" s:ph="/page-layout/section/section-narrow" /><r uid="{70D4FE16-8241-4E36-8B00-7481C27763BC}" p:before="r[@uid='{34BE0A78-C74C-4CDE-82B9-42C03E85EC75}']" s:ds="{F84917ED-9ACA-4A6F-B65F-00E6B209D371}" s:id="{EBB6DC33-F281-49BE-B273-29ECCD6085A8}" s:ph="/page-layout/section_6d720859-144a-4afd-a8bd-1653eae90cd7/col-narrow-3_c05aef62-1841-48d5-9f25-996fbc27cc33" /><r uid="{34BE0A78-C74C-4CDE-82B9-42C03E85EC75}" p:before="r[@uid='{649AE820-68C7-4225-ADA6-EDDFF939982E}']" s:ds="{C9BFB6A6-5B20-42EF-82FD-E79CEC01CC80}" s:id="{EBB6DC33-F281-49BE-B273-29ECCD6085A8}" s:ph="/page-layout/section_6d720859-144a-4afd-a8bd-1653eae90cd7/col-narrow-2_c05aef62-1841-48d5-9f25-996fbc27cc33" /><r uid="{649AE820-68C7-4225-ADA6-EDDFF939982E}" p:before="r[@uid='{C05AEF62-1841-48D5-9F25-996FBC27CC33}']" s:ds="{17F0B1C7-0D17-4039-962D-6B5894DEF4DF}" s:id="{EBB6DC33-F281-49BE-B273-29ECCD6085A8}" s:ph="/page-layout/section_6d720859-144a-4afd-a8bd-1653eae90cd7/col-narrow-1_c05aef62-1841-48d5-9f25-996fbc27cc33" /><r uid="{C05AEF62-1841-48D5-9F25-996FBC27CC33}" p:before="r[@uid='{E6CA18D8-321D-4105-9C38-0622E94BE400}']" s:id="{7074CA39-734D-4953-A3D5-B7D09C37CE3B}" s:ph="/page-layout/section_6d720859-144a-4afd-a8bd-1653eae90cd7" /><r uid="{6D720859-144A-4AFD-A8BD-1653EAE90CD7}" p:before="r[@uid='{189D7C2D-4A94-40BF-8FAF-AF8A81AA81CB}']" s:ds="" s:id="{1149A3C7-C69A-4E6B-A6C3-32687EC2F8D4}" s:par="UseStaticPlaceholderNames&amp;Type=bg-primary&amp;Media&amp;Parallax" s:ph="page-layout" /></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160229T152359Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+b5f065d0-afd5-47e1-9228-e1d66947fd69
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160715T155324Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn

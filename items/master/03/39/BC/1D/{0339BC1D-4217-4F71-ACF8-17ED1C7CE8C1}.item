@@ -1,0 +1,115 @@
+----item----
+version: 1
+id: {0339BC1D-4217-4F71-ACF8-17ED1C7CE8C1}
+database: master
+path: /sitecore/content/Consumer/Home/About Us/Privacy Policy
+parent: {48D0E175-B62A-47BB-9BE1-57DC3CCF9EA1}
+name: Privacy Policy
+master: {00000000-0000-0000-0000-000000000000}
+template: {4B0A2893-4E7B-4248-86A9-DAB6DA3BB230}
+templatekey: Article
+created: 20160815T174855:636068801355800000
+
+----field----
+field: {5585A30D-B115-4753-93CE-422C3455DEB2}
+name: ShowInNavigation
+key: showinnavigation
+content-length: 1
+
+0
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{E2A658AB-B142-4AD9-AACA-C69200622F44}
+----version----
+language: en
+version: 1
+revision: 10086288-aee4-47f8-9781-86102f42fbef
+
+----field----
+field: {C30A013F-3CC8-4961-9837-1C483277084A}
+name: Title
+key: title
+content-length: 14
+
+Privacy Policy
+----field----
+field: {AC3FD4DB-8266-476D-9635-67814D91E901}
+name: Summary
+key: summary
+content-length: 32
+
+Your information is safe with us
+----field----
+field: {D74F396D-5C5E-4916-BD0A-BFD58B6B1967}
+name: Body
+key: body
+content-length: 4020
+
+<p>This Privacy Policy describes the information that we collect through our website www.chaseridley.com and how we use that information. If you have any questions or comments about this Privacy Policy or your personal information, please contact us at info@chaseridley.com.</p>
+<p>In general, you do not have to provide personal information to use this website. However, certain services which you may subscribe for through this website (for instance, firm mailings) may require you to provide personal information, such as your name, address, email address and other contact information. We use such personal information to respond to your inquiries and to send you newsletters or publications that you request. You may also receive other mailings relating to Chase Ridley seminars or events that we think may be of interest to you.</p>
+<p>In addition, incidental to your use of this website, our web server automatically logs certain information such as the name of your internet service provider, the IP address of the computer you are using, the type of browser software and operating system that you use, the date and time you access our website, the website address, if any, from which you linked directly to our website, the website address, if any, to which you travel from our website, and other similar traffic-related information. We may also aggregate information relating to your and other visitors’ traffic patterns. We use the foregoing information to help us improve the website and the services that we provide through the website. We do not use such data in any way to create or maintain a personal profile of you or collect personal information from you.</p>
+<p>Generally, we will not disclose information we collect through your use of the website to third parties. We reserve the right, however, to provide such information to our employees, contractors, agents, and designees to the extent necessary to enable them to perform certain website-related services (e.g., web hosting or maintenance services) on our behalf. We also reserve the right to disclose such information to any third party if we believe that we are required to do so for any or all of the following reasons: (i) by law; (ii) to comply with legal processes or governmental requests; (iii) to prevent, investigate, detect or prosecute criminal offences or attacks on the technical integrity of the web site or our network; and/or (iv) to protect the rights, property, or safety of Chase Ridley, the users of the website, or the public.</p>
+<p>We do not use cookies on our web site to collect information on or from our users.</p>
+<p>If you would like to change your personal information, or if you no longer wish to receive materials from us or want your personal information removed from our firm’s database, please contact us at info@chaseridley.com. Alternatively, when you receive materials from us by e-mail or other communications you can make use of the “opt out” provision in such communications so that we know that you no longer wish to receive such materials from us.</p>
+<p>The internet and the benefits it offers are evolving rapidly, as are the ways in which people use the internet and the laws surrounding such use. Chase Ridley therefore reserves the right to update and revise this Privacy Policy at any time. You can determine if this Privacy Policy has been revised by sending an e-mail to info@chaseridley.com. Your use of our website constitutes your acceptance of the terms of the Privacy Policy as amended or revised by us, and you should therefore review this Privacy Policy regularly to ensure that you are aware of its terms.</p>
+<p>This website contains links to other sites. Please be aware that we are not and cannot be responsible for the privacy practices of such other sites and that this Privacy Policy applies solely to the information which we collect through this website. We encourage you to ensure that you read the privacy statements of all the destination sites which you visit.</p>
+----field----
+field: {1B483E91-D8C4-4D19-BA03-462074B55936}
+name: NavigationTitle
+key: navigationtitle
+content-length: 14
+
+Privacy Policy
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 14
+
+Privacy Policy
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 860
+
+<r xmlns:p="p" xmlns:s="s" p:p="1" s:xsd="http://www.w3.org/2001/XMLSchema"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{CC0BB38F-50A2-4430-B8C4-CABB7EAE237B}" p:before="r[@uid='{71DBBDD2-81BA-4850-A856-EE0F9CA3EE48}']" s:ds="{0BC92115-528D-4784-B9C2-9EB422C0C5CB}" s:id="{FDFCD088-3C9E-49C4-97FF-2DDE5D339BA0}" s:ph="/page-layout/section/col-narrow-1" /><r uid="{71DBBDD2-81BA-4850-A856-EE0F9CA3EE48}" p:before="r[@uid='{8FAAA77F-12C4-4B9E-9F5B-56C797709F1C}']" s:ds="{43C5E36C-C606-44D4-981E-0072038BDB02}" s:id="{FDFCD088-3C9E-49C4-97FF-2DDE5D339BA0}" s:ph="/page-layout/section/col-narrow-1" /><r uid="{8FAAA77F-12C4-4B9E-9F5B-56C797709F1C}" p:before="r[@uid='{565F9960-4E47-4DA4-9406-0A29DD09911F}']" s:ds="{2AE21DEF-82EC-403E-A8A8-16761CF85995}" s:id="{E47303E0-90FD-4E81-B2B5-CA4E8C1C36B4}" s:ph="/page-layout/section/col-narrow-1" /></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160225T100814Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+10086288-aee4-47f8-9781-86102f42fbef
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160715T155322Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{FF21E8D4-EB3D-400E-83CB-34065712FC18}

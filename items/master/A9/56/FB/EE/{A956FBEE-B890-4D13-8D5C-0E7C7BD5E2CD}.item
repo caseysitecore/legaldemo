@@ -1,0 +1,115 @@
+----item----
+version: 1
+id: {A956FBEE-B890-4D13-8D5C-0E7C7BD5E2CD}
+database: master
+path: /sitecore/content/Consumer/Home/News/2016/01/07/14/56/Content Marketing Strategies for Law Firms
+parent: {108083D7-041C-4296-B2FF-32E04915F664}
+name: Content Marketing Strategies for Law Firms
+master: {00000000-0000-0000-0000-000000000000}
+template: {BB6A204D-2B9E-46CA-82CD-00751803B03E}
+templatekey: News Article
+created: 20160815T174855:636068801353870000
+
+----field----
+field: {C464D2D7-3382-428A-BCDF-0963C60BA0E3}
+name: NewsDate
+key: newsdate
+content-length: 16
+
+20160105T000000Z
+----field----
+field: {B0A67B2A-8B07-4E0B-8809-69F751709806}
+name: __Tracking
+key: __tracking
+content-length: 286
+
+<tracking><profile id="{AD3B7C5C-5BDD-4000-91CF-57F7407F9050}" name="Legal Persona"><key name="Self-employed" value="0" /><key name="Large Corporate" value="0" /><key name="Legal trade" value="5" /><key name="Personal-Civil" value="3" /><key name="B2B" value="5" /></profile></tracking>
+----version----
+language: en
+version: 1
+revision: ec0ae6e0-0648-47da-9327-0e11534a8634
+
+----field----
+field: {BD9ECD4A-C0B0-4233-A3CD-D995519AC87B}
+name: NewsTitle
+key: newstitle
+content-length: 42
+
+Content Marketing Strategies for Law Firms
+----field----
+field: {3437EAAC-6EE8-460B-A33D-DA1F714B5A93}
+name: NewsImage
+key: newsimage
+content-length: 58
+
+<image mediaid="{57354CF8-8CB8-4729-BEE3-9CD84C74AC8C}" />
+----field----
+field: {9D08271A-1672-44DD-B7EF-0A6EC34FCBA7}
+name: NewsSummary
+key: newssummary
+content-length: 218
+
+<span>Content is no longer an optional part of a law firm’s strategy. If you don’t have uniquely branded content your SEO, social media and public relations strategies will suffer greatly. It’s time to prepare! </span>
+----field----
+field: {801612C7-5E98-4E3C-80D2-A34D0EEBCBDA}
+name: NewsBody
+key: newsbody
+content-length: 3633
+
+<p><span>Right now there are more ways to communicate with potential clients and referral sources than ever before. This, in part, is thanks to content marketing. By now most firms realize that creating a content marketing strategy that is relevant, engaging and social can make a huge difference in your legal marketing strategy. Simply stated, content marketing is a way to leverage interesting and valuable content and use it for promotional purposes across multiple channels. Savvy lawyers and law firms are using it as a means of increasing awareness, establishing influence, providing useful information and shaping their firm&rsquo;s story. Content marketing allows law firms to create and control their own message and distribute it in a highly effective way.</span></p>
+<p><em><span>Here are a few ways your firm can leverage the current PR/content marketing landscape to create a successful campaign:</span></em></p>
+<p><strong><span>Publish your own content</span></strong><span>. Today there is an arsenal of self-publishing platforms, including blogs, video and social share tools. For example, if your firm has a big announcement to make, instead of blasting out a press release and hoping that the media picks it up, consider creating a short video with the managing partner on what the news means for clients and post it to the firm website or YouTube page. The link can also be shared via email, LinkedIn, Facebook, Twitter, etc.</span></p>
+<p><strong><span>Repurpose and share.</span></strong><span> With every piece of content created, it&rsquo;s essential to ask: How can its visibility be maximized among target audiences? Perhaps a blog entry can be repurposed as an email alert to clients or enhanced to become a bylined article for publication. Make sure that every piece of content is shared with the firm&rsquo;s social media followers by posting to the firm&rsquo;s Facebook, Twitter and LinkedIn pages, as well as the personal pages of relevant attorneys</span></p>
+<p><strong><span>Integrate for impact</span></strong><span>. As the lines blur between &ldquo;traditional&rdquo; and &ldquo;social&rdquo; media, it is more important than ever to incorporate public relations and content development into the overall marketing plan for your firm. Public relations cannot live in a silo; rather, it should be weaved into the overall marketing strategy to help tell a broader story. The opportunity with content marketing is to really leverage &ldquo;earned&rdquo; and social media to fuel other parts of your firm&rsquo;s marketing program.</span></p>
+<p><strong><span>Make a connection.</span></strong><span> Content marketing is an excellent opportunity to not only position attorneys as subject matter experts, but also showcase personalities and unique styles. Ensuring that the personality of your firm or specific attorneys comes across in your content will help forge relationships even before an initial meeting.</span></p>
+<p><strong><span>Make it &ldquo;shareworthy.&rdquo;</span></strong><span> Shareworthy content takes things a step further and not only encourages people to read it, but also share it with their own networks, greatly increasing your exposure in the process.</span></p>
+<p><span>In today&rsquo;s fragmented media landscape, it is more challenging than ever to differentiate your firm&rsquo;s brand. Having a good content marketing strategy can help by plugging your firm directly into the conversation and providing information target audiences want. Used effectively, content marketing can help increase long-term visibility and deliver real business results.</span></p>
+----field----
+field: {CA0479CE-0BFE-4522-83DE-BA688B380A78}
+name: BrowserTitle
+key: browsertitle
+content-length: 42
+
+Content Marketing Strategies for Law Firms
+----field----
+field: {BB7A38C0-323C-4F81-8EB9-288ABF7C4638}
+name: MetaDescription
+key: metadescription
+content-length: 74
+
+Legal trends, legal marketing strategy, content marketing, branded content
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160107T145626Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ec0ae6e0-0648-47da-9327-0e11534a8634
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160715T155324Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 16
+
+sitecore\unicorn
