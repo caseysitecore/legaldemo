@@ -118,15 +118,15 @@ content-length: 38
 ----version----
 language: en
 version: 2
-revision: 10f64e74-ecab-4b3e-bfba-176ea9bce74b
+revision: 0027ee20-af71-48ea-9b81-a6c7dd31d79f
 
 ----field----
 field: {C30A013F-3CC8-4961-9837-1C483277084A}
 name: Title
 key: title
-content-length: 24
+content-length: 17
 
-Corporate Finance Change
+Corporate Finance
 ----field----
 field: {AC3FD4DB-8266-476D-9635-67814D91E901}
 name: Summary
@@ -198,14 +198,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-10f64e74-ecab-4b3e-bfba-176ea9bce74b
+0027ee20-af71-48ea-9b81-a6c7dd31d79f
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160815T172721Z
+20160815T172937Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
